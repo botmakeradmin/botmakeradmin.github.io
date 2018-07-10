@@ -42,7 +42,9 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 - Definido seu público, agora, você fará a programação da Data e Horário para a sua mensagem ser disparada.
 
-- E, por fim, você definirá qual será a mensagem a ser enviada! Pode ser um texto, 
+- E, por fim, você definirá qual será a mensagem a ser enviada! Ela poderá ser: 
+	- um texto:
+	- um botão: ao adicionar um "**+Botão**", será possível adicionar botões *a
 
  
 
@@ -50,5 +52,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUxMTc1NiwtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbLTczMDEyMTg2MSwtMTAyMzU2NTcxNV19
 -->
