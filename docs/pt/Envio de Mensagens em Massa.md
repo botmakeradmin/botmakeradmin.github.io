@@ -36,13 +36,15 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 > Ele servirá apenas para identificá-lo na plataforma, não será visível para os que receberem a notificação.
 
-- Em "Audiência" será definido quais usuários receberão a mensagem 
+- Em "Audiência" será definido quais usuários receberão a mensagem. Você poderá segmentar seu público adicionando condições.
+
+> Note que a medida em que você ad
+
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMyNTAxMjcsLTEwMjM1NjU3MTVdfQ
-==
+eyJoaXN0b3J5IjpbMTg3NzkwMzM1MiwtMTAyMzU2NTcxNV19
 -->
