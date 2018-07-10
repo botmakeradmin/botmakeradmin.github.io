@@ -3,8 +3,18 @@
 
 ---
 
-<h1 id="cadastro-e-administração-de-usuários">Cadastro e Administração de Usuários</h1>
-<p>Olá! Aqui, vamos aprender como criar uma conta BotMaker e administrar operadores do seu bot.</p>
+# Cadastro e Administração de Usuários
+
+Olá! Aqui, vamos aprender como criar uma conta BotMaker e administrar operadores do seu bot.
+
+## Criar uma conta
+
+here an image
+
+![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
+
+
+<p></p>
 <h2 id="criar-uma-conta">Criar uma conta</h2>
 <p>Para criar uma conta na BotMaker, deve-se acessar o seguinte link:</p>
 <ul>
