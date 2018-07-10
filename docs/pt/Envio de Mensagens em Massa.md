@@ -30,11 +30,12 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 3. Para criar um novo Push, clique em "**Criar Novo**", aparecerá uma janela como essa:
 
-4. Você pode dar um nome ao Push editando-o no campo "Nova mensagem".
+4. Editando um Push: 
+a. Você pode dar um nome ao Push editando-o no campo "Nova mensagem".
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjM1NjU3MTVdfQ==
+eyJoaXN0b3J5IjpbLTcwNjkwOTI1MiwtMTAyMzU2NTcxNV19
 -->
