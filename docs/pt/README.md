@@ -9,8 +9,8 @@ sa@
 # sdsad
 
 oi Gabriel
-![](https://raw.githubusercontent.com/miaolz123/samaritan/master/docs/_media/add-exchange.png)
+![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/msteams.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MTY1MjY3LC0yNjg0ODg1NzIsMTU4ND
-E1NzE0Miw5NjA2ODkxMDBdfQ==
+eyJoaXN0b3J5IjpbMTgxOTM3NjMxOCwtMjY4NDg4NTcyLDE1OD
+QxNTcxNDIsOTYwNjg5MTAwXX0=
 -->
