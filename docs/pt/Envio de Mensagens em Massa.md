@@ -26,11 +26,14 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
  2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
  
- 3.  
+
+> Note que você poderá editar um push, duplicá-lo (para gerar um novo baseado no atual), eliminar o push
+
+ 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4NTYwNjU4XX0=
+eyJoaXN0b3J5IjpbLTE0NzU4MTgyNTVdfQ==
 -->
