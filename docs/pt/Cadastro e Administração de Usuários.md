@@ -8,9 +8,12 @@ Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
 
  - [**go.botmaker.com**](go.botmaker.com)
 
-  ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
+  ![Página Inicial](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
  
 Você pode se cadastrar através de seu email Google (e outros) e também com seu perfil do Facebook.
+
+![Cadastro por Email]
+(https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
 
 Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Super Administrador conecte sua conta ao bot correspondente.
 
@@ -45,7 +48,7 @@ Se você deseja editar a função de um usuário já cadastrado no bot, deve-se 
 Assim que encontrado o usuário, deve-se clicar em “**Editar**” e fazer a alteração necessária.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MDgzMDI4LDEzNzExMzQzOSwxNzY5Nz
-QyMjAxLC00OTAyNTYxOTYsMTYwMDY3NTE0MywtNDkwMjU2MTk2
-XX0=
+eyJoaXN0b3J5IjpbODU1OTAxNzE5LDQxNDA4MzAyOCwxMzcxMT
+M0MzksMTc2OTc0MjIwMSwtNDkwMjU2MTk2LDE2MDA2NzUxNDMs
+LTQ5MDI1NjE5Nl19
 -->
