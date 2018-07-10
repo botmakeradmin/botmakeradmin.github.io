@@ -33,9 +33,13 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 4. Editando um Push: 
 a. Você pode dar um nome ao Push editando-o no campo "Nova mensagem".
 
+> Ele servirá apenas para identificá-lo na plataforma, não será visível para os que receberem a notificação.
+
+b. 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjkwOTI1MiwtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbMTUyNjQ0MTMzNywtMTAyMzU2NTcxNV19
 -->
