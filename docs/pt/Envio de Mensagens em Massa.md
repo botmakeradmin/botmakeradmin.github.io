@@ -17,14 +17,11 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
  - Audiências customizadas por atributos (sexo, canal, preferências, etc); 
  - Programação de data e horário para envio da notificação;
-   Suporte para mensagens com elementos de mídia (vídeos, áudios,
-   imagens, GIFs, emojis e arquivos); Envio de mensagens com Menus de
-   opções para realização de pesquisas ou obtenção de dados em
-   formulário.
+ - Suporte para mensagens com elementos de mídia (vídeos, áudios, imagens, GIFs, emojis e arquivos); 
+ - Envio de mensagens com Menus de opções para realização de pesquisas ou obtenção de dados em formulário.
 
-<h1 id="como-usar">Como usar?</h1>
-<h3 id="heading">Heading</h3>
+## Como usar?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDI5NjQ5OV19
+eyJoaXN0b3J5IjpbLTEyNzY5OTMxNzFdfQ==
 -->
