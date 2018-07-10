@@ -38,7 +38,7 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 - Em "Audiência" será definido quais usuários receberão a mensagem. Você poderá segmentar seu público adicionando condições.
 
-> Note que a medida em que você ad
+> Note que a medida em que você adicionar ou remover condições, o número de usuários que serão alcançados será alterado.
 
  
 
@@ -46,5 +46,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzkwMzM1MiwtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbMTMzNDM5NDQ4NywtMTAyMzU2NTcxNV19
 -->
