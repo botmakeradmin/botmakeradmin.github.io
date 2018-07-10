@@ -16,6 +16,8 @@ Você pode se cadastrar através de seu email Google (e outros) e também com se
 
 Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Super Administrador conecte sua conta ao bot correspondente.
 
+![Conta Criada](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/ContaCriada.png)
+
 > Para isso, é importante que você envie o endereço de email utilizado para criar sua conta para um usuário com perfil de Super Administrador. Assim, ele conseguirá te conceder acesso.
 
 ## Adicionar usuários ao Bot
