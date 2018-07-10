@@ -34,16 +34,18 @@ No popup que aparecerá, deve-se colocar manualmente o endereço de email dos no
  - **Configurador**: dado a usuários com tarefas referentes ao gerenciamento de conversas e configuração geral do bot.
  - **Super Administrador**: dado a usuários com tarefas referentes ao gerenciamento de conversas, configuração geral do bot e administração de usuários.
 
-Assim que o usuário a ser adicionado for assignado ao seu papel, clicar em “<strong>Save</strong>”.</p>
-<h2 id="editar-a-função-de-um-usuário">Editar a função de um usuário</h2>
-<p>Se você deseja editar a função de um usuário já cadastrado no bot, deve-se achar o perfil a ser modificado.</p>
-<blockquote>
-<p>Para isso, pode-se filtrar através dos botões localizados no canto superior direito, eles são: Pesquisar por Nome, Ordenar por Ordem Alfabética ou Filtrar por Função.</p>
-</blockquote>
-<p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
+Assim que o usuário a ser adicionado for assignado ao seu papel, clicar em “**Save**"
+
+## Editar a função de um usuário
+
+Se você deseja editar a função de um usuário já cadastrado no bot, deve-se achar o perfil a ser modificado.
+
+> Para isso, pode-se filtrar através dos botões localizados no canto superior direito, eles são: Pesquisar por Nome, Ordenar por Ordem Alfabética ou Filtrar por Função.
+
+Assim que encontrado o usuário, deve-se clicar em “**Editar**” e fazer a alteração necessária.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjAxODQyMywxMzcxMTM0MzksMTc2OT
-c0MjIwMSwtNDkwMjU2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5
-Nl19
+eyJoaXN0b3J5IjpbNDE0MDgzMDI4LDEzNzExMzQzOSwxNzY5Nz
+QyMjAxLC00OTAyNTYxOTYsMTYwMDY3NTE0MywtNDkwMjU2MTk2
+XX0=
 -->
