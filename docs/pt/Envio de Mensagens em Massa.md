@@ -26,14 +26,13 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
  2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
  
+> Note que você poderá, através dos botões, editar um push, duplicá-lo (para gerar um novo baseado no atual), eliminar o push ou desabilitá-lo (não será enviado quando chegar ao horário programado).
 
-> Note que você poderá editar um push, duplicá-lo (para gerar um novo baseado no atual), eliminar o push
-
- 
+3.  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU4MTgyNTVdfQ==
+eyJoaXN0b3J5IjpbMTA5MDAzODcwNl19
 -->
