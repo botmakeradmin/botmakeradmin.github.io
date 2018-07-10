@@ -4,15 +4,16 @@ Olá! Aqui, vamos aprender como enviar mensagens em massa para seus usuários, c
 
 A BotMaker permite criar perfis de audiência customizadas para envio de mensagens, útil para:
 
-Envio de publicidade;
-Anúncio de novidades de produtos e serviços;
-Pesquisas sobre produtos e serviços;</li>
-<li>Anúncio de novas funcionalidades do bot;</li>
-<li>Solicitação de preenchimento de formulários;</li>
-<li>Oferecimento de inscrição a novidades.</li>
-</ul>
-<h1 id="possibilidades">Possibilidades</h1>
-<p>Podemos usar as seguintes variantes e configurações para o envios de mensagens em massa através da plataforma:</p>
+ - Envio de publicidade; 
+ - Anúncio de novidades de produtos e serviços;
+ - Pesquisas sobre produtos e serviços; 
+ - Anúncio de novas funcionalidades do bot; 
+ - Solicitação de preenchimento de formulários;
+ - Oferecimento de inscrição a novidades.
+
+## Possibilidades
+
+Podemos usar as seguintes variantes e configurações para o envios de mensagens em massa através da plataforma:</p>
 <ul>
 <li>Audiências customizadas por atributos (sexo, canal, preferências, etc);</li>
 <li>Programação de data e horário para envio da notificação;</li>
@@ -23,5 +24,5 @@ Pesquisas sobre produtos e serviços;</li>
 <h3 id="heading">Heading</h3>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAxNDc0NDBdfQ==
+eyJoaXN0b3J5IjpbOTIyMTYwOTUxXX0=
 -->
