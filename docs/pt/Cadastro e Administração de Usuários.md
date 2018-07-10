@@ -24,8 +24,10 @@ Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administ
  2. Configurações; 
  3. Funções de usuários.
 
-Uma vez na seção, o Super Administrador deverá clicar no botão +</strong>”, no canto inferior direito.</p>
-<p>No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “<strong>Adicionar</strong>”.</p>
+Uma vez na seção, o Super Administrador deverá clicar no botão "**+**", no canto inferior direito.
+
+No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “**Adicionar**”.
+
 <h3 id="as-funções-disponíveis-são">As funções disponíveis são:</h3>
 <ul>
 <li>
@@ -47,7 +49,7 @@ Uma vez na seção, o Super Administrador deverá clicar no botão +</strong>”
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMyNjI3MSwxMzcxMTM0MzksMTc2OT
+eyJoaXN0b3J5IjpbLTQ0MzE5NjkxMSwxMzcxMTM0MzksMTc2OT
 c0MjIwMSwtNDkwMjU2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5
 Nl19
 -->
