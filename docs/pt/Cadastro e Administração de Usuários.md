@@ -28,10 +28,9 @@ Uma vez na seção, o Super Administrador deverá clicar no botão "**+**", no c
 
 No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “**Adicionar**”.
 
-<h3 id="as-funções-disponíveis-são">As funções disponíveis são:</h3>
-<ul>
-<li>
-<p><strong>Operador</strong>: dado a usuários com tarefas referentes ao gerenciamento de conversas.</p>
+## As funções disponíveis são:
+
+**Operador**: dado a usuários com tarefas referentes ao gerenciamento de conversas.</p>
 </li>
 <li>
 <p><strong>Configurador</strong>:	dado a usuários com tarefas referentes ao gerenciamento de conversas e configuração geral do bot.</p>
@@ -49,7 +48,7 @@ No popup que aparecerá, deve-se colocar manualmente o endereço de email dos no
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MzE5NjkxMSwxMzcxMTM0MzksMTc2OT
-c0MjIwMSwtNDkwMjU2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5
-Nl19
+eyJoaXN0b3J5IjpbLTc1MTM3MzY1LDEzNzExMzQzOSwxNzY5Nz
+QyMjAxLC00OTAyNTYxOTYsMTYwMDY3NTE0MywtNDkwMjU2MTk2
+XX0=
 -->
