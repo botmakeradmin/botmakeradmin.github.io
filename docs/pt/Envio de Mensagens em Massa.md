@@ -45,7 +45,7 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 - E, por fim, você definirá qual será a mensagem a ser enviada! Ela poderá ser: 
 	- um texto: ao adicionar um "**+Texto**", será possível digitar uma mensagem de texto.
 	
-	- uma ação: ao adicionar uma "**+Botão**", será possível adicionar botões (até 3) com opções de clique - abrir um link ou disparar uma regra do Bot;
+	- uma ação: ao adicionar uma "**+Ação**", será possível disparar uma regra do Bot, roteirizar um Q;
 
  
 
@@ -53,6 +53,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg1NDQ0NDEsLTEwMjM1NjU3MTVdfQ
-==
+eyJoaXN0b3J5IjpbLTYyMzQxNjQyMywtMTAyMzU2NTcxNV19
 -->
