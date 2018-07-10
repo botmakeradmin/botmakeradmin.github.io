@@ -16,7 +16,7 @@ Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Sup
 
 > Para isso, é importante que você envie o endereço de email utilizado para criar sua conta para um usuário com perfil de Super Administrador. Assim, ele conseguirá te conceder acesso.
 
-<h2 id="adicionar-usuários-ao-bot">Adicionar usuários ao Bot</h2>
+Adicionar usuários ao Bot</h2>
 <p>Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administrador deverá acessar a plataforma BotMaker e dirigir-se à:</p>
 <ol>
 <li>Menu;</li>
@@ -46,6 +46,7 @@ Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Sup
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTEzNDM5LDE3Njk3NDIyMDEsLTQ5MD
-I1NjE5NiwxNjAwNjc1MTQzLC00OTAyNTYxOTZdfQ==
+eyJoaXN0b3J5IjpbMTMyODk1MDI2LDEzNzExMzQzOSwxNzY5Nz
+QyMjAxLC00OTAyNTYxOTYsMTYwMDY3NTE0MywtNDkwMjU2MTk2
+XX0=
 -->
