@@ -36,12 +36,13 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 > Ele servirá apenas para identificá-lo na plataforma, não será visível para os que receberem a notificação.
 
-- 
+- Em "Audiência" será definido quais usuários receberão a mensagem 
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNDk1MDc0LC0xMDIzNTY1NzE1XX0=
+eyJoaXN0b3J5IjpbLTE4MDMyNTAxMjcsLTEwMjM1NjU3MTVdfQ
+==
 -->
