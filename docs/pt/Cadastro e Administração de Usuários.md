@@ -16,14 +16,15 @@ Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Sup
 
 > Para isso, é importante que você envie o endereço de email utilizado para criar sua conta para um usuário com perfil de Super Administrador. Assim, ele conseguirá te conceder acesso.
 
-Adicionar usuários ao Bot</h2>
-<p>Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administrador deverá acessar a plataforma BotMaker e dirigir-se à:</p>
-<ol>
-<li>Menu;</li>
-<li>Configurações;</li>
-<li>Funções de usuários.</li>
-</ol>
-<p>Uma vez na seção, o Super Administrador deverá clicar no botão “<strong>+</strong>”, no canto inferior direito.</p>
+## Adicionar usuários ao Bot
+
+Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administrador deverá acessar a plataforma BotMaker e dirigir-se à:
+
+ 1. Menu; 
+ 2. Configurações; 
+ 3. Funções de usuários.
+
+Uma vez na seção, o Super Administrador deverá clicar no botão +</strong>”, no canto inferior direito.</p>
 <p>No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “<strong>Adicionar</strong>”.</p>
 <h3 id="as-funções-disponíveis-são">As funções disponíveis são:</h3>
 <ul>
@@ -46,7 +47,7 @@ Adicionar usuários ao Bot</h2>
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODk1MDI2LDEzNzExMzQzOSwxNzY5Nz
-QyMjAxLC00OTAyNTYxOTYsMTYwMDY3NTE0MywtNDkwMjU2MTk2
-XX0=
+eyJoaXN0b3J5IjpbLTE2MDMyNjI3MSwxMzcxMTM0MzksMTc2OT
+c0MjIwMSwtNDkwMjU2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5
+Nl19
 -->
