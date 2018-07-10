@@ -13,7 +13,7 @@ A BotMaker permite criar perfis de audiência customizadas para envio de mensage
 
 ## Possibilidades
 
-Podemos usar as seguintes variantes e configurações para o envios de mensagens em massa através da plataforma:</p>
+Podemos usar as seguintes variantes e configurações para o envios de mensagens em massa através da plataforma:
 <ul>
 <li>Audiências customizadas por atributos (sexo, canal, preferências, etc);</li>
 <li>Programação de data e horário para envio da notificação;</li>
@@ -24,5 +24,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 <h3 id="heading">Heading</h3>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMTYwOTUxXX0=
+eyJoaXN0b3J5IjpbMTU4MjY2NTMzNF19
 -->
