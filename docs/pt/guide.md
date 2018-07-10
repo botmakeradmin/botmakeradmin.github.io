@@ -6,7 +6,8 @@ test
 
 *asdasda*
 
-=## BotMaker - Platform documentation specs
+## BotMaker - Platform documentation specs
+
 # title
 
 
@@ -15,6 +16,6 @@ test
 enter code here
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDExMjUwNSw0NzU3OTU5NjEsLTIxMT
-Q2OTI1NTldfQ==
+eyJoaXN0b3J5IjpbMTg4NzEwODI4LDQ3NTc5NTk2MSwtMjExND
+Y5MjU1OV19
 -->
