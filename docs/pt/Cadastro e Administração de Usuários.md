@@ -27,6 +27,8 @@ Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administ
  1. Menu; 
  2. Configurações; 
  3. Funções de usuários.
+ 
+ ![Configurações](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/Funções.png)
 
 Uma vez na seção, o Super Administrador deverá clicar no botão "**+**", no canto inferior direito.
 
