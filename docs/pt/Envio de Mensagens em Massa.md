@@ -1,15 +1,12 @@
----
+## Envio de Mensagens em Massa
 
+Olá! Aqui, vamos aprender como enviar mensagens em massa para seus usuários, com possibilidade de segmentação.
 
----
+A BotMaker permite criar perfis de audiência customizadas para envio de mensagens, útil para:
 
-<h1 id="envio-de-mensagens-em-massa">Envio de Mensagens em Massa</h1>
-<p>Olá! Aqui, vamos aprender como enviar mensagens em massa para seus usuários, com possibilidade de segmentação.</p>
-<p>A BotMaker permite criar perfis de audiência customizadas para envio de mensagens, útil para:</p>
-<ul>
-<li>Envio de publicidade;</li>
-<li>Anúncio de novidades de produtos e serviços;</li>
-<li>Pesquisas sobre produtos e serviços;</li>
+Envio de publicidade;
+Anúncio de novidades de produtos e serviços;
+Pesquisas sobre produtos e serviços;</li>
 <li>Anúncio de novas funcionalidades do bot;</li>
 <li>Solicitação de preenchimento de formulários;</li>
 <li>Oferecimento de inscrição a novidades.</li>
@@ -26,5 +23,5 @@
 <h3 id="heading">Heading</h3>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU0MTI5NjddfQ==
+eyJoaXN0b3J5IjpbLTE2NDAxNDc0NDBdfQ==
 -->
