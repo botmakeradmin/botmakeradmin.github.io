@@ -31,15 +31,17 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 3. Para criar um novo Push, clique em "**Criar Novo**", aparecerá uma janela como essa:
 
 4. Editando um Push: 
-a. Você pode dar um nome ao Push editando-o no campo "Nova mensagem".
+
+- Você pode dar um nome ao Push editando-o no campo "Nova mensagem".
 
 > Ele servirá apenas para identificá-lo na plataforma, não será visível para os que receberem a notificação.
 
-b. 
+- 
+ 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjQ0MTMzNywtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbODYzNDk1MDc0LC0xMDIzNTY1NzE1XX0=
 -->
