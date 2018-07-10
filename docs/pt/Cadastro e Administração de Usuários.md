@@ -14,7 +14,11 @@ here an image
 ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
 
 
-Criar uma conta
+# 
+
+
+## Criar uma conta
+
 <p></p>
 <h2 id="criar-uma-conta">Criar uma conta</h2>
 <p>Para criar uma conta na BotMaker, deve-se acessar o seguinte link:</p>
@@ -60,5 +64,5 @@ Criar uma conta
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQyMTU0OF19
+eyJoaXN0b3J5IjpbNzAxOTQ5NDI3XX0=
 -->
