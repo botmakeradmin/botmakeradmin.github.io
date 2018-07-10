@@ -28,11 +28,13 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
  
 > Note que você poderá, através dos botões, editar um push, duplicá-lo (para gerar um novo baseado no atual), eliminar o push ou desabilitá-lo (não será enviado quando chegar ao horário programado).
 
-3.  
+3. Para criar um novo Push, clique em "**Criar Novo**";
+
+4. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDAzODcwNl19
+eyJoaXN0b3J5IjpbMTYzMjg4MzU0Ml19
 -->
