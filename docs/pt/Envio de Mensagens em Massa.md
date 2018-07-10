@@ -22,10 +22,15 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 ## Como usar?
 
- 1. Acessar o Menu "**Audiências**".
+ 1. Acessar o Menu "**Audiências**";
 
- 2. Nessa seção, você poderá ver as últimas mensagens programas 
+ 2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
+ 
+ 3.  
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MDUyMzYxXX0=
+eyJoaXN0b3J5IjpbNzM4NTYwNjU4XX0=
 -->
