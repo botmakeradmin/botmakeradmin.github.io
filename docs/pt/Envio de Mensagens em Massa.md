@@ -40,7 +40,9 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 > Note que a medida em que você adicionar ou remover condições, o número de usuários que serão alcançados será alterado.
 
-- Definido seu público, agora, você fará a programação da Data e Horário para a mensagem ser disparada.
+- Definido seu público, agora, você fará a programação da Data e Horário para a sua mensagem ser disparada.
+
+- E, por fim, você definirá qual será a mensagem a ser enviada! Pode ser um texto, 
 
  
 
@@ -48,5 +50,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDU0MTcwOCwtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbLTExNzUxMTc1NiwtMTAyMzU2NTcxNV19
 -->
