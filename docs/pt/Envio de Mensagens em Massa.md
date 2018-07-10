@@ -45,8 +45,8 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 - E, por fim, você definirá qual será a mensagem a ser enviada! Ela poderá ser: 
 	- um texto: ao adicionar um "**+Texto**", será possível digitar uma mensagem de texto.
 	
-	- uma ação: ao adicionar uma "**+Ação**", será possível disparar uma regra do Bot, roteirizar um Questionário ou atribuir variáveis ao usuário;
-	-  uma mídia: ao adicionar uma "**+Mídia**"
+	- uma ação: ao adicionar uma "**+Ação**", será possível disparar uma regra do Bot, roteirizar um Questionário e/ou atribuir variáveis ao usuário;
+	-  uma mídia: ao adicionar uma "**+Mídia**", será possível enviar uma imagem, um áudio, um vídeo e/ou um arquivo.
 
  
 
@@ -54,5 +54,5 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTA2OTE3MywtMTAyMzU2NTcxNV19
+eyJoaXN0b3J5IjpbNzE1OTg3NzYzLC0xMDIzNTY1NzE1XX0=
 -->
