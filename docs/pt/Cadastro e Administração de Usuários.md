@@ -4,17 +4,11 @@ Olá! Aqui, vamos aprender como criar uma conta BotMaker e administrar operadore
 
 ## Criar uma conta
 
-
 ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
 
-
-# 
-
-
-## Criar uma conta
-
 Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
-[botmaker.com](go.botmaker.com)
+
+ - [**go.botmaker.com**](go.botmaker.com)
 
   ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
   hernan e
@@ -55,6 +49,6 @@ Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA4NTkyMjksMTc2OTc0MjIwMSwtND
-kwMjU2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5Nl19
+eyJoaXN0b3J5IjpbODQwNjUyNjYsMTc2OTc0MjIwMSwtNDkwMj
+U2MTk2LDE2MDA2NzUxNDMsLTQ5MDI1NjE5Nl19
 -->
