@@ -22,6 +22,8 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 ## Como usar?
 
+ 1. Acessar o Menu "Audiências".
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY5OTMxNzFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTUzMjQxMzFdfQ==
 -->
