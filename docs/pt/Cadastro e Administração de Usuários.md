@@ -1,6 +1,6 @@
 ---
 
-
+![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
 ---
 
 <h1 id="cadastro-e-administração-de-usuários">Cadastro e Administração de Usuários</h1>
@@ -9,6 +9,9 @@
 <p>Para criar uma conta na BotMaker, deve-se acessar o seguinte link:</p>
 <ul>
 <li><a href="go.botmaker.com"><strong>go.botmaker.com</strong></a></li>
+  hernan s
+  ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
+  hernan e
 ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
 </ul>
 <p>Você pode se cadastrar através de seu email Google (e outros) e também com seu perfil do Facebook.</p>
