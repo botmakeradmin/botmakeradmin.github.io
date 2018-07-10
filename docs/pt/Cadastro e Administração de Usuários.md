@@ -19,12 +19,9 @@ here an image
 
 ## Criar uma conta
 
-<p></p>
-<h2 id="criar-uma-conta">Criar uma conta</h2>
-<p>Para criar uma conta na BotMaker, deve-se acessar o seguinte link:</p>
-<ul>
-<li><a href="go.botmaker.com"><strong>go.botmaker.com</strong></a></li>
-  hernan s
+Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
+[botmaker.com](go.botmaker.com)
+
   ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
   hernan e
 ![](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
@@ -64,5 +61,5 @@ here an image
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxOTQ5NDI3XX0=
+eyJoaXN0b3J5IjpbLTQ5MDI1NjE5Nl19
 -->
