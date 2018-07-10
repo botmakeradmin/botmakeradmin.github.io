@@ -1,8 +1,3 @@
----
-
-
----
-
 # Cadastro e Administração de Usuários
 
 Olá! Aqui, vamos aprender como criar uma conta BotMaker e administrar operadores do seu bot.
@@ -61,6 +56,6 @@ Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
 <p>Assim que encontrado o usuário, deve-se clicar em “<strong>Editar</strong>” e fazer a alteração necessária.</p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDI1NjE5NiwxNjAwNjc1MTQzLC00OT
-AyNTYxOTZdfQ==
+eyJoaXN0b3J5IjpbMTc2OTc0MjIwMSwtNDkwMjU2MTk2LDE2MD
+A2NzUxNDMsLTQ5MDI1NjE5Nl19
 -->
