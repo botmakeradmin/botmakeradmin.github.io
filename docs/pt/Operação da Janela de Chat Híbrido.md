@@ -71,9 +71,15 @@ Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode press
 
 Ademais dos pontos descritos anteriormente, também podem ser executadas diversas ações através do cabeçalho do Detalhe de Conversa.
 
-### 
+### Bloquear chat
+
+### Atribuir usuário a outro operador
+
+### Marcar como não lido
+
+### Marcar como SPAM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDMzMzIxLDEwMzU0NzQ0NjcsMjEwND
+eyJoaXN0b3J5IjpbLTgzNDg0MDA4LDEwMzU0NzQ0NjcsMjEwND
 M0NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzEx
 ODUsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
