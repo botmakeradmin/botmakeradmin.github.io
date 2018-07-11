@@ -11,6 +11,7 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 # 1. Lista de Conversas
  
 Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
+
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 ## Identificação:
@@ -44,13 +45,14 @@ Em conversas de WebChat, a plataforma indicará o país do usuário, uma informa
 Quando uma conversa for tomada por um operador, ela será marcada com um cadeado, junto às iniciais desse operador que a tomou.
 
 ## Pesquisa:
+Acima dos chats, encontra-se uma barra de pesquisa.
 
-
+# 2. Detalhe de Conversas
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjYxNzg3OSwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbMTU5MDQ5NTc2NiwtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
