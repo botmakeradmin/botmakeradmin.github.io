@@ -31,11 +31,14 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 
  - No caso de ser uma conversa de WebChat, o ícone do Chrome virá com uma marcação verde - se o usuário ainda estiver online - ou vermelha - se ele já está desconectado.
 
+### País:
+Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação 
+
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMzE3NjMsLTE2OTA5NDI2OTcsLTE3OT
-E4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTM2MDcwODI5OCwtMTY5MDk0MjY5NywtMT
+c5MTg4OTIyNl19
 -->
