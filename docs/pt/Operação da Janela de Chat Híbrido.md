@@ -97,11 +97,11 @@ Assim que o Operador responder as solicitações do usuário, ou quando achar pe
 > Caso se esqueça, a reativação do Bot será feita automaticamente após 30 minutos.
 
 ## Informação adicional e Tags
-A terceira e última coluna é localizada à direita da tela de Chats.
+A terceira e última coluna é localizada à direita da Janela de Chats Híbrida. A mesma mostra todas as informações guardadas, provindas do usuário, além dos
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4NTM2NDEsLTIyNjQ5MjMwNywtMj
-QyMDQyMjI2LC0xMDE4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0
-NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExOD
-UsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbMjAyNTEwNDc5MiwtMjI2NDkyMzA3LC0yND
+IwNDIyMjYsLTEwMTg4NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0
+NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NS
+wtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
 -->
