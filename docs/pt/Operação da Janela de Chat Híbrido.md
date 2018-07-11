@@ -27,14 +27,15 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 ### Canal:
 É possível observar na conversa um ícone indicativo do canal utilizado pelo usuário para se comunicar com o Bot. 
 
- - Eles podem ser: Messenger, WhatsApp, Telegram, Twitter DM, Google Assistant ou Google Chrome - o último é utilizado quando a conversa é
-   proveniente de um WebChat.
+ - Eles podem ser: Messenger, WhatsApp, Telegram, Twitter DM, Google Assistant ou Google Chrome - o último é utilizado quando a conversa é proveniente de um WebChat.
+
+ - No caso de ser uma conversa de WebChat,
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDQxNzU4MCwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbLTg0Njg3NDA2MCwtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
