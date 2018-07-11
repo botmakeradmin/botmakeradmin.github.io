@@ -77,13 +77,13 @@ Selecionando essa opção, o Operador estará se assignando a uma conversa, de m
 > Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada, clicando em "**Liberar chat bloqueado**".
 
 ### Atribuir usuário a outro operador
-E
+Selecionando essa opção, será possível assignar a conversa a um operador específico. Ela será bloqueada e desbloqueada como descrito acima.
 
 ### Marcar como não lido
 
 ### Marcar como SPAM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NDQ4NDk0LDEwMzU0NzQ0NjcsMjEwND
+eyJoaXN0b3J5IjpbNDIyODQxOTI4LDEwMzU0NzQ0NjcsMjEwND
 M0NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzEx
 ODUsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
