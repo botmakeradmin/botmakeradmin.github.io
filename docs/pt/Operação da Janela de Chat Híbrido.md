@@ -96,11 +96,12 @@ Assim que o Operador responder as solicitações do usuário, ou quando achar pe
 
 > Caso se esqueça, a reativação do Bot será feita automaticamente após 30 minutos.
 
-## Infora
+## Informação adicional e Tags
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODEyOTQzLC0yNDIwNDIyMjYsLTEwMT
-g4NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5
-NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0MjY5Ny
-wtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTIyNjQ5MjMwNywtMjQyMDQyMjI2LC0xMD
+E4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0NDQxMywxOTIyNDM5
+OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5NDI2OT
+csLTE3OTE4ODkyMjZdfQ==
 -->
