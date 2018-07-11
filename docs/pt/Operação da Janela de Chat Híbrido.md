@@ -88,10 +88,11 @@ Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomen
 > Um usuário bloqueado poderá seguir enviando mensagens, mas o Bot deixará de respondê-lo e os Operadores não serão notificados sobre a conversa.
 
 ## Desligar o Bot na conversa
-
+O Bot pod
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg4NzY2NDcsMTAzNTQ3NDQ2NywyMT
-A0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3
-MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTEyNzgwMTM2NjgsLTEwMTg4NzY2NDcsMT
+AzNTQ3NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5
+NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OT
+IyNl19
 -->
