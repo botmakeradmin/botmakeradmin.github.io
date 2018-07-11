@@ -83,9 +83,11 @@ Selecionando essa opção, será possível assignar a conversa a um operador esp
 Selecionando essa opção, a conversa será marcada como "**Não Lida**".
 
 ### Marcar como SPAM
-Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomendada em casos que o usuário esteja molestando o Bot/Operador
+Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomendada em casos que o usuário esteja molestando o Bot/Operador, fazendo perguntas sem sentido. 
+
+Um usuário bloqueado poderá seguir enviando mensagens, mas o Bot deixará de respondê-lo e os Operadores não serão notificados sobre a conver.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTYyNDkzNiwxMDM1NDc0NDY3LDIxMD
-QzNDQ0MTMsMTkyMjQzOTk2NCwtMTMyNjk1OTc0OCwxNjc1NTcx
-MTg1LC0xNjkwOTQyNjk3LC0xNzkxODg5MjI2XX0=
+eyJoaXN0b3J5IjpbLTc2NjgyMDAwLDEwMzU0NzQ0NjcsMjEwND
+M0NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzEx
+ODUsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
