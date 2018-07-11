@@ -65,10 +65,12 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
 
 Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
 
-Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só o usuário receberá a resposta, mas também o Bot estará sendo treinado para futuras ocasiões similares, para responder sem necessitar da participação de um operador.
+> Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só o usuário receberá a resposta, mas também o Bot estará sendo treinado para futuras ocasiões similares, para responder sem necessitar da participação de um operador.
+
+## Opções do Cab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzODM1NTgsMjEwNDM0NDQxMywxOT
+eyJoaXN0b3J5IjpbLTE5MzQ1OTE5OTgsMjEwNDM0NDQxMywxOT
 IyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5
 NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
