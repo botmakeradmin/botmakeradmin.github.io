@@ -65,10 +65,10 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
 
 Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
 
-Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário.
+Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcxMzAzMSwyMTA0MzQ0NDEzLDE5Mj
-I0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0
-MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbNjgyNjYxNDY5LDIxMDQzNDQ0MTMsMTkyMj
+QzOTk2NCwtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQy
+Njk3LC0xNzkxODg5MjI2XX0=
 -->
