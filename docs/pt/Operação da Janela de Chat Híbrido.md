@@ -101,13 +101,21 @@ A terceira e última coluna é localizada à direita da Janela de Chats Híbrida
 
 ### Informação adicional
 
-Onde estão localizadas as informações que, historicamente, foi armazenada pelo Bot através da interação com o usuário. Podem ser guardados, por exemplo: Nome 
+Onde estão localizadas as informações que, historicamente, foi armazenada pelo Bot através da interação com o usuário. Podem ser guardados, por exemplo: 
+
+- Nome e sobrenome; 
+- Data de nascimento;
+- Email;
+- Endereço;
+- Canal utilizado;
+- URL de interação;
+- E qualquer
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ0NzQxMywtMjI2NDkyMzA3LC0yND
-IwNDIyMjYsLTEwMTg4NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0
-NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NS
-wtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTE2NDQ3NDMxOTEsLTIyNjQ5MjMwNywtMj
+QyMDQyMjI2LC0xMDE4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0
+NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExOD
+UsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
