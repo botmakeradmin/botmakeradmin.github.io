@@ -72,7 +72,9 @@ Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode press
 Ademais dos pontos descritos anteriormente, também podem ser executadas diversas ações através do cabeçalho do Detalhe de Conversa.
 
 ### Bloquear chat
-Selecionando essa opção, o Operador estará se assignando a uma conversa, de maneira a evitar que outros operadores possam responder o usuário naquele momento. Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada
+Selecionando essa opção, o Operador estará se assignando a uma conversa, de maneira a evitar que outros operadores possam responder o usuário naquele momento. 
+
+Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada clicando em "Liberar chat bloqueado"
 
 ### Atribuir usuário a outro operador
 
@@ -80,7 +82,7 @@ Selecionando essa opção, o Operador estará se assignando a uma conversa, de m
 
 ### Marcar como SPAM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM5MTA0MDksMTAzNTQ3NDQ2NywyMT
+eyJoaXN0b3J5IjpbLTEwNDM4NTY3NTUsMTAzNTQ3NDQ2NywyMT
 A0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3
 MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
 -->
