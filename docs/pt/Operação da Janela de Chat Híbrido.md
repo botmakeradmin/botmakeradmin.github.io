@@ -52,7 +52,9 @@ Acima dos chats, encontra-se uma barra de pesquisa.
 Encontrada na coluna central da tela, pode-se visualizar o histórico de conversa completo de cada usuário.
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTU3MTE4NSwtMTY5MDk0MjY5NywtMT
-c5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbMjA5ODUzNDQ3NywxNjc1NTcxMTg1LC0xNj
+kwOTQyNjk3LC0xNzkxODg5MjI2XX0=
 -->
