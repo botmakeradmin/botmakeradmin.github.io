@@ -55,13 +55,15 @@ A partir do momento que o Bot entende as solicitações dos usuários e as respo
 
 Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e é por isso que encontram-se todos os elementos necessários para a operação humana:
 
-## Quadro de texto
+## Caixa de texto:
+Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
+E
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTc1ODE2NywyMTA0MzQ0NDEzLDE5Mj
+eyJoaXN0b3J5IjpbLTkxOTk5MTgzNywyMTA0MzQ0NDEzLDE5Mj
 I0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0
 MjY5NywtMTc5MTg4OTIyNl19
 -->
