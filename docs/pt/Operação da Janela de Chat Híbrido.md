@@ -57,13 +57,18 @@ Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e
 
 ## Caixa de texto:
 Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
+
+Escrever manualmente suas mensagens para intervir na conversa;
+Enviar imagens, vídeos e arquivos;
+Gravar mensagens de voz (requer um microfone);
 E
 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTk5MTgzNywyMTA0MzQ0NDEzLDE5Mj
-I0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0
-MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTExMzQzNzk5OTUsMjEwNDM0NDQxMywxOT
+IyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5
+NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
