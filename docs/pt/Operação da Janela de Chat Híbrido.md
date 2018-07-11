@@ -29,13 +29,13 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 
  - Eles podem ser: Messenger, WhatsApp, Telegram, Twitter DM, Google Assistant ou Google Chrome - o último é utilizado quando a conversa é proveniente de um WebChat.
 
- - No caso de ser uma conversa de WebChat,
+ - No caso de ser uma conversa de WebChat, o ícone do Chrome virá com uma marcação verde - se o usuário ainda estiver online - ou vermelha - se ele já está desconectado.
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njg3NDA2MCwtMTY5MDk0MjY5NywtMT
-c5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbMjcwMzE3NjMsLTE2OTA5NDI2OTcsLTE3OT
+E4ODkyMjZdfQ==
 -->
