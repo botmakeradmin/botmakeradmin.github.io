@@ -92,9 +92,11 @@ O Bot pode ser desligado por um operador (em uma conversa, específicamente), se
 
 É recomendado utilizar essa funcionalidade sempre que um operador precisar intervir manualmente em uma conversa, de maneira a evitar que o Bot responda as perguntas.
 
+Assim que o Operador responder as solicitações do usuário, ou quando achar per
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTUzNzA4MywtMjQyMDQyMjI2LC0xMD
-E4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0NDQxMywxOTIyNDM5
-OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5NDI2OT
-csLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTIyMTEzMjUsLTI0MjA0MjIyNiwtMT
+AxODg3NjY0NywxMDM1NDc0NDY3LDIxMDQzNDQ0MTMsMTkyMjQz
+OTk2NCwtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNj
+k3LC0xNzkxODg5MjI2XX0=
 -->
