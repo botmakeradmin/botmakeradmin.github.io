@@ -97,11 +97,11 @@ Assim que o Operador responder as solicitações do usuário, ou quando achar pe
 > Caso se esqueça, a reativação do Bot será feita automaticamente após 30 minutos.
 
 ## Informação adicional e Tags
-
+A terceira e última coluna é localizada à direita da tela de Chats.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQ5MjMwNywtMjQyMDQyMjI2LC0xMD
-E4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0NDQxMywxOTIyNDM5
-OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5NDI2OT
-csLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTE1NTk4NTM2NDEsLTIyNjQ5MjMwNywtMj
+QyMDQyMjI2LC0xMDE4ODc2NjQ3LDEwMzU0NzQ0NjcsMjEwNDM0
+NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExOD
+UsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
