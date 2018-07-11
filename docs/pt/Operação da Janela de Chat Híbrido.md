@@ -10,7 +10,7 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 
 # 1. Lista de Conversas
  
- Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
+Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
 Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada. A identificação é feita da seguinte maneira:
 
@@ -32,13 +32,16 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
  - No caso de ser uma conversa de WebChat, o ícone do Chrome virá com uma marcação verde - se o usuário ainda estiver online - ou vermelha - se ele já está desconectado.
 
 ### País:
-Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação 
+Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação obtida a partir de seu endereço IP.
+
+### Data:
+É possível obser
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDcwODI5OCwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbLTMxMzA5ODg4NiwtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
