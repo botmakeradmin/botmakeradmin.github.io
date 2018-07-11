@@ -74,15 +74,16 @@ Ademais dos pontos descritos anteriormente, também podem ser executadas diversa
 ### Bloquear chat
 Selecionando essa opção, o Operador estará se assignando a uma conversa, de maneira a evitar que outros operadores possam responder o usuário naquele momento. 
 
-Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada clicando em "Liberar chat bloqueado"
+> Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada, clicando em "**Liberar chat bloqueado**".
 
 ### Atribuir usuário a outro operador
+E
 
 ### Marcar como não lido
 
 ### Marcar como SPAM
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM4NTY3NTUsMTAzNTQ3NDQ2NywyMT
-A0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3
-MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbNTk3NDQ4NDk0LDEwMzU0NzQ0NjcsMjEwND
+M0NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzEx
+ODUsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
