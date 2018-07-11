@@ -9,7 +9,9 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
  3. Informação adicional e tags
 
 # 1. Lista de Conversas
+ 
+ Visível na coluna a esquerda estão todas as conversas ordenadas cronológicamente, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTIyMTA5NDUzOSwtMTc5MTg4OTIyNl19
 -->
