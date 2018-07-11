@@ -49,10 +49,10 @@ Acima dos chats, encontra-se uma barra de pesquisa.
 
 # 2. Detalhe de Conversas
 
-
+Encontrada na coluna central da tela, pode-se visualizar toda a conversa de c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDQ5NTc2NiwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbMTc0MjA3MjcyOSwtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
