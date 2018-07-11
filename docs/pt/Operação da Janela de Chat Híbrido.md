@@ -85,9 +85,13 @@ Selecionando essa opção, a conversa será marcada como "**Não Lida**".
 ### Marcar como SPAM
 Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomendada em casos que o usuário esteja molestando o Bot/Operador, fazendo perguntas sem sentido. 
 
-Um usuário bloqueado poderá seguir enviando mensagens, mas o Bot deixará de respondê-lo e os Operadores não serão notificados sobre a conver.
+> Um usuário bloqueado poderá seguir enviando mensagens, mas o Bot deixará de respondê-lo e os Operadores não serão notificados sobre a conversa.
+
+## Desligar o Bot na conversa
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjgyMDAwLDEwMzU0NzQ0NjcsMjEwND
-M0NDQxMywxOTIyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzEx
-ODUsLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTg4NzY2NDcsMTAzNTQ3NDQ2NywyMT
+A0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3
+MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
 -->
