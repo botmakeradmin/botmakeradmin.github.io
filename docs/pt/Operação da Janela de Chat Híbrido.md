@@ -38,13 +38,15 @@ Em conversas de WebChat, a plataforma indicará o país do usuário, uma informa
 É possível observar na conversa a data da última mensagem recebida/enviada. Se não for mostrada a data, será mostrado quanto tempo desde a última mensagem.
 
 ### Conversa tomada:
-Quando uma conversa for tomada por um operador, ela será marcada com um cad
+Quando uma conversa for tomada por um operador, ela será marcada com um cadeado, junto às iniciais desse operador que a tomou.
+
+
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5Njg4NDk0LC0xNjkwOTQyNjk3LC0xNz
-kxODg5MjI2XX0=
+eyJoaXN0b3J5IjpbLTcxOTI4MjU0MSwtMTY5MDk0MjY5NywtMT
+c5MTg4OTIyNl19
 -->
