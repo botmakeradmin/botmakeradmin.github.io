@@ -15,13 +15,15 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada. A identificação é feita da seguinte maneira:
 
 ### Foto de perfil: 
-Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. Se não tiver, 
+Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. 
+
+ - Se não tiver, a conversa foi realizada através de um WebChat (onde o usuário é anônimo), e será mostrada uma imagem genérica.
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNzkwMTUzLC0xNjkwOTQyNjk3LC0xNz
+eyJoaXN0b3J5IjpbODI3ODk5NTA1LC0xNjkwOTQyNjk3LC0xNz
 kxODg5MjI2XX0=
 -->
