@@ -51,12 +51,12 @@ Acima dos chats, encontra-se uma barra de pesquisa.
 
 Encontrada na coluna central da tela, pode-se visualizar o histórico de conversa completo de cada usuário.
 
-A partir do momento que o Bot entende as solicitações dos usuários e as responde, a conversa pode ser totalmente au
+A partir do momento que o Bot entende as solicitações dos usuários e as responde, a conversa pode ser totalmente automática. Também, a plataforma foi desenhada  sem esforço adicional
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDM0NDQxMywxOTIyNDM5OTY0LC0xMz
-I2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5NDI2OTcsLTE3OTE4
-ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTExODExMDA5NjAsMjEwNDM0NDQxMywxOT
+IyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5
+NDI2OTcsLTE3OTE4ODkyMjZdfQ==
 -->
