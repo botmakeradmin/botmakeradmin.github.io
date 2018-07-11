@@ -63,10 +63,12 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
  - Gravar mensagens de voz (requer um microfone); 
  - Enviar GIFs e emojis.
 
-Adicionalmente, quando 
+Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDY3NDQ0OCwyMTA0MzQ0NDEzLDE5Mj
-I0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0
-MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbNjgwMDg3MDA4LDIxMDQzNDQ0MTMsMTkyMj
+QzOTk2NCwtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQy
+Njk3LC0xNzkxODg5MjI2XX0=
 -->
