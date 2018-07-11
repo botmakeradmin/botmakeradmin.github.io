@@ -12,13 +12,16 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
  
  Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
-Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada.
+Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada. A identificação é feita da seguinte maneira:
+
+### Foto de perfil: 
+Sempre e quando o usuário 
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA5NDI2OTcsLTE3OTE4ODkyMjZdfQ
-==
+eyJoaXN0b3J5IjpbMTQwMDY0OTA2OSwtMTY5MDk0MjY5NywtMT
+c5MTg4OTIyNl19
 -->
