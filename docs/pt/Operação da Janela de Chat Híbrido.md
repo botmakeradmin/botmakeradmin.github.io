@@ -55,20 +55,18 @@ A partir do momento que o Bot entende as solicitações dos usuários e as respo
 
 Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e é por isso que encontram-se todos os elementos necessários para a operação humana:
 
-## Caixa de texto:
+### Caixa de texto:
 Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
 
-Escrever manualmente suas mensagens para intervir na conversa;
-Enviar imagens, vídeos e arquivos;
-Gravar mensagens de voz (requer um microfone);
-E
+ - Escrever manualmente suas mensagens para intervir na conversa; 
+ - Enviar imagens, vídeos e arquivos; 
+ - Gravar mensagens de voz (requer um microfone); 
+ - Enviar GIFs e emojis.
 
-
-
-
+Adicionalmente, quando 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQzNzk5OTUsMjEwNDM0NDQxMywxOT
-IyNDM5OTY0LC0xMzI2OTU5NzQ4LDE2NzU1NzExODUsLTE2OTA5
-NDI2OTcsLTE3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbLTU0NDY3NDQ0OCwyMTA0MzQ0NDEzLDE5Mj
+I0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0
+MjY5NywtMTc5MTg4OTIyNl19
 -->
