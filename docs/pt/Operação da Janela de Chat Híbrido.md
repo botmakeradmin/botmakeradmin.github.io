@@ -35,13 +35,13 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação obtida a partir de seu endereço IP.
 
 ### Data:
-É possível obser
+É possível observar na conversa a data da última mensagem recebida/enviada
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzA5ODg4NiwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbMTQ4OTgzMDE5NywtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
