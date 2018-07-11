@@ -55,7 +55,7 @@ A partir do momento que o Bot entende as solicitações dos usuários e as respo
 
 Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e é por isso que encontram-se todos os elementos necessários para a operação humana:
 
-### Caixa de texto:
+## Caixa de texto:
 Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
 
  - Escrever manualmente suas mensagens para intervir na conversa; 
@@ -67,7 +67,7 @@ Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode press
 
 > Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só o usuário receberá a resposta, mas também o Bot estará sendo treinado para futuras ocasiões similares, para responder sem necessitar da participação de um operador.
 
-### Opções do Cabeçalho:
+## Opções do Cabeçalho:
 
 Ademais dos pontos descritos anteriormente, também podem ser executadas diversas ações através do cabeçalho do Detalhe de Conversa.
 
@@ -115,8 +115,9 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDAyMTg2NSwtMjI2NDkyMzA3LC0yND
-IwNDIyMjYsLTEwMTg4NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0
-NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NS
-wtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTEyODQzMTE2OTUsLTc1MDAyMTg2NSwtMj
+I2NDkyMzA3LC0yNDIwNDIyMjYsLTEwMTg4NzY2NDcsMTAzNTQ3
+NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3ND
+gsMTY3NTU3MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
+
 -->
