@@ -21,13 +21,17 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 
 ### Nome de usuário:
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar seu nome e sobrenome.
-Se a conversa foi realizada através de um WebChat (onde o usuário é anônimo), será 
+
+ - Se a conversa foi realizada através de um WebChat (onde o usuário é anônimo), será mostrado um código único para individualizar esse chat.
+
+### Canal:
+
 
 Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em detalhe o chat completo. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUwMzkxODEsLTE2OTA5NDI2OTcsLT
-E3OTE4ODkyMjZdfQ==
+eyJoaXN0b3J5IjpbMTk1MTgxNTQzMiwtMTY5MDk0MjY5NywtMT
+c5MTg4OTIyNl19
 -->
