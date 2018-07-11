@@ -49,10 +49,10 @@ Acima dos chats, encontra-se uma barra de pesquisa.
 
 # 2. Detalhe de Conversas
 
-Encontrada na coluna central da tela, pode-se visualizar toda a conversa de c
+Encontrada na coluna central da tela, pode-se visualizar o histórico de conversa completo de cada usuário.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjA3MjcyOSwtMTY5MDk0MjY5NywtMT
+eyJoaXN0b3J5IjpbMTY3NTU3MTE4NSwtMTY5MDk0MjY5NywtMT
 c5MTg4OTIyNl19
 -->
