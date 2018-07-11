@@ -10,8 +10,9 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 
 # 1. Lista de Conversas
  
- Visível na coluna a esquerda estão todas as conversas ordenadas cronológicamente, 
+ Visíveis na coluna a esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTA5NDUzOSwtMTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbLTE2NTI4MjA0OTAsLTE3OTE4ODkyMjZdfQ
+==
 -->
