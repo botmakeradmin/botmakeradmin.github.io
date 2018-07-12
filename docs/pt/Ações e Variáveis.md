@@ -13,7 +13,7 @@ São utilizadas para:
 - Criar regras com condições;
 - Emissão de Relatórios.
 
-Algumas variá
+Algumas variáveis acompanham a plataforma como padrão, e a informação que elas contêm se completam de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTAxOTc1MSw4Nzc1MjU1NzddfQ==
+eyJoaXN0b3J5IjpbLTc1NzkwOTkzMyw4Nzc1MjU1NzddfQ==
 -->
