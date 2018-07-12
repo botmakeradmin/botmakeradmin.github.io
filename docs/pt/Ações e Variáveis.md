@@ -34,9 +34,12 @@ Ademais, também são encontradas as variáveis definidas no Bot e as Tags (tema
 
 ### Onde utilizar variáveis?
 
-As variáveis são muito úteis no momento de definir quando se deve disparar uma Regra, qual resposta se deve dar no seguinte contexto ou então para filtrar Relatórios.
+As variáveis são muito úteis no momento de definir quando se deve disparar uma Regra, qual resposta se deve dar no tal contexto ou então para filtrar Relatórios.
+
+- Variáveis como condição de disparo:
+		- Ao aplicar uma condição à um Disparador, a regra somente será disparada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1NzkyNjUsNDE2NjI4OTAwLC0xOT
-MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
-NzddfQ==
+eyJoaXN0b3J5IjpbNTAxMzcwMzE4LDQxNjYyODkwMCwtMTkzMD
+IzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3ODEsODc3NTI1NTc3
+XX0=
 -->
