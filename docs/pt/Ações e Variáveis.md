@@ -25,8 +25,10 @@ As variáveis mais utilizadas são:
 - **isWebChatMobile**: se o usuário está conversando através de um WebChat mobile;
 - **isSubscribe**: com valores **true** ou **false**, indica se o usuário está inscrito para receber pushes;
 - **lastSeen**: última vez que o usuário visualizou;
-- **lastUser
+- **lastUserSentence**: última mensagem do usuário;
+- **lastBotSentence**: última mensagem do Bot;
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDg4OTg5NywtOTM4NjE4NzgxLDg3Nz
+eyJoaXN0b3J5IjpbLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3Nz
 UyNTU3N119
 -->
