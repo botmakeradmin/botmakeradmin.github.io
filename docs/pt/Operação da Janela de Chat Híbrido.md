@@ -114,12 +114,13 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Modificar**". Seleciona-se a varíavel e a informação a ser guardada.
 
 ### Tags
-As Tags são os temas de conversação os quais o usuário historicamente percorreu no chat. Eles são adicionados automáticamente, sempre e quando se trata de temas que o Bot entende.
+As Tags são os temas de conversação dos quais o usuário historicamente percorreu no chat. Eles são adicionados automáticamente, sempre e quando se trata de temas dos quais Bot entende.
 
+Em casos que os Operadores necessitem tagear temas não compree em um específico Chat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1NjYwNTgsLTEyODQzMTE2OTUsLT
+eyJoaXN0b3J5IjpbLTE3OTc4MDc5MDgsLTEyODQzMTE2OTUsLT
 c1MDAyMTg2NSwtMjI2NDkyMzA3LC0yNDIwNDIyMjYsLTEwMTg4
 NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5Nj
 QsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0MjY5Nywt
