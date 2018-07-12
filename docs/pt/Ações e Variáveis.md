@@ -30,9 +30,11 @@ As variáveis mais utilizadas são:
 - **ruleCountInSession**: quantas vezes foi disparada uma regra na sessão;
 - **thisWasLastIntentToRun**: esta foi a última regra a ser executada.
 
+Ademais, também são encontradas as variáveis definidas no Bot e as Tags (temas) de usuário (verdadeiro/falso).
 
+### Onde utilizar variáveis?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0ODkyMTYsNDE2NjI4OTAwLC0xOT
-MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
-NzddfQ==
+eyJoaXN0b3J5IjpbMTYxNzE0NjgwOCw0MTY2Mjg5MDAsLTE5Mz
+AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
+N119
 -->
