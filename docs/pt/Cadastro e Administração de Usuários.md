@@ -24,9 +24,9 @@ Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Sup
 
 Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administrador deverá acessar a plataforma BotMaker e dirigir-se à:
 
- 1. Menu; 
- 2. Configurações; 
- 3. Funções de usuários.
+1. Menu
+2. Configurações
+3. Funções de usuários
  
  ![Configurações](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/Func%CC%A7o%CC%83es.png)
 
