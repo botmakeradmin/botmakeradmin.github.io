@@ -56,9 +56,11 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Go to**: permite redirecionar o fluxo a uma regra;
 - **Send Email**: permite enviar um email a um usuário;
 - **Send to Messenger**: permite adicionar um botão para que o usuário de WebChat conecte suas conta com o Messenger;
-- **Add Topic CTA**: sugere botões com regras 
+- **Add Topic CTA**: sugere botões com regras de mesmo tema;
+- **Subscribe/Unsubscribe**: inscreve ou desinscreve o usuário do recebimento de Pushes;
+- **Finish**:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA3NjY5MTIsMTQwMDIzMDQ0LDQxNj
-YyODkwMCwtMTkzMDIzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3
-ODEsODc3NTI1NTc3XX0=
+eyJoaXN0b3J5IjpbLTg2OTU0Mjc4MiwxNDAwMjMwNDQsNDE2Nj
+I4OTAwLC0xOTMwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4
+MSw4Nzc1MjU1NzddfQ==
 -->
