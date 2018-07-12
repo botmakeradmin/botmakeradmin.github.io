@@ -66,9 +66,13 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **SaveCheckpoint/GotoCheckpoint**: permite guardar e recuperar um checkpoint à uma regra;
 - **ClientAction**: permite executar uma ação personalizada, definida na sessão de Código;
 - **Callback Url**: permite postar em uma URL;
-- **Generate Rule Url**: gera um link para que se guard
+- **Generate Rule Url**: gera um link que será guardado em uma variável, e quando aberto, dispara a regra definida no Bot.
+
+### Onde utilizar ações?
+
+As ações são configuradas na tela de Respostas, út
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzU1Njg3NCwxNDAwMjMwNDQsNDE2Nj
-I4OTAwLC0xOTMwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4
-MSw4Nzc1MjU1NzddfQ==
+eyJoaXN0b3J5IjpbOTY3MjQzNjExLDE0MDAyMzA0NCw0MTY2Mj
+g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
+LDg3NzUyNTU3N119
 -->
