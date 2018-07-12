@@ -70,9 +70,9 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 
 ### Onde utilizar ações?
 
-As ações são configuradas na tela de Respostas, út
+As ações são configuradas na tela de Respostas, última etapa do desenvolvimento de uma Regra. Veja o exemplo:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MjQzNjExLDE0MDAyMzA0NCw0MTY2Mj
+eyJoaXN0b3J5IjpbNjAwMDAzMTk4LDE0MDAyMzA0NCw0MTY2Mj
 g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
 LDg3NzUyNTU3N119
 -->
