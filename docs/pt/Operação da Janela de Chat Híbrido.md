@@ -110,15 +110,15 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 - Canal utilizado;
 - URL de interação;
 - E qualquer outra informação que o Bot solicite ao usuário.
-- 
-- 
+
+Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Modificar**".
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk0MTA2NDQsLTEyODQzMTE2OTUsLT
-c1MDAyMTg2NSwtMjI2NDkyMzA3LC0yNDIwNDIyMjYsLTEwMTg4
-NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5Nj
-QsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0MjY5Nywt
-MTc5MTg4OTIyNl19
+eyJoaXN0b3J5IjpbMTUxNjA1NDU1NSwtMTI4NDMxMTY5NSwtNz
+UwMDIxODY1LC0yMjY0OTIzMDcsLTI0MjA0MjIyNiwtMTAxODg3
+NjY0NywxMDM1NDc0NDY3LDIxMDQzNDQ0MTMsMTkyMjQzOTk2NC
+wtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNjk3LC0x
+NzkxODg5MjI2XX0=
 -->
