@@ -21,8 +21,10 @@ As variáveis mais utilizadas são:
 
 - **isOpenNow**: com valores **true** ou **false**, indica se o Bot responderá no horário de atendimento ou não;
 - **operatorsConnectedQty**: quantidade de operadores conectados;
-- **chatPlatform**: plataforma em que está acontecendo a conversa, pode ser "messe
+- **chatPlatform**: plataforma em que está acontecendo a conversa, pode ser "messenger", "webchat", "skype", etc;
+- **isWebChatMobile**: se o usuário está conversando através de um WebChat mobile;
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzM1OTIsLTkzODYxODc4MSw4Nzc1Mj
-U1NzddfQ==
+eyJoaXN0b3J5IjpbLTE4NzMzOTQ2MDEsLTkzODYxODc4MSw4Nz
+c1MjU1NzddfQ==
 -->
