@@ -1,6 +1,6 @@
 # Ações e Variáveis
 
-Ol
+Olá! Aqui vamos aprender a usar variáveis e ações 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzYzMDA4OCw4Nzc1MjU1NzddfQ==
+eyJoaXN0b3J5IjpbLTE1Njc1MjM4ODMsODc3NTI1NTc3XX0=
 -->
