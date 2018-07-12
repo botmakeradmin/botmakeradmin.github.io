@@ -41,8 +41,11 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 	
 - Variáveis como condição de respostas:
 	- Podem ser utilizadas para, diante de diferentes condições, dar diferentes respostas para a mesma intenção do usuário.
+
+- Variáveis como texto dinâmico dentro de uma resposta:
+	- A informação contida em uma variável pode ser utilizada para dar respostas dinâmicas aos usuários, onde a variável será substituída pelo seu conteúdo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ3MjEzMzEsNDE2NjI4OTAwLC0xOT
-MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
-NzddfQ==
+eyJoaXN0b3J5IjpbLTQyMDUwOTIxMiw0MTY2Mjg5MDAsLTE5Mz
+AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
+N119
 -->
