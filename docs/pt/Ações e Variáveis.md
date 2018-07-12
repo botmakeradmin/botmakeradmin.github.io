@@ -58,9 +58,9 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Send to Messenger**: permite adicionar um botão para que o usuário de WebChat conecte suas conta com o Messenger;
 - **Add Topic CTA**: sugere botões com regras de mesmo tema;
 - **Subscribe/Unsubscribe**: inscreve ou desinscreve o usuário do recebimento de Pushes;
-- **Finish**:
+- **Finish**: aborta qualquer f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTU0Mjc4MiwxNDAwMjMwNDQsNDE2Nj
+eyJoaXN0b3J5IjpbLTE0NDkyMzI1MSwxNDAwMjMwNDQsNDE2Nj
 I4OTAwLC0xOTMwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4
 MSw4Nzc1MjU1NzddfQ==
 -->
