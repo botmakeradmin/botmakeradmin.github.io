@@ -47,9 +47,12 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 
 ## Ações
 
-As ações permitem agregar ao Bot, de maneira simples, comportamentos pré defi
+As ações permitem agregar ao Bot, de maneira simples, comportamentos pré definidos.
+
+### Principais ações:
+A seguir, apresentaremos uma lista das principais ações disponíveis na plataforma, com uma breve explicação
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzc5NTg1OCw0MTY2Mjg5MDAsLTE5Mz
+eyJoaXN0b3J5IjpbLTE3NDk3MzA0Nyw0MTY2Mjg5MDAsLTE5Mz
 AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
 N119
 -->
