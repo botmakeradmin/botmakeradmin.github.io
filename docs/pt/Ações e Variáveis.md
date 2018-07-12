@@ -39,11 +39,10 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 - Variáveis como condição de disparo:
 	- Ao aplicar uma condição à um Disparador, a regra somente será disparada quando for executado o disparador e a condição for comprida. 
 	
-
-	
-- 
+- Variáveis como condição de respostas:
+	- As variáveis como condição de respostas podem ser utilizadas, por exemplo, para diante de diferentes condições, dar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMTY3MDM2LDQxNjYyODkwMCwtMTkzMD
-IzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3ODEsODc3NTI1NTc3
-XX0=
+eyJoaXN0b3J5IjpbLTE2ODE3Mjc0MTAsNDE2NjI4OTAwLC0xOT
+MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
+NzddfQ==
 -->
