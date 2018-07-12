@@ -13,6 +13,9 @@ Para integração com Facebook, você deve clicar no botão **"Conceda permissõ
 Assim que permitido, clique em **"Páginas"**, onde aparecerão as fanpages disponíveis para serem concectadas à BotMaker. 
 
 Selecione e salve, clicando em **"Salvar"**.
+
+## WebChat
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTMyMDk4Ml19
+eyJoaXN0b3J5IjpbLTQ0ODAxNTE4MF19
 -->
