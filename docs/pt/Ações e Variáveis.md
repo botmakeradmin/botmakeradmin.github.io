@@ -1,6 +1,9 @@
 # Ações e Variáveis
 
-Olá! Aqui vamos aprender a usar variáveis e ações 
+Olá! Aqui vamos aprender a usar variáveis e ações na plataforma BotMaker.
+
+## Variáveis
+As variáveis são um nome simbólico que ´
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc1MjM4ODMsODc3NTI1NTc3XX0=
+eyJoaXN0b3J5IjpbODMxNDU1NTQ0LDg3NzUyNTU3N119
 -->
