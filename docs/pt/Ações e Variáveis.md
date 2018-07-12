@@ -29,7 +29,10 @@ As variáveis mais utilizadas são:
 - **lastBotSentence**: última mensagem do Bot;
 - **ruleCountInSession**: quantas vezes foi disparada uma regra na sessão;
 - **thisWasLastIntentToRun**: esta foi a última regra a ser executada.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NjI4OTAwLC0xOTMwMjM5NjQ3LC03Mz
-Q4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1NzddfQ==
+eyJoaXN0b3J5IjpbLTEzMDI0ODkyMTYsNDE2NjI4OTAwLC0xOT
+MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
+NzddfQ==
 -->
