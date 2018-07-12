@@ -15,7 +15,9 @@ Assim que permitido, clique em **"Páginas"**, onde aparecerão as fanpages disp
 Selecione e salve, clicando em **"Salvar"**.
 
 ## WebChat
+Na sessão WebChat, a integração poderá ser feita - primeiramente - ativando-o.
 
+Assim que ativado, copie o código 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODAxNTE4MF19
+eyJoaXN0b3J5IjpbLTE5NTc3NjUwNTcsLTQ0ODAxNTE4MF19
 -->
