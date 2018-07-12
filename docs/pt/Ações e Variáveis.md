@@ -52,9 +52,12 @@ As ações permitem agregar ao Bot, de maneira simples, comportamentos pré defi
 ### Principais ações:
 A seguir, apresentaremos uma lista das principais ações disponíveis na plataforma, com uma breve explicação de cada uma.
 
-- **Question**: permite fazer perguntas ao usuário e guardar sua resposta como um valor em uma variável
+- **Question**: permite fazer perguntas ao usuário e guardar sua resposta como um valor em uma variável;
+- **Go to**: permite redirecionar o fluxo a uma regra;
+- **Send Email**: permite enviar um email a um usuário;
+- **Send to Messenger**: per
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1OTY5NDgxLDQxNjYyODkwMCwtMTkzMD
+eyJoaXN0b3J5IjpbMTQwMDIzMDQ0LDQxNjYyODkwMCwtMTkzMD
 IzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3ODEsODc3NTI1NTc3
 XX0=
 -->
