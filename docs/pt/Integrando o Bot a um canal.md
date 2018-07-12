@@ -18,6 +18,13 @@ Selecione e salve, clicando em **"Salvar"**.
 Na sessão WebChat, a integração poderá ser feita - primeiramente - ativando-o.
 
 Assim que ativado, copie o código correspondente, de START a END, e siga as instruções indicadas para incluir o WebChat na sua página Web. 
+
+Quando finalizado, salve, clicando em **"Salvar"**.
+
+## Outras plataformas
+
+Entre em contato conosco através dos emails correspondentes.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE5NjI4NjgsLTQ0ODAxNTE4MF19
+eyJoaXN0b3J5IjpbMTY3MzQ3Mjk2MSwtNDQ4MDE1MTgwXX0=
 -->
