@@ -5,7 +5,7 @@ Olá! Aqui vamos aprender a usar variáveis e ações na plataforma BotMaker.
 ## Variáveis
 Uma variável é um nome simbólico que se é utilizado para guardar um valor. 
 
-> Por exemplo, na variávei **${nome}**, podem ser valores: "Gabriel", "Julio", "Fernando", etc.
+> Por exemplo, na variável **${nome}**, podem ser valores: "Gabriel", "Julio", "Fernando", etc.
 
 São utilizadas para:
 - Dirigir o fluxo de uma conversa;
@@ -30,6 +30,6 @@ As variáveis mais utilizadas são:
 - **ruleCountInSession**: quantas vezes foi disparada uma regra na sessão;
 - **thisWasLastIntentToRun**: esta foi a última regra a ser executada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOT
-M4NjE4NzgxLDg3NzUyNTU3N119
+eyJoaXN0b3J5IjpbNDE2NjI4OTAwLC0xOTMwMjM5NjQ3LC03Mz
+Q4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1NzddfQ==
 -->
