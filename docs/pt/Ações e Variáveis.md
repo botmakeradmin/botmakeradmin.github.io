@@ -37,9 +37,13 @@ Ademais, também são encontradas as variáveis definidas no Bot e as Tags (tema
 As variáveis são muito úteis no momento de definir quando se deve disparar uma Regra, qual resposta se deve dar no tal contexto ou então para filtrar Relatórios.
 
 - Variáveis como condição de disparo:
-		- Ao aplicar uma condição à um Disparador, a regra somente será disparada
+	- Ao aplicar uma condição à um Disparador, a regra somente será disparada quando for executado o disparador e a condição for comprida. 
+	
+
+	
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMzcwMzE4LDQxNjYyODkwMCwtMTkzMD
+eyJoaXN0b3J5IjpbMjYyMTY3MDM2LDQxNjYyODkwMCwtMTkzMD
 IzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3ODEsODc3NTI1NTc3
 XX0=
 -->
