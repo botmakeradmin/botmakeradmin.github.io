@@ -64,9 +64,11 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Set variable**: permite criar e/ou assignar um determinado valor à uma variável;
 - **Clear variable**: limpa uma (ou todas) variáveis;
 - **SaveCheckpoint/GotoCheckpoint**: permite guardar e recuperar um checkpoint à uma regra;
-- **ClientAction**: permite e
+- **ClientAction**: permite executar uma ação personalizada, definida na sessão de Código;
+- **Callback Url**: permite postar em uma URL;
+- **Generate Rule Url**: gera um link para que se guard
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIxMzY1OTEsMTQwMDIzMDQ0LDQxNj
-YyODkwMCwtMTkzMDIzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3
-ODEsODc3NTI1NTc3XX0=
+eyJoaXN0b3J5IjpbMTIyMzU1Njg3NCwxNDAwMjMwNDQsNDE2Nj
+I4OTAwLC0xOTMwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4
+MSw4Nzc1MjU1NzddfQ==
 -->
