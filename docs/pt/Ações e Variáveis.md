@@ -14,6 +14,12 @@ São utilizadas para:
 - Emissão de Relatórios.
 
 Algumas variáveis acompanham a plataforma como padrão, e a informação que elas contêm se completam de forma automática. Sem maior esforço, também se pode criar novas variáveis de forma manual.
+
+### Principais variáveis:
+
+As variáveis mais utilizadas são:
+
+- **isOpenNow**: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQxNTg0ODYsODc3NTI1NTc3XX0=
+eyJoaXN0b3J5IjpbLTkzODYxODc4MSw4Nzc1MjU1NzddfQ==
 -->
