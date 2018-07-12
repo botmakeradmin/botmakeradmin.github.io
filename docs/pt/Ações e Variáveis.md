@@ -62,9 +62,11 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Mute**: desliga o Bot por 30 minutos;
 - **Notify**: marca a conversa como uma mensagem não lida, para que seja visualizada por um operador;
 - **Set variable**: permite criar e/ou assignar um determinado valor à uma variável;
-- **Clear variable**: limpa uma (ou
+- **Clear variable**: limpa uma (ou todas) variáveis;
+- **SaveCheckpoint/GotoCheckpoint**: permite guardar e recuperar um checkpoint à uma regra;
+- **ClientAction**: permite e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MTQwMDAyLDE0MDAyMzA0NCw0MTY2Mj
-g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
-LDg3NzUyNTU3N119
+eyJoaXN0b3J5IjpbLTEyMjIxMzY1OTEsMTQwMDIzMDQ0LDQxNj
+YyODkwMCwtMTkzMDIzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3
+ODEsODc3NTI1NTc3XX0=
 -->
