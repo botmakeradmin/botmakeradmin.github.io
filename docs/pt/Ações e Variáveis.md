@@ -61,9 +61,10 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Finish**: aborta qualquer fluxo que esteja sendo executado;
 - **Mute**: desliga o Bot por 30 minutos;
 - **Notify**: marca a conversa como uma mensagem não lida, para que seja visualizada por um operador;
-- **
+- **Set variable**: permite criar e/ou assignar um determinado valor à uma variável;
+- **Clear variable**: limpa uma (ou
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQ0Mjc3LDE0MDAyMzA0NCw0MTY2Mj
+eyJoaXN0b3J5IjpbMzc4MTQwMDAyLDE0MDAyMzA0NCw0MTY2Mj
 g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
 LDg3NzUyNTU3N119
 -->
