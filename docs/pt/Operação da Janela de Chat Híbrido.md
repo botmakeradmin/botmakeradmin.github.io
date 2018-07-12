@@ -111,13 +111,14 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 - URL de interação;
 - E qualquer outra informação que o Bot solicite ao usuário.
 - 
+- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQzMTE2OTUsLTc1MDAyMTg2NSwtMj
-I2NDkyMzA3LC0yNDIwNDIyMjYsLTEwMTg4NzY2NDcsMTAzNTQ3
-NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5NjQsLTEzMjY5NTk3ND
-gsMTY3NTU3MTE4NSwtMTY5MDk0MjY5NywtMTc5MTg4OTIyNl19
-
+eyJoaXN0b3J5IjpbLTEyNTk0MTA2NDQsLTEyODQzMTE2OTUsLT
+c1MDAyMTg2NSwtMjI2NDkyMzA3LC0yNDIwNDIyMjYsLTEwMTg4
+NzY2NDcsMTAzNTQ3NDQ2NywyMTA0MzQ0NDEzLDE5MjI0Mzk5Nj
+QsLTEzMjY5NTk3NDgsMTY3NTU3MTE4NSwtMTY5MDk0MjY5Nywt
+MTc5MTg4OTIyNl19
 -->
