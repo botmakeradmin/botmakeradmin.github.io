@@ -5,7 +5,7 @@ Olá! Aqui vamos aprender como fazer a integração do Bot com seu canal de aten
 
 ## Acessar o Menu
 
-
+Para realizar a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzU4NjM2N119
+eyJoaXN0b3J5IjpbLTM3NTM4ODkyXX0=
 -->
