@@ -33,8 +33,10 @@ As variáveis mais utilizadas são:
 Ademais, também são encontradas as variáveis definidas no Bot e as Tags (temas) de usuário (verdadeiro/falso).
 
 ### Onde utilizar variáveis?
+
+As variáveis são muito úteis no momento de definir quando se deve disparar uma Regra, qual resposta se deve dar no seguinte contexto ou então para filtrar Relatórios.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzE0NjgwOCw0MTY2Mjg5MDAsLTE5Mz
-AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
-N119
+eyJoaXN0b3J5IjpbLTE3NTE1NzkyNjUsNDE2NjI4OTAwLC0xOT
+MwMjM5NjQ3LC03MzQ4Mjk0MjksLTkzODYxODc4MSw4Nzc1MjU1
+NzddfQ==
 -->
