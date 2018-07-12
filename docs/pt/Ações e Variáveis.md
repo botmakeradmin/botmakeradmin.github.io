@@ -44,8 +44,12 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 
 - Variáveis como texto dinâmico dentro de uma resposta:
 	- A informação contida em uma variável pode ser utilizada para dar respostas dinâmicas aos usuários, onde a variável será substituída pelo seu conteúdo.
+
+## Ações
+
+As ações permitem agregar ao Bot, de maneira simples, comportamentos pré defi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDUwOTIxMiw0MTY2Mjg5MDAsLTE5Mz
+eyJoaXN0b3J5IjpbMjA2Nzc5NTg1OCw0MTY2Mjg5MDAsLTE5Mz
 AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
 N119
 -->
