@@ -55,9 +55,10 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 - **Question**: permite fazer perguntas ao usuário e guardar sua resposta como um valor em uma variável;
 - **Go to**: permite redirecionar o fluxo a uma regra;
 - **Send Email**: permite enviar um email a um usuário;
-- **Send to Messenger**: permite a
+- **Send to Messenger**: permite adicionar um botão para que o usuário de WebChat conecte suas conta com o Messenger;
+- **Add Topic CTA**: sugere botões com regras 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA3ODIwMjYsMTQwMDIzMDQ0LDQxNj
+eyJoaXN0b3J5IjpbLTE4MTA3NjY5MTIsMTQwMDIzMDQ0LDQxNj
 YyODkwMCwtMTkzMDIzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3
 ODEsODc3NTI1NTc3XX0=
 -->
