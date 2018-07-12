@@ -27,8 +27,8 @@ As variáveis mais utilizadas são:
 - **lastSeen**: última vez que o usuário visualizou;
 - **lastUserSentence**: última mensagem do usuário;
 - **lastBotSentence**: última mensagem do Bot;
-- 
+- **rule
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3Nz
-UyNTU3N119
+eyJoaXN0b3J5IjpbLTE2MjgzNjIwOSwtNzM0ODI5NDI5LC05Mz
+g2MTg3ODEsODc3NTI1NTc3XX0=
 -->
