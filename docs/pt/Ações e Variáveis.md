@@ -23,8 +23,8 @@ As variáveis mais utilizadas são:
 - **operatorsConnectedQty**: quantidade de operadores conectados;
 - **chatPlatform**: plataforma em que está acontecendo a conversa, pode ser "messenger", "webchat", "skype", etc;
 - **isWebChatMobile**: se o usuário está conversando através de um WebChat mobile;
-- 
+- **isSubscribe**: com valores **true** ou **false**, indica se o usuário está inscrito 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMzOTQ2MDEsLTkzODYxODc4MSw4Nz
+eyJoaXN0b3J5IjpbLTEzNDYyMzIxNDYsLTkzODYxODc4MSw4Nz
 c1MjU1NzddfQ==
 -->
