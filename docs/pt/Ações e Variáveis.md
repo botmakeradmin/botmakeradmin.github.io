@@ -17,7 +17,7 @@ Algumas variáveis acompanham a plataforma como padrão, e a informação que el
 
 ### Principais variáveis:
 
-As variáveis mais utilizadas são:
+A seguir, apresentaremos uma lista das principais variáveis disponíveis na plataforma, com uma breve explicação de cada uma.
 
 - **isOpenNow**: com valores **true** ou **false**, indica se o Bot responderá no horário de atendimento ou não;
 - **operatorsConnectedQty**: quantidade de operadores conectados;
@@ -50,9 +50,11 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 As ações permitem agregar ao Bot, de maneira simples, comportamentos pré definidos.
 
 ### Principais ações:
-A seguir, apresentaremos uma lista das principais ações disponíveis na plataforma, com uma breve explicação
+A seguir, apresentaremos uma lista das principais ações disponíveis na plataforma, com uma breve explicação de cada uma.
+
+- **Question**: permite fazer perguntas ao usuário e guardar sua resposta como um valor em uma variável
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk3MzA0Nyw0MTY2Mjg5MDAsLTE5Mz
-AyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4NzgxLDg3NzUyNTU3
-N119
+eyJoaXN0b3J5IjpbNjI1OTY5NDgxLDQxNjYyODkwMCwtMTkzMD
+IzOTY0NywtNzM0ODI5NDI5LC05Mzg2MTg3ODEsODc3NTI1NTc3
+XX0=
 -->
