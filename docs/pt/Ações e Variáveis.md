@@ -19,9 +19,10 @@ Algumas variáveis acompanham a plataforma como padrão, e a informação que el
 
 As variáveis mais utilizadas são:
 
-- **isOpenNow**: com valores **true** ou **false**, indica se o Bot responderá no horário de atendimento ou não.
-- 
+- **isOpenNow**: com valores **true** ou **false**, indica se o Bot responderá no horário de atendimento ou não;
+- **operatorsConnectedQty**: quantidade de operadores conectados;
+- **chatPlatform**: plataforma em que está acontecendo a conversa, pode ser "messe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTkwNDY1NSwtOTM4NjE4NzgxLDg3Nz
-UyNTU3N119
+eyJoaXN0b3J5IjpbMjAxNzM1OTIsLTkzODYxODc4MSw4Nzc1Mj
+U1NzddfQ==
 -->
