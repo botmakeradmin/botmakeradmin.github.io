@@ -18,7 +18,7 @@ Then go to the rule you're interested and in the response screen, in there you o
 Node.js v6.14.0 is supported and a faily common list of libraries are whitelisted:
 
 ```javascript
-  "dependencies": {
+  {
     "@turf/helpers": "^6.1.4", // accessed by "turfHelpers" var
     "@turf/turf": "^5.1.6", // accessed by "turf" var
     "bluebird": "^3.5.1", // accessed by "bluebird" var
@@ -48,10 +48,10 @@ When the code is invoked, all the information we know about the user, conversati
 
 A read-only object that has relevant information that a Code Action might need. It has
 
-- *bot*: settings and other data related to the bot (not the current user or conversation)
-- *userData*: all the data related to an user
-- *message*: data related to last message from the user
-- *params*: optional params that can be passed by a rule
+- **bot**: settings and other data related to the bot (not the current user or conversation)
+- **userData**: all the data related to an user
+- **message**: data related to last message from the user
+- **params**: optional params that can be passed by a rule
 
 _For example:_
 
@@ -78,7 +78,7 @@ if ( !userSession.get('userJustTalked') )
 ## user object
 
 Allows to read and write variables that will persist in the user forever. This is an useful place to store data related to the user.
-*Keep in mind that values have to be of type string*
+**Keep in mind that values have to be of type string**
 
 - To read a value: ```user.get('valueKey')``` => will return a string value or null
 - To write a value: ```user.set('valueKey', 'value')```
@@ -91,9 +91,26 @@ if ( !user.get('neverWasHere') )
 ```
 
 
+## entityLoader object
 
-entityLoader
-connectRedis
+When a cvs file is saved in the Entities option of the platform, Client Actions can access them. For instance, a store list can be filtered and showed to the user based on his location.
+
+```javascript
+entityLoader('entity name', json => {
+  // here you got your entity object loaded as JSON
+});
+```
+
+
+## connectRedis object
+
+A Redis db instance is available for usage within the Client Actions. You can do
+
+```javascript
+const redis = connectRedis();
+const myKey = redis.get('key');
+```
+
 
 ## Client Action Result
 
