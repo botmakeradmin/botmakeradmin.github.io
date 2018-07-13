@@ -122,3 +122,10 @@ result
  done(): marks the code as finished(). It's mandatory to call this method when the execution's done
  session(varName, varValue): saves the varValue in a varName with scope session (it will be there for a couple of minutes)
  user(varName, varValue): saves the varValue in a varName with scope user (it will be there forever)
+
+
+una propuesta: que user.get('neverWasHere') ) y  userSession.set('neverWasHere', 'true');
+
+se guarden tambien en variableValues , ademas de escribir en clientActionVars por compatibilidad
+con eso estamos como queremos
+BTW esta muy linda la doc
