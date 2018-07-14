@@ -112,7 +112,7 @@ const myKey = redis.get('key');
 ```
 
 
-## Client Action Result
+# Client Action Result
 
 Any side effect that the Client Action wants to create must be done using the **result** object.
 
@@ -135,7 +135,16 @@ result.buttonsBuilder()
   .send(); // send must by always called to finalize
 ```
 
-# Client Action end mark
+## Go to anothe rule
+
+This handy method makes possible to execute a rule when the Client Action ends. This is helpful when after saying something to the user or change some session or user state, you want to fire a rule to continue the conversational flow. 
+
+```javascript
+result.gotoRule('a rule name');
+```
+
+
+## Client Action end mark
 
 ```result.done()``` should be called to mark that the Client Action was finished. 
 
