@@ -114,18 +114,49 @@ const myKey = redis.get('key');
 
 ## Client Action Result
 
-result
+Any side effect that the Client Action wants to create must be done using the **result** object.
+
+- To say something to the user as text: ```result.text('a message')```
+- To show an image to the user: ```result.image('https://example.com/image.jpg')```
+- To show a video to the user: ```result.video('https://example.com/video.mp4')```
+- To send a file to the user: ```result.image('https://example.com/myfile.doc')```
+- To send audio to the user: ```result.audio('https://example.com/audio.mp3')```
+
+It is also possible to show a text with actions buttons:
+
+```javascript
+result.buttonsBuilder()
+  .text('select an option')
+  .addURLButton('click me', 'https://www.google.com') // a button that will open a page
+  .addLocationButton() // ask the user for its location using GPSs
+  .quickReplies() // marks the button so it's showed as pills
+  .addPhoneButton('call me', '+11233212312')
+  .addButton('click me', 'rule with name XX') // when user clicks it will fire the rule named XX
+  .send(); // send must by always called to finalize
+```
+
+# Client Action end mark
+
+```result.done()``` should be called to mark that the Client Action was finished. 
+
+**It's is important to call _result.done()_ method in every flow that the code has in order to finish the execution**
+
+_The following code shows a well implemented Client Action with _done()_ method called in every flow:
 
 
- 3. a var called 'res' is also provided and supports the methods:
- text(message): says a string the message
- done(): marks the code as finished(). It's mandatory to call this method when the execution's done
- session(varName, varValue): saves the varValue in a varName with scope session (it will be there for a couple of minutes)
- user(varName, varValue): saves the varValue in a varName with scope user (it will be there forever)
+```javascript
+rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1VucMVgVvhul5XqS9HkAyJY/exec?tz=Asia/Tokyo Japan', json: true})
+    .then(json=> {
+        // saying the time
+        result.text('The time in Tokyo is ' + json.fulldate);
 
-
-una propuesta: que user.get('neverWasHere') ) y  userSession.set('neverWasHere', 'true');
-
-se guarden tambien en variableValues , ademas de escribir en clientActionVars por compatibilidad
-con eso estamos como queremos
-BTW esta muy linda la doc
+        // do not forget to end the execution
+        result.done();
+    })
+    .catch(error => {
+        result.text('Problems: ' + error + '|' + JSON.stringify(error));
+        result.done();
+    });
+    
+// even though the code ends here, the Client Action will run until result.done() was reached
+```
