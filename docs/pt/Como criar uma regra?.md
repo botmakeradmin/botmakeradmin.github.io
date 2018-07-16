@@ -50,6 +50,8 @@ Os elementos da mensagem podem ser:
 ### Texto
 Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada.
 
+<iframe src="https://drive.google.com/file/d/1sFctQwQ3Xsb-WjMa7LKTaq3lGVa_rbLE/preview" width="640" height="480"></iframe>
+
 ###  Botões
 Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
 
@@ -82,14 +84,22 @@ Temos um artigo inteiro sobre elas, que poderá te ajudar a aprender sobre seus 
 [Clique aqui para acessar!](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/A%C3%A7%C3%B5es%20e%20Vari%C3%A1veis.md)
 
 ### Mídia
-Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo.
+Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo 
+
+
+staeditdaaoaigsi
 
 ### Vídeo ilustrativo
 
 No vídeo abaixo, você verá como adicionar textos, botões, mídias e ações, na prática.
 
 [![](http://img.youtube.com/vi/bzvXxP1gDtA/0.jpg)](http://www.youtube.com/watch?v=bzvXxP1gDtA "")
+### Carrossel
 
+### Ações
+
+### Mídia
+Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
 
 
 <!--stackedit_data:
@@ -99,4 +109,7 @@ MDkyLDEyODMzMjk0NTVdfQ==
 -->
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNTkyNzU5NTAxXX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzM5MTg4MjNdfQ==
 -->
