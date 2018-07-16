@@ -33,8 +33,10 @@ O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou
 
 ## Respostas amplas
 
-De maneira a multiplicar o universo de perguntas que poderiam ser respondida com uma mesma resposta, é recomendável que as mesmas estejam redigidas 
+De maneira a multiplicar o universo de perguntas que poderiam ser respondida com uma mesma resposta, é recomendável que as mesmas estejam redigidas de maneira ampla.
+
+É uma boa prática evitar respostas que comecem com "Sim" ou "Não", dado que elas seriam muito restritivas, e podem não ser aplicadas a maioria das formas diferentes do usuário fazer a mesma 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDE3MTcyMiw5MTA2OTMzNDMsLTExNj
+eyJoaXN0b3J5IjpbLTQyOTkwNjIxMCw5MTA2OTMzNDMsLTExNj
 A4NDEzNDIsMTIxNzM0NTI4Nl19
 -->
