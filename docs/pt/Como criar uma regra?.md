@@ -43,6 +43,8 @@ Os elementos da mensagem podem ser:
 ### Texto
 Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada
 
+<iframe src="https://drive.google.com/file/d/1sFctQwQ3Xsb-WjMa7LKTaq3lGVa_rbLE/preview" width="640" height="480"></iframe>
+
 ###  Botões
 Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
 
