@@ -25,9 +25,11 @@ Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as 
 
 ## Disparadores por tempo de inatividade
 
-Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré selecionado 
+Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré definido ser atingido. O tempo computado será o tempo em que o usuário não enviou nada ao Bot.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMjUyMTI1LDE1OTU4OTcxMDYsMTQ0Nz
-U0NjA5MiwxMjgzMzI5NDU1XX0=
+eyJoaXN0b3J5IjpbLTE5MDI2NTgxNzAsMTU5NTg5NzEwNiwxND
+Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
 -->
