@@ -27,7 +27,8 @@ Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as 
 
 **Dicas:**
 
-- Não use disparadores com poucas palavras chaves, pois deixará a regra muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida
+- Não use disparadores com poucas palavras chaves, pois deixará a regra muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida com outra solicitação.
+- 
 
 ### Disparadores por tempo de inatividade
 
@@ -36,6 +37,6 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2OTIyMjA1LDE1OTU4OTcxMDYsMTQ0Nz
-U0NjA5MiwxMjgzMzI5NDU1XX0=
+eyJoaXN0b3J5IjpbMTQ3ODk1Njg2NSwxNTk1ODk3MTA2LDE0ND
+c1NDYwOTIsMTI4MzMyOTQ1NV19
 -->
