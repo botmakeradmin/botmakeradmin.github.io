@@ -49,8 +49,9 @@ Pressionando o botão +Botões, poderá ser adicionado um texto com opções, es
 Esses botões podem ser:
 
 - Abrir link
-- Disparar uma regra
+- Disparar uma regra (*Fire rule*) - 
 - Compartilhar
+- Chamada (Chamar)
 
 ### Carrossel
 
@@ -60,7 +61,7 @@ Esses botões podem ser:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjgzMDQxNywtMjE0NDUzMDM4NSwxNT
-Q1NTI1NzM0LDE1OTU4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5
-NDU1XX0=
+eyJoaXN0b3J5IjpbNjgwOTc2OTAwLDEzMzY4MzA0MTcsLTIxND
+Q1MzAzODUsMTU0NTUyNTczNCwxNTk1ODk3MTA2LDE0NDc1NDYw
+OTIsMTI4MzMyOTQ1NV19
 -->
