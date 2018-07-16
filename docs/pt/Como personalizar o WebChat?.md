@@ -21,8 +21,15 @@ Os parâmetros editáveis no cabeçalho de WebChat são:
 - Logo;
 - Fonte, cores e tamanho do título;
 - Cor de fundo;
-- Fonte, 
+- Fonte, cor e tamanho do ícone de minimizar.
+
+## Corpo de WebChat
+
+Os parâmetros editáveis do corpo do WebChat são:
+
+- Cor de fundo;
+- Fonte, cores e tamanho da
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNjM0MTYwXX0=
+eyJoaXN0b3J5IjpbMjE1NzM0ODg2XX0=
 -->
