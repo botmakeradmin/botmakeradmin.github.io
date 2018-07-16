@@ -41,7 +41,7 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 Os elementos da mensagem podem ser:
 
 ### Texto
-Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada
+Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada.
 
 [![](http://img.youtube.com/vi/_a3CSq0jIOo/0.jpg)](http://www.youtube.com/watch?v=_a3CSq0jIOo "")
 
@@ -52,6 +52,7 @@ Esses botões podem ser:
 
 - Abrir link
 - Disparar uma regra (*Fire rule*)
+[![](http://img.youtube.com/vi/DN_S3eBYt8c/0.jpg)](http://www.youtube.com/watch?v=DN_S3eBYt8c "")
 - Compartilhar
 - Chamada (Chamar)
 
