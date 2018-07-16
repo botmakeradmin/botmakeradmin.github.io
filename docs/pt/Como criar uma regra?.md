@@ -38,9 +38,10 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 
  Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**.
 
-Podem ser:
+Os elementos da mensagem podem ser:
 
 ### Texto
+Pressionando o botão +Texto
 
 ###  Botões
 
@@ -52,6 +53,6 @@ Podem ser:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkxMzY2NSwxNTQ1NTI1NzM0LDE1OT
-U4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5NDU1XX0=
+eyJoaXN0b3J5IjpbNzM4MTkyNTEsMTU0NTUyNTczNCwxNTk1OD
+k3MTA2LDE0NDc1NDYwOTIsMTI4MzMyOTQ1NV19
 -->
