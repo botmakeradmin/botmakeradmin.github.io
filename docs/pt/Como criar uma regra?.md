@@ -69,6 +69,10 @@ Pressionando o botão +Carrossel, será possível adicionar diversas imagens, co
 ![Carrossel](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Carrossel.png)
 
 ### Ações
+As ações permitem agregar ao Bot, de maneira simples, comportamentos pré definidos.
+
+Temos um artigo inteiro sobre elas, que poderá te ajudar a aprender sobre seus usos! 
+[Ações](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/A%C3%A7%C3%B5es%20e%20Vari%C3%A1veis.md)
 
 ### Mídia
 Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo.
