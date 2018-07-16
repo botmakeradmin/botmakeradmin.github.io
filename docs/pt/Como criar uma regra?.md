@@ -16,9 +16,15 @@ Os diparadores por compreensão de uma frase podem ser de dois tipos:
 
 ### Frases estáticas
 
-O Bot será muito restrito com a compreensão dessas frases, e somente pequenas variações ser
+O Bot será muito restrito com a compreensão dessas frases, e somente pequenas variações serão interpretadas - como sinônimos globais.
+
+### Frases com variáveis
+
+Nesse caso, as palavras marcadas como **"palavras importantes"**
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzIzMDg3NDUsMTU5NTg5NzEwNiwxND
-Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
+eyJoaXN0b3J5IjpbNDkyMDAxMDI1LDE1OTU4OTcxMDYsMTQ0Nz
+U0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
