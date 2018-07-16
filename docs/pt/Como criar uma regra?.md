@@ -44,7 +44,9 @@ Os elementos da mensagem podem ser:
 Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada
 
 ###  Botões
-Pressionando o botão +Botões, poderá ser adicionado 
+Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
+
+Esses botões podem ser 
 
 ### Carrossel
 
@@ -54,6 +56,7 @@ Pressionando o botão +Botões, poderá ser adicionado
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ1MzAzODUsMTU0NTUyNTczNCwxNT
-k1ODk3MTA2LDE0NDc1NDYwOTIsMTI4MzMyOTQ1NV19
+eyJoaXN0b3J5IjpbMTMxNjQ2NTcwMCwtMjE0NDUzMDM4NSwxNT
+Q1NTI1NzM0LDE1OTU4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5
+NDU1XX0=
 -->
