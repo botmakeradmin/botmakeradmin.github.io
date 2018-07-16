@@ -6,9 +6,14 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 
 - **Disparadores**: sob que condições e/ou mensagens de usuários, a regra deverá ser disparada? Podem ser:
 
-	- Por co
+	- Por compreensão de uma mensagem do usuário;
+	- Por tempo de inatividade do usuário.
+
+- **Resposta**: quando compreendido o disparador, o que o Bot fará?
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTIxNjgyOSwxNDQ3NTQ2MDkyLDEyOD
+eyJoaXN0b3J5IjpbLTQyMzI0OTM3MSwxNDQ3NTQ2MDkyLDEyOD
 MzMjk0NTVdfQ==
 -->
