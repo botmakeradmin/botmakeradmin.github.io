@@ -6,7 +6,7 @@ Olá! Aqui vamos aprender quais são as melhores práticas que a BotMaker, com b
 
 Independentemente do objetivo e alcance do Bot, um chat é um canal de comunicação, e os usuários sempre o utilizará para perguntar seja o que for.
 
-É recomendado que o Bot possa entender a maior variedade de perguntas possíveis e responde-las 
+É recomendado que o Bot possa entender a maior variedade de perguntas possíveis e responde-las, mesmo que você não tenha a resposta especificamente. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA0MDcxLDEyMTczNDUyODZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc2MzU2MDAsMTIxNzM0NTI4Nl19
 -->
