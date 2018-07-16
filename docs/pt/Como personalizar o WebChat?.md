@@ -11,7 +11,14 @@ Os parâmetros editáveis da aba de WebChat minimizada são:
 - Cores: podem ser diferentes para a aba, o texto e o ícone.
 - Fonte e tamanho do ícone e texto.
 
-## Cabeçalho de
+## Cabeçalho de WebChat
+
+Os parâmetros editáveis no cabeçalho de WebChat são:
+
+- Logo;
+- Fonte, cores e tamanho do título;
+- Cor de fundo;
+- Fonte, cores
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzUyOTk5NF19
+eyJoaXN0b3J5IjpbMTA3NTY1OTQ3OF19
 -->
