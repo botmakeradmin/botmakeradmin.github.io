@@ -41,8 +41,8 @@ De maneira a multiplicar o universo de perguntas que poderiam ser respondida com
 
 Ao redigir uma resposta, é recomendável dar a entender ao usuário que o Bot entendeu a pergunta, e que está respondendo corretamente.
 
-Por exemplo, na pergunta
+Por exemplo, na pergunta: "Qual o preço do estacionamento?", a resposta deveria ser "O preço do estacionamento é de R$25 a hora" - ao invés de: "R$50 a hora".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNTEyNzAzLDkxMDY5MzM0MywtMTE2MD
-g0MTM0MiwxMjE3MzQ1Mjg2XX0=
+eyJoaXN0b3J5IjpbLTE3MzMzNzU3NDIsOTEwNjkzMzQzLC0xMT
+YwODQxMzQyLDEyMTczNDUyODZdfQ==
 -->
