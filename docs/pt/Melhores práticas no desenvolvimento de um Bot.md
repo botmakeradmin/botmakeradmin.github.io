@@ -23,8 +23,12 @@ O Bot sempre deve se apresentar como um assistente virutal que foi desenvolvido 
 
 ## Sugestão de informações relacionadas
 
-Após cada resposta, é recomendado que o Bot sempre ofereça aos usuários informações adicionais, relacionadas com sua última consulta. Essa informação pode ser apresentada em formato de botões 
+Após cada resposta, é recomendado que o Bot sempre ofereça aos usuários informações adicionais, relacionadas com sua última consulta. 
+
+Essa informação pode ser apresentada em formato de botões que continuem o fluxo da conversa, como um Menu, ou então botões que redirecionem a páginas Web. 
+
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzQ5OTE3MSw5MTA2OTMzNDMsLTExNj
+eyJoaXN0b3J5IjpbMTQxNDAwMTkxNCw5MTA2OTMzNDMsLTExNj
 A4NDEzNDIsMTIxNzM0NTI4Nl19
 -->
