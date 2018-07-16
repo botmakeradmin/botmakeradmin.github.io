@@ -37,7 +37,13 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 ## Respostas
 
  Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**.
+
+Podem ser:
+
+### Texto
+
+###  Bo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTUyNTczNCwxNTk1ODk3MTA2LDE0ND
-c1NDYwOTIsMTI4MzMyOTQ1NV19
+eyJoaXN0b3J5IjpbMTE5NzE3NzkzMCwxNTQ1NTI1NzM0LDE1OT
+U4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
