@@ -19,8 +19,8 @@ Independentemente do objetivo e alcance do Bot, um chat é um canal de comunica�
 
 ## Apresentação como assistente virtual
 
-
+O Bot sempre deve se apresentar como um assistente virutal que foi desenvolvido para ajudar com informaçnoes correspondentes. Não é nada recomendável
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNjkzMzQzLC0xMTYwODQxMzQyLDEyMT
-czNDUyODZdfQ==
+eyJoaXN0b3J5IjpbNzM0NDQ0ODk1LDkxMDY5MzM0MywtMTE2MD
+g0MTM0MiwxMjE3MzQ1Mjg2XX0=
 -->
