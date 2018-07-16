@@ -25,7 +25,9 @@ O Bot será muito restrito com a compreensão dessas frases, e somente pequenas 
 
 Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a regra.
 
-Dicas:
+**Dicas:**
+
+- Não use disparadores com poucas palavras chaves, pois deixará a regra fácil de ser disparada - e devemos deixá-las 
 
 ### Disparadores por tempo de inatividade
 
@@ -34,6 +36,6 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTAwNzIxODMsMTU5NTg5NzEwNiwxND
-Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
+eyJoaXN0b3J5IjpbNjk3MDIxNTcxLDE1OTU4OTcxMDYsMTQ0Nz
+U0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
