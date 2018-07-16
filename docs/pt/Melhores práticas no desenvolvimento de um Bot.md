@@ -13,7 +13,8 @@ Independentemente do objetivo e alcance do Bot, um chat é um canal de comunica�
 É fundamental ser feita a comunicação correta do propósito e do campo de conhecimento do Bot. Assim coloca-se uma expectativa sob os usuários, sobre os temas que poder ser conversados, a modo de evitar frustrações.
 
 ## Definição de tom
-
+É importante que exista consistência no tom e na linguagem utilizada nas respostas do bot: us
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA4NDEzNDIsMTIxNzM0NTI4Nl19
+eyJoaXN0b3J5IjpbNjk5ODE4NTEyLC0xMTYwODQxMzQyLDEyMT
+czNDUyODZdfQ==
 -->
