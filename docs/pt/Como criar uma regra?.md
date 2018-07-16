@@ -11,7 +11,8 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 
 - **Resposta**: quando compreendido o disparador, o que o Bot fará?
 
-## Disparadores
+## Disparadores por compreensão de frase
+
 Os diparadores por compreensão de uma frase podem ser de dois tipos:
 
 ### Frases estáticas
@@ -22,9 +23,11 @@ O Bot será muito restrito com a compreensão dessas frases, e somente pequenas 
 
 Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a regra.
 
+## Disparadores por tempo de inatividade
 
+Quando ativado um disparador por tempo de inatividade
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODE5MzE2LDE1OTU4OTcxMDYsMTQ0Nz
-U0NjA5MiwxMjgzMzI5NDU1XX0=
+eyJoaXN0b3J5IjpbLTE2Mzk0NTA4OTksMTU5NTg5NzEwNiwxND
+Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
 -->
