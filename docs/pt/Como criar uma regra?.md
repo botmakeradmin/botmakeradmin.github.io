@@ -16,6 +16,7 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 ### Disparadores por compreensão de frase
 
 Os diparadores por compreensão de uma frase podem ser de dois tipos:
+![EstáticoeVariável](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Estatico.png)
 
 #### Frases estáticas
 
