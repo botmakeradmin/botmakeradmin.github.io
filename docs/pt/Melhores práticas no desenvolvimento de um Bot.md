@@ -46,8 +46,9 @@ Por exemplo, na pergunta:
 - A resposta deveria ser: "O preço do estacionamento é de R$25 a hora" - ao invés de: "R$50 a hora".
 
 ## Solicitação de informações pessoais ao usuário
-Sempre que for necessário solicitar informações pessoais ao us
+
+Sempre que for necessário solicitar informações pessoais ao usuário, é importante explicar os motivos dessa solicitação.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxNzk2NjEsOTEwNjkzMzQzLC0xMT
+eyJoaXN0b3J5IjpbLTE3NTUxMjM0NTUsOTEwNjkzMzQzLC0xMT
 YwODQxMzQyLDEyMTczNDUyODZdfQ==
 -->
