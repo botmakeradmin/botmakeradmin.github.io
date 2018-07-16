@@ -52,7 +52,7 @@ Esses botões podem ser:
 
 - Abrir link
 
-[![](http://img.youtube.com/vi/FUBARvx-tDo/0.jpg)](http://www.youtube.com/watch?v=FUBARvx-tDo "")
+[![Abrir link](http://img.youtube.com/vi/FUBARvx-tDo/0.jpg)](http://www.youtube.com/watch?v=FUBARvx-tDo "")
 - Disparar uma regra (*Fire rule*)
 
 [![](http://img.youtube.com/vi/DN_S3eBYt8c/0.jpg)](http://www.youtube.com/watch?v=DN_S3eBYt8c "")
