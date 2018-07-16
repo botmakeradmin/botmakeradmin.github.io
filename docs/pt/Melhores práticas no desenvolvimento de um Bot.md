@@ -29,10 +29,10 @@ Essa informação pode ser apresentada em formato de botões que continuem o flu
 
 ## Formato conversacional das respostas
 
-O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou seja:
+O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou seja: as respostas devem ser, preferencialmente, curtas, de maneira a serem legíveis em uma tela de celular - sem necessidade de rolagem.
 
-- As respostas
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTk3Miw5MTA2OTMzNDMsLTExNjA4ND
-EzNDIsMTIxNzM0NTI4Nl19
+eyJoaXN0b3J5IjpbLTEyNjA4MTc0NTQsOTEwNjkzMzQzLC0xMT
+YwODQxMzQyLDEyMTczNDUyODZdfQ==
 -->
