@@ -21,8 +21,10 @@ Independentemente do objetivo e alcance do Bot, um chat é um canal de comunica�
 
 O Bot sempre deve se apresentar como um assistente virutal que foi desenvolvido para ajudar com informaçnoes correspondentes. Não é nada recomendável que os usuários entendam que estão falando com um humano.
 
-## Sugestão de informações relaciondas
+## Sugestão de informações relacionadas
+
+Após cada resposta, é recomendado que o Bot sempre ofereça aos usuários informações adicionais, relacionadas com sua última consulta. Essa informação pode ser apresentada em formato de botões 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4Nzc5MDY5LDkxMDY5MzM0MywtMTE2MD
-g0MTM0MiwxMjE3MzQ1Mjg2XX0=
+eyJoaXN0b3J5IjpbMTQyNzQ5OTE3MSw5MTA2OTMzNDMsLTExNj
+A4NDEzNDIsMTIxNzM0NTI4Nl19
 -->
