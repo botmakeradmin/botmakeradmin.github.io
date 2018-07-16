@@ -43,8 +43,6 @@ Os elementos da mensagem podem ser:
 ### Texto
 Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada.
 
-[![](http://img.youtube.com/vi/_a3CSq0jIOo/0.jpg)](http://www.youtube.com/watch?v=_a3CSq0jIOo "")
-
 ###  Botões
 Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
 
