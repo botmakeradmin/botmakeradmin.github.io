@@ -49,7 +49,7 @@ Pressionando o botão +Botões, poderá ser adicionado um texto com opções, es
 Esses botões podem ser:
 
 - Abrir link
-- Disparar uma regra (*Fire rule*) - 
+- Disparar uma regra (*Fire rule*)
 - Compartilhar
 - Chamada (Chamar)
 
@@ -58,10 +58,11 @@ Esses botões podem ser:
 ### Ações
 
 ### Mídia
+Pressionando o botão +Mídia, poderá  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwOTc2OTAwLDEzMzY4MzA0MTcsLTIxND
+eyJoaXN0b3J5IjpbNTQ0NjM4ODQ2LDEzMzY4MzA0MTcsLTIxND
 Q1MzAzODUsMTU0NTUyNTczNCwxNTk1ODk3MTA2LDE0NDc1NDYw
 OTIsMTI4MzMyOTQ1NV19
 -->
