@@ -46,7 +46,11 @@ Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem qu
 ###  Botões
 Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
 
-Esses botões podem ser 
+Esses botões podem ser:
+
+- Abrir link
+- Disparar uma regra
+- Compartilhar
 
 ### Carrossel
 
@@ -56,7 +60,7 @@ Esses botões podem ser
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjQ2NTcwMCwtMjE0NDUzMDM4NSwxNT
+eyJoaXN0b3J5IjpbMTMzNjgzMDQxNywtMjE0NDUzMDM4NSwxNT
 Q1NTI1NzM0LDE1OTU4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5
 NDU1XX0=
 -->
