@@ -52,6 +52,7 @@ Esses botões podem ser:
 
 - Abrir link
 - Disparar uma regra (*Fire rule*)
+
 [![](http://img.youtube.com/vi/DN_S3eBYt8c/0.jpg)](http://www.youtube.com/watch?v=DN_S3eBYt8c "")
 - Compartilhar
 - Chamada (Chamar)
