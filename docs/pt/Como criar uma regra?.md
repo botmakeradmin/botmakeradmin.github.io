@@ -42,8 +42,16 @@ Podem ser:
 
 ### Texto
 
-###  Bo
+###  Botões
+
+### Carrossel
+
+### Ações
+
+### Mídia
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzE3NzkzMCwxNTQ1NTI1NzM0LDE1OT
+eyJoaXN0b3J5IjpbLTE5ODkxMzY2NSwxNTQ1NTI1NzM0LDE1OT
 U4OTcxMDYsMTQ0NzU0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
