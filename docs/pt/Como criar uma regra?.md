@@ -11,9 +11,9 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 
 - **Resposta**: quando compreendido o disparador, o que o Bot fará?
 
-
+## Disparadores:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzI0OTM3MSwxNDQ3NTQ2MDkyLDEyOD
+eyJoaXN0b3J5IjpbMTU5NTg5NzEwNiwxNDQ3NTQ2MDkyLDEyOD
 MzMjk0NTVdfQ==
 -->
