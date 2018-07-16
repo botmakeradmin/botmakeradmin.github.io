@@ -64,11 +64,14 @@ Sem resposta rápida ativada:
 ![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
 
 ### Carrossel
+Pressionando o botão +Carrossel, será possível adicionar diversas imagens, com possibilidade de adicionar nome, descrição e botões, no formato de Carrossel, como observamos abaixo:
+
+![Carrossel](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Carrossel.png)
 
 ### Ações
 
 ### Mídia
-Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
+Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo.
 
 ### Vídeo ilustrativo
 
