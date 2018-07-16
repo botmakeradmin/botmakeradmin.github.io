@@ -31,8 +31,10 @@ Essa informação pode ser apresentada em formato de botões que continuem o flu
 
 O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou seja: as respostas devem ser, preferencialmente, curtas, de maneira a serem legíveis em uma tela de celular - sem necessidade de rolagem.
 
+## Respostas amplas
 
+De maneira a multiplicar o universo de perguntas que poderiam ser respondida com uma mesma resposta, é recomendável que as mesmas estejam redigidas 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA4MTc0NTQsOTEwNjkzMzQzLC0xMT
-YwODQxMzQyLDEyMTczNDUyODZdfQ==
+eyJoaXN0b3J5IjpbLTgyNDE3MTcyMiw5MTA2OTMzNDMsLTExNj
+A4NDEzNDIsMTIxNzM0NTI4Nl19
 -->
