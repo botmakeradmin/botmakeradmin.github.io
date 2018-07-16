@@ -11,9 +11,14 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 
 - **Resposta**: quando compreendido o disparador, o que o Bot fará?
 
-## Disparadores:
+## Disparadores
+Os diparadores por compreensão de uma frase podem ser de dois tipos:
+
+### Frases estáticas
+
+O Bot será muito restrito com a compreensão dessas frases, e somente pequenas variações ser
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTg5NzEwNiwxNDQ3NTQ2MDkyLDEyOD
-MzMjk0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3MzIzMDg3NDUsMTU5NTg5NzEwNiwxND
+Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
 -->
