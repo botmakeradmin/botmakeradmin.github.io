@@ -57,7 +57,11 @@ Esses botões podem ser:
 
 Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado quando os botões adicionados forem de redirecionamento para regras. Essa opção mudará o formato do botão, no Messenger e no WebChat, como podemos ver abaixo:
 
+Com resposta rápida ativada:
+
 ![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg)
+
+Sem resposta rápida ativada:
 
 ![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
 
