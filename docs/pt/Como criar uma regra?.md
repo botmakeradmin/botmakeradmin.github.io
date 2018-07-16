@@ -26,6 +26,7 @@ O Bot será muito restrito com a compreensão dessas frases, e somente pequenas 
 
 Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a regra.
 
+
 **Dicas:**
 
 - Não use disparadores com poucas palavras chaves, pois deixará a regra muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida com outra solicitação.
@@ -34,6 +35,11 @@ Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as 
 ### Disparadores por tempo de inatividade
 
 Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré definido ser atingido. O tempo computado será o tempo em que o usuário não enviou nada ao Bot.
+
+Para utilizar o disparador por tempo de inatividade, siga o procedimento do vídeo abaixo:
+
+[![](http://img.youtube.com/vi/uROmiorHU-c/0.jpg)](http://www.youtube.com/watch?v=uROmiorHU-c "")
+
 
 ## Respostas
 
