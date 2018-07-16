@@ -27,8 +27,12 @@ Após cada resposta, é recomendado que o Bot sempre ofereça aos usuários info
 
 Essa informação pode ser apresentada em formato de botões que continuem o fluxo da conversa, como um Menu, ou então botões que redirecionem a páginas Web. 
 
-## 
+## Formato conversacional das respostas
+
+O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou seja:
+
+- As respostas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDAwMTkxNCw5MTA2OTMzNDMsLTExNj
-A4NDEzNDIsMTIxNzM0NTI4Nl19
+eyJoaXN0b3J5IjpbNjkyOTk3Miw5MTA2OTMzNDMsLTExNjA4ND
+EzNDIsMTIxNzM0NTI4Nl19
 -->
