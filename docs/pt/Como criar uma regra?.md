@@ -25,9 +25,9 @@ Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as 
 
 ## Disparadores por tempo de inatividade
 
-Quando ativado um disparador por tempo de inatividade
+Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré selecionado 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0NTA4OTksMTU5NTg5NzEwNiwxND
-Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
+eyJoaXN0b3J5IjpbMzYzMjUyMTI1LDE1OTU4OTcxMDYsMTQ0Nz
+U0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
