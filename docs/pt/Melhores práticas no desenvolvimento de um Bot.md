@@ -35,8 +35,14 @@ O Bot sempre deve responder com conteúdo redigido em formato conversacional, ou
 
 De maneira a multiplicar o universo de perguntas que poderiam ser respondida com uma mesma resposta, é recomendável que as mesmas estejam redigidas de maneira ampla.
 
-É uma boa prática evitar respostas que comecem com "Sim" ou "Não", dado que elas seriam muito restritivas, e podem não ser aplicadas a maioria das formas diferentes do usuário fazer a mesma 
+É uma boa prática evitar respostas que comecem com "Sim" ou "Não", dado que elas seriam muito restritivas, e podem não ser aplicadas a maioria das formas diferentes do usuário fazer a mesma solicitação.
+
+## O usuário deve saber que entendemos sua pergunta
+
+Ao redigir uma resposta, é recomendável dar a entender ao usuário que o Bot entendeu a pergunta, e que está respondendo corretamente.
+
+Por exemplo, na pergunta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTkwNjIxMCw5MTA2OTMzNDMsLTExNj
-A4NDEzNDIsMTIxNzM0NTI4Nl19
+eyJoaXN0b3J5IjpbMjgyNTEyNzAzLDkxMDY5MzM0MywtMTE2MD
+g0MTM0MiwxMjE3MzQ1Mjg2XX0=
 -->
