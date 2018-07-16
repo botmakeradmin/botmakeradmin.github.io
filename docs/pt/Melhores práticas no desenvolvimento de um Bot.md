@@ -10,7 +10,7 @@ Independentemente do objetivo e alcance do Bot, um chat é um canal de comunica�
 
 ## Comunicação do objetivo do Bot
 
-É fundamental 
+É fundamental ser feita a comunicação correta do propóstio e do campo de conhecimento do Bot, de maneira a colocar uma expectativa aos usuários sobre os temas que poder ser c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYyODIwNTcsMTIxNzM0NTI4Nl19
+eyJoaXN0b3J5IjpbMTUxMTA2MTUwMiwxMjE3MzQ1Mjg2XX0=
 -->
