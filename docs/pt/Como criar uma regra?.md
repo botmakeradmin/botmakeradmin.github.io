@@ -20,11 +20,11 @@ O Bot será muito restrito com a compreensão dessas frases, e somente pequenas 
 
 ### Frases com variáveis
 
-Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além 
+Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a regra.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA5ODU2NDMsMTU5NTg5NzEwNiwxND
-Q3NTQ2MDkyLDEyODMzMjk0NTVdfQ==
+eyJoaXN0b3J5IjpbMTY4ODE5MzE2LDE1OTU4OTcxMDYsMTQ0Nz
+U0NjA5MiwxMjgzMzI5NDU1XX0=
 -->
