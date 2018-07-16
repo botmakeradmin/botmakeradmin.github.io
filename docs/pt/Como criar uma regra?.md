@@ -41,9 +41,10 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 Os elementos da mensagem podem ser:
 
 ### Texto
-Pressionando o botão +Texto
+Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada
 
 ###  Botões
+Pressionando o botão +Botões, poderá ser adicionado 
 
 ### Carrossel
 
@@ -53,6 +54,6 @@ Pressionando o botão +Texto
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MTkyNTEsMTU0NTUyNTczNCwxNTk1OD
-k3MTA2LDE0NDc1NDYwOTIsMTI4MzMyOTQ1NV19
+eyJoaXN0b3J5IjpbLTIxNDQ1MzAzODUsMTU0NTUyNTczNCwxNT
+k1ODk3MTA2LDE0NDc1NDYwOTIsMTI4MzMyOTQ1NV19
 -->
