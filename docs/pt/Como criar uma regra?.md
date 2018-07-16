@@ -58,11 +58,11 @@ Esses botões podem ser:
 ### Ações
 
 ### Mídia
-Pressionando o botão +Mídia, poderá  
+Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NjM4ODQ2LDEzMzY4MzA0MTcsLTIxND
-Q1MzAzODUsMTU0NTUyNTczNCwxNTk1ODk3MTA2LDE0NDc1NDYw
-OTIsMTI4MzMyOTQ1NV19
+eyJoaXN0b3J5IjpbMTU2MjgzNjYyMiwxMzM2ODMwNDE3LC0yMT
+Q0NTMwMzg1LDE1NDU1MjU3MzQsMTU5NTg5NzEwNiwxNDQ3NTQ2
+MDkyLDEyODMzMjk0NTVdfQ==
 -->
