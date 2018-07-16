@@ -55,12 +55,25 @@ Esses botões podem ser:
 - Compartilhar
 - Chamada (Chamar)
 
+Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado quando os botões adicionados forem de redirecionamento para regras. Essa opção mudará o formato do botão, no Messenger e no WebChat, como podemos ver abaixo:
+
+![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg)
+
+![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
+
 ### Carrossel
 
 ### Ações
 
 ### Mídia
 Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
+
+### Vídeo ilustrativo
+
+No vídeo abaixo, você verá como adicionar textos, botões, mídias e ações, na prática.
+
+[![](http://img.youtube.com/vi/bzvXxP1gDtA/0.jpg)](http://www.youtube.com/watch?v=bzvXxP1gDtA "")
+
 
 
 <!--stackedit_data:
