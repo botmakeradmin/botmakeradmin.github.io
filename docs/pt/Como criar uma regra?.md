@@ -28,15 +28,15 @@ Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as 
 **Dicas:**
 
 - Não use disparadores com poucas palavras chaves, pois deixará a regra muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida com outra solicitação.
-- "Brinque" com as possibilidades dos disparadores - observe que você pode duplicar um disparador, podendo desativar uma palavra im
+- "Brinque" com as possibilidades dos disparadores - observe que você pode duplicar um disparador, podendo desativar uma palavra importante (cuidado para não deixar a regra ampla!)
 
 ### Disparadores por tempo de inatividade
 
 Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré definido ser atingido. O tempo computado será o tempo em que o usuário não enviou nada ao Bot.
 
-
+## Respostas
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzg1NzIyMSwxNTk1ODk3MTA2LDE0ND
+eyJoaXN0b3J5IjpbMTg1NDYzNDA2NSwxNTk1ODk3MTA2LDE0ND
 c1NDYwOTIsMTI4MzMyOTQ1NV19
 -->
