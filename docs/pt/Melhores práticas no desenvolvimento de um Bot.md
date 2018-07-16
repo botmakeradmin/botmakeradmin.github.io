@@ -1,6 +1,6 @@
 # Melhores práticas no desenvolvimento de um Bot
 
-Olá! Aqui vamos aprender 
+Olá! Aqui vamos aprender quais são as melhore
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDExODY5N119
+eyJoaXN0b3J5IjpbLTE1MjAxNTY2NV19
 -->
