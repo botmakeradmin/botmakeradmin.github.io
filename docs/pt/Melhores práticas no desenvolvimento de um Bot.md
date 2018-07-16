@@ -49,6 +49,5 @@ Por exemplo, na pergunta:
 
 Sempre que for necessário solicitar informações pessoais ao usuário, é importante explicar os motivos dessa solicitação.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUxMjM0NTUsOTEwNjkzMzQzLC0xMT
-YwODQxMzQyLDEyMTczNDUyODZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTUxMjM0NTVdfQ==
 -->
