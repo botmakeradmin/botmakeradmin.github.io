@@ -35,8 +35,10 @@ Os parâmetros editáveis do corpo do WebChat são:
 
 Os parâmetros editáveis da caixa de resposta do WebChat são:
 
-- Mensagem para 
+- Mensagem fixa para ingresso de texto;
+- Fonte, cor e tamanho do botão **"Enviar"**.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg4MTQzN119
+eyJoaXN0b3J5IjpbLTc4MDUxNzI2NF19
 -->
