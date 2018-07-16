@@ -8,7 +8,8 @@ Quando minimizado, o WebChat estará apresentado como uma pequena aba. Ela pode 
 
 Os parâmetros editáveis da aba de WebChat minimizada são:
 
-- Cor de fundo: podem ser diferentes para 
+- Cores: podem ser diferentes para a aba, o texto e o ícone.
+- Fonte eTamanho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDIxNjExMF19
+eyJoaXN0b3J5IjpbLTY0NDc0Njc3N119
 -->
