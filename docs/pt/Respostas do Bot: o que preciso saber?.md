@@ -23,6 +23,9 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 - **Facebook Messenger e WebChat**:
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Os botões suportam URLs.
+	- <img src="![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg" width="500" height="400" />
+)
+
 
 - **Telegram**:
 	- Não suportado. Utilizar respostas rápidas no lugar.
@@ -40,7 +43,8 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
   - **Facebook Messenger e WebChat**:
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Podem ser usados emojis. Até 10 pills.
-	- ![Botão](
+	- <img src="![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg" width="500" height="400" />)
+
 
 - **Telegram**:
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
@@ -132,6 +136,6 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 - **Google Actions**:
 	- Não suportado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTczMDgyMTAsNzQyMTI2MjQ4LC0xNT
-Y3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbLTU2MTgxMzc5Myw3NDIxMjYyNDgsLTE1Nj
+c3Mjg0NjZdfQ==
 -->
