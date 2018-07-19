@@ -68,6 +68,8 @@ Com resposta rápida ativada:
 
 ![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg | width=100)
 
+<img src="https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg" width="500" height="400" />
+
 Sem resposta rápida ativada:
 
 ![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
