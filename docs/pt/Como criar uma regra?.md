@@ -43,14 +43,14 @@ Para utilizar o disparador por tempo de inatividade, siga o procedimento do víd
 
 ## Respostas
 
- Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**.
+![Respostas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Respostas.png)
+
+Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**, na ordem que estiverem os conteúdos.
 
 Os elementos da mensagem podem ser:
 
 ### Texto
-Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada.
-
-<iframe src="https://drive.google.com/file/d/1sFctQwQ3Xsb-WjMa7LKTaq3lGVa_rbLE/preview" width="640" height="480"></iframe>
+Pressionando o botão +Texto, poderá ser adicionado um texto para a mensagem que deseja-se ser enviada. Cada caixa de texto adicionada, será uma caixa de texto na interface do chat.
 
 ###  Botões
 Pressionando o botão +Botões, poderá ser adicionado um texto com opções, essas opções aparecerão em formato de botões para o usuário.
@@ -85,6 +85,8 @@ Temos um artigo inteiro sobre elas, que poderá te ajudar a aprender sobre seus 
 
 ### Mídia
 Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
+
+> Lembre-se que você pode reajustar a posição do conteúdo, arrastando-o ao clicar em **Arrastar**, acima de **Excluir**.
 
 ### Vídeo ilustrativo
 
