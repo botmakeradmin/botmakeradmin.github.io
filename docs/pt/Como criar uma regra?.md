@@ -84,23 +84,13 @@ Temos um artigo inteiro sobre elas, que poderá te ajudar a aprender sobre seus 
 [Clique aqui para acessar!](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/A%C3%A7%C3%B5es%20e%20Vari%C3%A1veis.md)
 
 ### Mídia
-Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo 
-
-
-staeditdaaoaigsi
+Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
 
 ### Vídeo ilustrativo
 
 No vídeo abaixo, você verá como adicionar textos, botões, mídias e ações, na prática.
 
 [![](http://img.youtube.com/vi/bzvXxP1gDtA/0.jpg)](http://www.youtube.com/watch?v=bzvXxP1gDtA "")
-### Carrossel
-
-### Ações
-
-### Mídia
-Pressionando o botão +Mídia, poderá ser adicionado qualquer tipo de arquivo ao chat, como imagens, vídeos, áudios ou qualquer outo arquivo. 
-
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU2MjgzNjYyMiwxMzM2ODMwNDE3LC0yMT
