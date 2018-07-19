@@ -58,7 +58,7 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
  ## Carrossel
   - **Facebook Messenger e WebChat**:
-	- **Imagem** - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 1200x628px.
+	- **Imagem** - formato JPG com aspect ratio de 1.91:1. Tamanho recomendado: 1200x628px.
 	- **Título** - texto em formato UTF-8 com limite de 80 caracteres.
 	- **Subtítulo** - texto em formato UTF-8 com limite de 80 caracteres.
 	- **Botões** - texto em formato UTF-8 com limite de 20 caracteres.
@@ -80,14 +80,15 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 ## Imagens
   - **Facebook Messenger e WebChat**:
-	- Formato jpg, gif (<75 frames) e pgn (recomendado).
-	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px)
+	- Formato JPG, GIF (<75 frames) e PNG (recomendado).
+	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px).
 
 - **Telegram**:
-	- Não suportado.
+	- Formatos JPG, GIF (<75 frames) e PNG (recomendado).
+	- O tamanho máximo é de 5mb.
 
 - **Twitter**:
-	- Não suportado.
+	- Formatos JPG, GIF (<350 frames), WEB
 
 - **MercadoLivre**:
 	- Não suportado.
@@ -99,5 +100,5 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDE3Njg1MSwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbMjEzNjIyMTEwLC0xNTY3NzI4NDY2XX0=
 -->
