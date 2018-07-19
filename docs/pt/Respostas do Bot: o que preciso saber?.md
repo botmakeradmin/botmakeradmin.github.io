@@ -84,11 +84,11 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px).
 
 - **Telegram**:
-	- Formatos JPG, GIF (<75 frames) e PNG (recomendado).
+	- Formatos JPG, GIF (<75 frames) e PNG (recomendado);
 	- O tamanho máximo é de 5mb.
 
 - **Twitter**:
-	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado).
+	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado);
 	- O tamanho máximo é de 5mb para imagens e 15mb para GIFs.
 
 - **MercadoLivre**:
@@ -111,10 +111,12 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Não suportado.
 
 - **Google Actions**:
-	- Suporte de Speech Synthesis Markup Language [SSML] (https://www.w3.org/TR/speech-synthesis/) 
+	- Suporte de Speech Synthesis Markup Language [SSML] (https://www.w3.org/TR/speech-synthesis/);
+	- Formatos MP3 e OGG, com 24k samples por segundo;
+	- Tamanho não superior a 5mb e menor a 120 segundos de duração. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0OTc0Niw3NDIxMjYyNDgsLTE1Nj
-c3Mjg0NjZdfQ==
+eyJoaXN0b3J5IjpbNjk4OTA4MTM2LDc0MjEyNjI0OCwtMTU2Nz
+cyODQ2Nl19
 -->
