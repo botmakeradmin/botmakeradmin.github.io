@@ -36,11 +36,25 @@ Não suportado.
 - **Google Actions**:
 Não suportado. Utilizar respostas rápidas no lugar.
 
+## Respostas rápidas (pills)
 
-  
+  - **Facebook Messenger e WebChat**:
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Podem ser usados emojis. Até 10 pills.
+
+- **Telegram**:
+Não suportado. Utilizar respostas rápidas no lugar.
+
+- **Twitter**:
+Não suportado. Utilizar respostas rápidas no lugar.
+
+- **MercadoLivre**:
+Não suportado.
+
+- **Google Actions**:
+Não suportado. Utilizar respostas rápidas no lugar.
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTIyNDQ1MSwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbLTUyMjc2ODY3MiwtMTU2NzcyODQ2Nl19
 -->
