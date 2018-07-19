@@ -111,9 +111,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Não suportado.
 
 - **Google Actions**:
-	- Suporte de Speech Synthesis Markup Language (SSML) 
+	- Suporte de Speech Synthesis Markup Language [SSML] (https://www.w3.org/TR/speech-synthesis/) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTI2MjQ4LC0xNTY3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbLTE4NjE0OTc0Niw3NDIxMjYyNDgsLTE1Nj
+c3Mjg0NjZdfQ==
 -->
