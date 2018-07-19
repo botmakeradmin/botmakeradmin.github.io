@@ -43,9 +43,9 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 > Ele servirá apenas para identificá-lo na plataforma, não será visível para os que receberem a notificação.
 
-- Em "Audiência" será definido quais usuários receberão a mensagem. Você poderá segmentar seu público adicionando condições.
+- Em "Audiência" será definido quais usuários receberão a mensagem. Você poderá segmentar seu público adicionando condições, das quais somente usuários que estiverem tageados nelas receberão o push.
 
-> Note que a medida em que você adicionar ou remover condições, o número de usuários que serão alcançados será alterado.
+> Note que a medida em que você adicionar ou remover condições, o número de usuários que serão alcançados será alterado. Se você desejar enviar o push à todos os usuários, embora não recomendável, devem ser removidas todas as condições.
 
 - Definido seu público, agora, você fará a programação da Data e Horário para a sua mensagem ser disparada.
 
@@ -60,7 +60,8 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 ## Veja um exemplo de um Push configurado:
 
 ![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Push.png)
- 
+
+Nesse caso, somente usuários que tenham se identificado como clientes atuais da empresa, e que tenham inserido seu endereço de email no chat, receberão a oferta.
 
 
 
