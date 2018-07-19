@@ -88,17 +88,36 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- O tamanho máximo é de 5mb.
 
 - **Twitter**:
-	- Formatos JPG, GIF (<350 frames), WEB
+	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado).
+	- O tamanho máximo é de 5mb para imagens e 15mb para GIFs.
 
 - **MercadoLivre**:
 	- Não suportado.
 
 - **Google Actions**:
-	- **Imagem** - formato jpg de tamanho 128x232dp.
+	- Formatos JPG, GIF e PNG de tamanho 128x232dp.
 
+## Áudio
+  - **Facebook Messenger e WebChat**:
+	- Formato JPG, GIF (<75 frames) e PNG (recomendado).
+	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px).
+
+- **Telegram**:
+	- Formatos JPG, GIF (<75 frames) e PNG (recomendado).
+	- O tamanho máximo é de 5mb.
+
+- **Twitter**:
+	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado).
+	- O tamanho máximo é de 5mb para imagens e 15mb para GIFs.
+
+- **MercadoLivre**:
+	- Não suportado.
+
+- **Google Actions**:
+	- Formatos JPG, GIF e PNG de tamanho 128x232dp.
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjIyMTEwLC0xNTY3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbMTMwNTgzMTYwOCwtMTU2NzcyODQ2Nl19
 -->
