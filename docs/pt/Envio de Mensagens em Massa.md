@@ -1,4 +1,4 @@
-## Envio de Mensagens em Massa
+# Envio de Mensagens em Massa
 
 Olá! Aqui, vamos aprender como enviar mensagens em massa para seus usuários, com possibilidade de segmentação.
 
@@ -54,7 +54,9 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 	- uma ação: ao adicionar uma "**+Ação**", será possível disparar uma regra do Bot, roteirizar um Questionário e/ou atribuir variáveis ao usuário;
 	-  uma mídia: ao adicionar uma "**+Mídia**", será possível enviar uma imagem, um áudio, um vídeo e/ou um arquivo.
 
-Veja um exemplo de um Push configurado:
+5. Após feita a configuração desejada, clique em **Salvar**, e na data e horário indicados, os usuários da segmentação receberão o Push! 
+
+## Veja um exemplo de um Push configurado:
 
 ![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Push.png)
  
