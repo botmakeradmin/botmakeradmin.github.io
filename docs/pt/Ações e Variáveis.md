@@ -38,12 +38,18 @@ As variáveis são muito úteis no momento de definir quando se deve disparar um
 
 - Variáveis como condição de disparo:
 	- Ao aplicar uma condição à um Disparador, a regra somente será disparada quando for executado o disparador e a condição for comprida. 
+
+![Variavel de Disparo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/VariavelCondicao.png)
 	
 - Variáveis como condição de respostas:
 	- Podem ser utilizadas para, diante de diferentes condições, dar diferentes respostas para a mesma intenção do usuário.
 
+![Variavel de Resposta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/VariavelResposta.png)
+
 - Variáveis como texto dinâmico dentro de uma resposta:
 	- A informação contida em uma variável pode ser utilizada para dar respostas dinâmicas aos usuários, onde a variável será substituída pelo seu conteúdo.
+
+![Variavel de Texto](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/VariavelTexto.png)
 
 ## Ações
 
@@ -71,6 +77,8 @@ A seguir, apresentaremos uma lista das principais ações disponíveis na plataf
 ### Onde utilizar ações?
 
 As ações são configuradas na tela de Respostas, última etapa do desenvolvimento de uma Regra. Veja o exemplo:
+
+![Ações](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Acoes.png)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjAwMDAzMTk4LDE0MDAyMzA0NCw0MTY2Mj
 g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
