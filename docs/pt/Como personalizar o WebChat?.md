@@ -4,6 +4,8 @@ Olá! Aqui vamos aprender com detalhes quais parâmetros do WebChat BotMaker pod
 
 ## WebChat minimizado
 
+![Minimizado](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Minimizado.png)
+
 Quando minimizado, o WebChat estará apresentado como uma pequena aba. Ela pode ser trocada por uma imagem.
 
 Os parâmetros editáveis da aba de WebChat minimizada são:
@@ -16,6 +18,8 @@ Os parâmetros editáveis da aba de WebChat minimizada são:
 
 ## Cabeçalho de WebChat
 
+![Cabeçalho](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Cabecalh.png)
+
 Os parâmetros editáveis no cabeçalho de WebChat são:
 
 - Logo;
@@ -25,6 +29,8 @@ Os parâmetros editáveis no cabeçalho de WebChat são:
 
 ## Corpo de WebChat
 
+![Corpo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Corpo.png)
+
 Os parâmetros editáveis do corpo do WebChat são:
 
 - Cor de fundo;
@@ -32,6 +38,8 @@ Os parâmetros editáveis do corpo do WebChat são:
 - Cor de fundo e borda das opções de chat.
 
 ## Resposta de WebChat
+
+![Resposta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Respostas.png)
 
 Os parâmetros editáveis da caixa de resposta do WebChat são:
 
