@@ -24,12 +24,12 @@ Dentro de cada chat, é possível ver a identificação do usuário e a última 
 
 ![ChatFace](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ChatFace.png)
 
-- **Foto de perfil:** 
+- **Foto de perfil**: 
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. 
 
 	 - Se não tiver, a conversa foi realizada através de um WebChat (onde o usuário é anônimo), e será mostrada uma imagem genérica.
 
-- **Nome de usuário:**
+- **Nome de usuário**:
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar seu nome e sobrenome.
 
 	 - Se a conversa foi realizada através de um WebChat (onde o usuário é anônimo), será mostrado um código único para individualizar esse chat.
@@ -156,5 +156,5 @@ wtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNjk3LC0x
 NzkxODg5MjI2XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQyMjM1NDJdfQ==
+eyJoaXN0b3J5IjpbMjEwODAwMDcxNF19
 -->
