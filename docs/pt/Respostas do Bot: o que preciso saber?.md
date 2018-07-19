@@ -102,20 +102,18 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Formato MP3, preferívelmente não superiores a 5mb.
 
 - **Telegram**:
-	- Formato MP3 não superiore
+	- Formato MP3 não superiores a 20mb.
 
 - **Twitter**:
-	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado).
-	- O tamanho máximo é de 5mb para imagens e 15mb para GIFs.
+	- Não suportado.
 
 - **MercadoLivre**:
 	- Não suportado.
 
 - **Google Actions**:
-	- Formatos JPG, GIF e PNG de tamanho 128x232dp.
- 
+	- Suporte de Speech Synthesis Markup Language (SSML) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MDAyMDIzLC0xNTY3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbNzQyMTI2MjQ4LC0xNTY3NzI4NDY2XX0=
 -->
