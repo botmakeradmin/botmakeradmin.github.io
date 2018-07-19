@@ -16,13 +16,13 @@ Para integração com Facebook, você deve clicar no botão **"Conceda permissõ
 
 Assim que permitido, clique em **"Páginas"**, onde aparecerão as fanpages disponíveis para serem concectadas à BotMaker. 
 
-![Páginas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ClicarPagi.png)
+![Páginas](
 
-![Escolher](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SelecionarPagi.png)
+![Escolher](
 
 Selecione e salve, clicando em **"Salvar"**.
 
-![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SalvarCaal.png)
+![Salvar](
 
 ## WebChat
 Na sessão WebChat, a integração poderá ser feita - primeiramente - ativando-o.
