@@ -50,13 +50,15 @@ Não suportado. Utilizar respostas rápidas no lugar.
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. 
 
 - **MercadoLivre**:
-Não suportado.
+	- Não suportado.
 
 - **Google Actions**:
-Não suportado. Utilizar respostas rápidas no lugar.
+	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Só suporta até uma URL.
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODg1MDE2MCwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbLTEyMTAwNTA1NDYsLTE1Njc3Mjg0NjZdfQ
+==
 -->
