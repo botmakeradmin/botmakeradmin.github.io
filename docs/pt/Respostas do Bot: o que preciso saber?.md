@@ -27,11 +27,14 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 - **Telegram**:
 Não suportado. Utilizar respostas rápidas no lugar.
 
-- **
+- **Twitter**:
+Não suportado. Utilizar respostas rápidas no lugar.
+
+
   
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzU4NjE1Ml19
+eyJoaXN0b3J5IjpbLTE1Njc3Mjg0NjZdfQ==
 -->
