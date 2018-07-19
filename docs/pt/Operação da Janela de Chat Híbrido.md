@@ -130,6 +130,8 @@ A terceira e última coluna é localizada à direita da Janela de Chats Híbrida
 
 ### Informação adicional
 
+![Info add](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/informacaoadd.png)
+
 Onde estão localizadas as informações que, historicamente, foi armazenada pelo Bot através da interação com o usuário. Podem ser guardados, por exemplo: 
 
 - Nome e sobrenome; 
@@ -140,7 +142,9 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 - URL de interação;
 - E qualquer outra informação que o Bot solicite ao usuário.
 
-Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Modificar**". Seleciona-se a varíavel e a informação a ser guardada.
+Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Editar**". Seleciona-se a varíavel e a informação a ser guardada.
+
+![Editar info](
 
 ### Tags
 As Tags são os temas de conversação dos quais o usuário historicamente percorreu no chat. Eles são adicionados automáticamente, sempre e quando se trata de temas dos quais Bot entende.
@@ -156,5 +160,6 @@ wtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNjk3LC0x
 NzkxODg5MjI2XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTQzMTQ3NSwyMTA4MDAwNzE0XX0=
+eyJoaXN0b3J5IjpbLTM4MjUwMzgwNCwtODY5NDMxNDc1LDIxMD
+gwMDA3MTRdfQ==
 -->
