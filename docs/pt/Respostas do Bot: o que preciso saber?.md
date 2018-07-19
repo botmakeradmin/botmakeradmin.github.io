@@ -20,13 +20,18 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
   Formato UTF-8 com limite de 640 caracteres.
 
 ## Botões
-- Facebook Messenger e WebChat:
+- **Facebook Messenger e WebChat**:
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
-	- Texto dos botões em formato UTF-8 
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Os botões suportam URLs.
+
+- **Telegram**:
+Não suportado. Utilizar respostas rápidas no lugar.
+
+- **
   
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU2NTkwMjhdfQ==
+eyJoaXN0b3J5IjpbMTkwMzU4NjE1Ml19
 -->
