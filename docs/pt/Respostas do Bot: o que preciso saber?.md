@@ -58,10 +58,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
  ## Carrossel
   - **Facebook Messenger e WebChat**:
-	- Imagem - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 1200x628px.
-	- Título - texto em formato UTF-8 com limite de 80 caracteres.
-	- Subtítulo - texto em formato UTF-8 com limite de 80 caracteres.
-	- Botões - texto em formato UTF-8 com limite de 20 caracteres.
+	- **Imagem** - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 1200x628px.
+	- **Título** - texto em formato UTF-8 com limite de 80 caracteres.
+	- **Subtítulo** - texto em formato UTF-8 com limite de 80 caracteres.
+	- **Botões** - texto em formato UTF-8 com limite de 20 caracteres.
 
 - **Telegram**:
 	- Não suportado.
@@ -73,16 +73,30 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Não suportado.
 
 - **Google Actions**:
-	- Imagem - formato jpg de tamanho 128x232dp.
-	- Título - texto em formato UTF-8, deve ser único para suportar seleção por voz.
-	- Subtítulo - texto em formato UTF-8, com no máximo 4 linhas.
-	- Botões - texto em formato UTF-8 com limite de 20 caracteres.
+	- **Imagem** - formato jpg de tamanho 128x232dp.
+	- **Título** - texto em formato UTF-8, deve ser único para suportar seleção por voz.
+	- **Subtítulo** - texto em formato UTF-8, com no máximo 4 linhas.
+	- **Botões** - texto em formato UTF-8 com limite de 20 caracteres.
 
+## Imagens
+  - **Facebook Messenger e WebChat**:
+	- 
+
+- **Telegram**:
+	- Não suportado.
+
+- **Twitter**:
+	- Não suportado.
+
+- **MercadoLivre**:
+	- Não suportado.
+
+- **Google Actions**:
+	- **Imagem** - formato jpg de tamanho 128x232dp.
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU0NDM3NDIsLTE1Njc3Mjg0NjZdfQ
-==
+eyJoaXN0b3J5IjpbMTM1NTUxMTczNywtMTU2NzcyODQ2Nl19
 -->
