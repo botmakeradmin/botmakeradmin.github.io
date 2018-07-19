@@ -8,7 +8,7 @@ Para criar uma conta na BotMaker, deve-se acessar o seguinte link:
 
  - [**go.botmaker.com**](https://go.botmaker.com)
 
-  ![Página Inicial](https://raw.githubusercontent.com/botmakeradmin/botmakeradmin.github.io/master/docs/pt/HomePage.png)
+  ![Página Inicial](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Pa%CC%81gina%20inicial.png)
  
 Você pode se cadastrar através de seu email Google (e outros) e também com seu perfil do Facebook.
 
