@@ -56,10 +56,30 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Até 8 pills.
 
- ##Carrossel
+ ## Carrossel
+  - **Facebook Messenger e WebChat**:
+	- Imagem - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Podem ser usados emojis. Até 10 pills.
+
+- **Telegram**:
+	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Só suporta até uma URL.
+
+- **Twitter**:
+	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. 
+
+- **MercadoLivre**:
+	- Não suportado.
+
+- **Google Actions**:
+	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
+	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Até 8 pills.
+
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMDUyNzA1LC0xNTY3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbOTc3NTc1NTcwLC0xNTY3NzI4NDY2XX0=
 -->
