@@ -41,7 +41,7 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
 
 	 - No caso de ser uma conversa de WebChat, o ícone do Chrome virá com uma marcação verde - se o usuário ainda estiver online - ou vermelha - se ele já está desconectado.
  
-![Icones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/icones.png) 
+	-	![Icones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/icones.png) 
 
 - **País**:
 Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação obtida a partir de seu endereço IP.
@@ -156,5 +156,5 @@ wtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNjk3LC0x
 NzkxODg5MjI2XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODAwMDcxNF19
+eyJoaXN0b3J5IjpbLTg2OTQzMTQ3NSwyMTA4MDAwNzE0XX0=
 -->
