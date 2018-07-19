@@ -144,9 +144,12 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 
 Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Editar**". Seleciona-se a varíavel e a informação a ser guardada.
 
-![Editar info](
+![Editar info](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/addinfo.png)
 
 ### Tags
+
+![Tags](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/tags.png)
+
 As Tags são os temas de conversação dos quais o usuário historicamente percorreu no chat. Eles são adicionados automáticamente, sempre e quando se trata de temas dos quais Bot entende.
 
 Em casos que os Operadores necessitem tagear temas não compreendidos pelo Bot, em um específico Chat, o processo pode ser realizado manualmente clicando no botão "**Modificar**".
@@ -160,6 +163,6 @@ wtMTMyNjk1OTc0OCwxNjc1NTcxMTg1LC0xNjkwOTQyNjk3LC0x
 NzkxODg5MjI2XX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjUwMzgwNCwtODY5NDMxNDc1LDIxMD
-gwMDA3MTRdfQ==
+eyJoaXN0b3J5IjpbLTI2NDA4NTY4LC04Njk0MzE0NzUsMjEwOD
+AwMDcxNF19
 -->
