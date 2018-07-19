@@ -23,12 +23,18 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 ## Como usar?
 
  1. Acessar o Menu "**Audiências**";
+ 
+ ![Acessar Pushes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Audiencias.png)
 
  2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
+ 
+ ![Criar um push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/CriarAudiencia.png)
  
 > Note que você poderá, através dos botões, editar um push, duplicá-lo (para gerar um novo baseado no atual), eliminar o push ou desabilitá-lo (não será enviado quando chegar ao horário programado).
 
 3. Para criar um novo Push, clique em "**Criar Novo**", aparecerá uma janela como essa:
+
+![Janela Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/EditarAudiencia.png)
 
 4. Editando um Push: 
 
@@ -48,6 +54,9 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 	- uma ação: ao adicionar uma "**+Ação**", será possível disparar uma regra do Bot, roteirizar um Questionário e/ou atribuir variáveis ao usuário;
 	-  uma mídia: ao adicionar uma "**+Mídia**", será possível enviar uma imagem, um áudio, um vídeo e/ou um arquivo.
 
+Veja um exemplo de um Push configurado:
+
+![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Push.png)
  
 
 
