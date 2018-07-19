@@ -74,12 +74,15 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 - **Google Actions**:
 	- Imagem - formato jpg de tamanho 128x232dp.
-	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Até 8 pills.
+	- Título - texto em formato UTF-8, deve ser único para suportar seleção por voz.
+	- Subtítulo - texto em formato UTF-8, com no máximo 4 linhas.
+	- Botões - texto em formato UTF-8 com limite de 20 caracteres.
 
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDQ2NTQzNCwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbLTExMDU0NDM3NDIsLTE1Njc3Mjg0NjZdfQ
+==
 -->
