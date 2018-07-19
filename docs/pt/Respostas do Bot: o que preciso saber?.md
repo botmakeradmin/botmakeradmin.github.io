@@ -58,8 +58,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
  ## Carrossel
   - **Facebook Messenger e WebChat**:
-	- Imagem - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 
-	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Podem ser usados emojis. Até 10 pills.
+	- Imagem - formato jpg com aspect ratio de 1.91:1. Tamanho recomendado: 1200x628px.
+	- Título - texto em formato UTF-8 com limite de 80 caracteres.
+	- Subtítulo - texto em formato UTF-8 com limite de 80 caracteres.
+	- Botões - texto em formato UTF-8 com limite de 20 caracteres.
 
 - **Telegram**:
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
@@ -81,5 +83,5 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NTc1NTcwLC0xNTY3NzI4NDY2XX0=
+eyJoaXN0b3J5IjpbLTU1MzA3ODIzOCwtMTU2NzcyODQ2Nl19
 -->
