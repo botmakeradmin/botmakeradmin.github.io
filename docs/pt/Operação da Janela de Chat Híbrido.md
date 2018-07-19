@@ -9,6 +9,8 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
  3. Informação adicional e tags
 
 # 1. Lista de Conversas
+
+![Lista](
  
 Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
@@ -17,6 +19,10 @@ Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em deta
 ## Identificação:
 
 Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada. A identificação é feita da seguinte maneira:
+
+![ChatWeb](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Chatweb.png)
+
+![ChatFace](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ChatFace.png)
 
 ### Foto de perfil: 
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. 
@@ -34,6 +40,8 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
  - Eles podem ser: Messenger, WhatsApp, Telegram, Twitter DM, Google Assistant ou Google Chrome - o último é utilizado quando a conversa é proveniente de um WebChat.
 
  - No caso de ser uma conversa de WebChat, o ícone do Chrome virá com uma marcação verde - se o usuário ainda estiver online - ou vermelha - se ele já está desconectado.
+ 
+![Icones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/icones.png) 
 
 ### País:
 Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação obtida a partir de seu endereço IP.
@@ -45,9 +53,17 @@ Em conversas de WebChat, a plataforma indicará o país do usuário, uma informa
 Quando uma conversa for tomada por um operador, ela será marcada com um cadeado, junto às iniciais desse operador que a tomou.
 
 ## Pesquisa:
-Acima dos chats, encontra-se uma barra de pesquisa.
+Acima dos chats, encontra-se uma barra de pesquisa. É possível pesquisar um chat pelo nome do usuário ou por uma mensagem contida no chat.
+
+![Pesquisa](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/BuscaChat.png)
+
+Também é possível filtrar, para mostrar chats apenas de situações desejadas:
+
+![Filtro](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/FiltroCHat.png)
 
 # 2. Detalhe de Conversas
+
+![Detalhe](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Detalhe.png)
 
 Encontrada na coluna central da tela, pode-se visualizar o histórico de conversa completo de cada usuário.
 
@@ -56,6 +72,9 @@ A partir do momento que o Bot entende as solicitações dos usuários e as respo
 Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e é por isso que encontram-se todos os elementos necessários para a operação humana:
 
 ## Caixa de texto:
+
+![Caixa](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/escreverchat.png)
+
 Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
 
  - Escrever manualmente suas mensagens para intervir na conversa; 
@@ -65,13 +84,20 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
 
 Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
 
+![Regras](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/pesquisaregras.png)
+
 > Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só o usuário receberá a resposta, mas também o Bot estará sendo treinado para futuras ocasiões similares, para responder sem necessitar da participação de um operador.
 
 ## Opções do Cabeçalho:
 
+![Opções](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/opcoeschat.png)
+
+![OpçõesChat](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/opcoeschata.png)
+
 Ademais dos pontos descritos anteriormente, também podem ser executadas diversas ações através do cabeçalho do Detalhe de Conversa.
 
 ### Bloquear chat
+
 Selecionando essa opção, o Operador estará se assignando a uma conversa, de maneira a evitar que outros operadores possam responder o usuário naquele momento. 
 
 > Uma conversa bloqueada não poderá ter intervenção de outro operador antes que seja liberada, clicando em "**Liberar chat bloqueado**".
@@ -88,6 +114,9 @@ Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomen
 > Um usuário bloqueado poderá seguir enviando mensagens, mas o Bot deixará de respondê-lo e os Operadores não serão notificados sobre a conversa.
 
 ## Desligar o Bot na conversa
+
+![Bloquear](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/desativarbot.png)
+
 O Bot pode ser desligado por um operador (em uma conversa, específicamente), selecionando a opção abaixo:
 
 É recomendado utilizar essa funcionalidade sempre que um operador precisar intervir manualmente em uma conversa, de maneira a evitar que o Bot responda as perguntas.
