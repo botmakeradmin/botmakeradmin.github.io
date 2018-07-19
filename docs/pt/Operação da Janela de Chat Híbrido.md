@@ -10,7 +10,7 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 
 # 1. Lista de Conversas
 
-![Lista](
+![Lista](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/todoschats.png)
  
 Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
@@ -24,17 +24,17 @@ Dentro de cada chat, é possível ver a identificação do usuário e a última 
 
 ![ChatFace](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ChatFace.png)
 
-### Foto de perfil: 
+- Foto de perfil: 
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. 
 
  - Se não tiver, a conversa foi realizada através de um WebChat (onde o usuário é anônimo), e será mostrada uma imagem genérica.
 
-### Nome de usuário:
+- Nome de usuário:
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar seu nome e sobrenome.
 
  - Se a conversa foi realizada através de um WebChat (onde o usuário é anônimo), será mostrado um código único para individualizar esse chat.
 
-### Canal:
+- Canal:
 É possível observar na conversa um ícone indicativo do canal utilizado pelo usuário para se comunicar com o Bot. 
 
  - Eles podem ser: Messenger, WhatsApp, Telegram, Twitter DM, Google Assistant ou Google Chrome - o último é utilizado quando a conversa é proveniente de um WebChat.
@@ -43,13 +43,13 @@ Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Me
  
 ![Icones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/icones.png) 
 
-### País:
+- País:
 Em conversas de WebChat, a plataforma indicará o país do usuário, uma informação obtida a partir de seu endereço IP.
 
-### Data:
+- Data:
 É possível observar na conversa a data da última mensagem recebida/enviada. Se não for mostrada a data, será mostrado quanto tempo desde a última mensagem.
 
-### Conversa tomada:
+- Conversa tomada:
 Quando uma conversa for tomada por um operador, ela será marcada com um cadeado, junto às iniciais desse operador que a tomou.
 
 ## Pesquisa:
