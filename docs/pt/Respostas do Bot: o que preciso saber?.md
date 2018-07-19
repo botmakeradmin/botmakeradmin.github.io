@@ -99,12 +99,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 ## Áudio
   - **Facebook Messenger e WebChat**:
-	- Formato JPG, GIF (<75 frames) e PNG (recomendado).
-	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px).
+	- Formato MP3, preferívelmente não superiores a 5mb.
 
 - **Telegram**:
-	- Formatos JPG, GIF (<75 frames) e PNG (recomendado).
-	- O tamanho máximo é de 5mb.
+	- Formato MP3 não superiore
 
 - **Twitter**:
 	- Formatos JPG, GIF (<350 frames), WEBP e PNG (recomendado).
@@ -119,5 +117,5 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTgzMTYwOCwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbMzQ5MDAyMDIzLC0xNTY3NzI4NDY2XX0=
 -->
