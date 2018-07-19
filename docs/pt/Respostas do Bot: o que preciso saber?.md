@@ -40,6 +40,7 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
   - **Facebook Messenger e WebChat**:
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Podem ser usados emojis. Até 10 pills.
+	- ![Botão](
 
 - **Telegram**:
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
@@ -123,14 +124,14 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Formato MP4 não superiores a 50mb.
 
 - **Twitter**:
-	- Especificações detalhas [aqui](https://developer.twitter.com/en/docs/media/upload-media/uploading-media/media-best-practices) .
+	- Especificações detalhas [aqui](https://developer.twitter.com/en/docs/media/upload-media/uploading-media/media-best-practices).
 
 - **MercadoLivre**:
 	- Não suportado.
 
 - **Google Actions**:
-
+	- Não suportado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzUxMDk0Nyw3NDIxMjYyNDgsLTE1Nj
-c3Mjg0NjZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTczMDgyMTAsNzQyMTI2MjQ4LC0xNT
+Y3NzI4NDY2XX0=
 -->
