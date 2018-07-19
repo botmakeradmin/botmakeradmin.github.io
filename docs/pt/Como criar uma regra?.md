@@ -66,7 +66,7 @@ Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado qua
 
 Com resposta rápida ativada:
 
-![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg = 500x400)
+![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg =500x400)
 
 Sem resposta rápida ativada:
 
