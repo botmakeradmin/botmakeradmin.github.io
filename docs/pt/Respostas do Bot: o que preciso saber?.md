@@ -135,7 +135,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 - **Google Actions**:
 	- Não suportado.
+
+## Configuração de respostas
+Para tirar dúvidas relacionadas à configuração de respostas em uma regra, acesse essa página do manual.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTgxMzc5Myw3NDIxMjYyNDgsLTE1Nj
+eyJoaXN0b3J5IjpbMTAxNTcwNDU4MSw3NDIxMjYyNDgsLTE1Nj
 c3Mjg0NjZdfQ==
 -->
