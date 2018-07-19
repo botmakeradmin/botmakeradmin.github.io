@@ -80,7 +80,8 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 ## Imagens
   - **Facebook Messenger e WebChat**:
-	- 
+	- Formato jpg, gif (<75 frames) e pgn (recomendado).
+	- O tamanho deve respeitar o aspect ratio de 1.91:1 (exemplo: 1200x628px)
 
 - **Telegram**:
 	- Não suportado.
@@ -98,5 +99,5 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTUxMTczNywtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbLTY1NDE3Njg1MSwtMTU2NzcyODQ2Nl19
 -->
