@@ -2,6 +2,8 @@
 
 Olá! Aqui vamos aprender com detalhes quais parâmetros do WebChat BotMaker podem ser persoalizados.
 
+![Corpo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Corpo.png)
+
 ## WebChat minimizado
 
 ![Minimizado](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Minimizado.png)
@@ -39,7 +41,7 @@ Os parâmetros editáveis do corpo do WebChat são:
 
 ## Resposta de WebChat
 
-![Resposta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Respostas.png)
+![Resposta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Escrever.png)
 
 Os parâmetros editáveis da caixa de resposta do WebChat são:
 
