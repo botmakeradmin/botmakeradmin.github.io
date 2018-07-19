@@ -33,6 +33,8 @@ Uma vez na seção, o Super Administrador deverá clicar no botão "**+**", no c
 
 No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “**Adicionar**”.
 
+![Editar usuário](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Editar%20usua%CC%81rio.png)
+
 ## As funções disponíveis são:
 
  - **Operador**: dado a usuários com tarefas referentes ao gerenciamento de conversas.
