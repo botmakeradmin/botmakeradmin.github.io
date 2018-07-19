@@ -111,19 +111,19 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Não suportado.
 
 - **Google Actions**:
-	- Suporte de Speech Synthesis Markup Language [SSML] (https://www.w3.org/TR/speech-synthesis/);
+	- Suporte de Speech Synthesis Markup Language ([SSML](https://www.w3.org/TR/speech-synthesis/));
 	- Formatos MP3 e OGG, com 24k samples por segundo;
 	- Tamanho não superior a 5mb e menor a 120 segundos de duração. 
 
 ## Vídeo
   - **Facebook Messenger e WebChat**:
-	- Formato MP3, preferívelmente não superiores a 5mb.
+	- Formato MP4, preferívelmente não superiores a 5mb.
 
 - **Telegram**:
-	- Formato MP3 não superiores a 20mb.
+	- Formato MP4 não superiores a 50mb.
 
 - **Twitter**:
-	- Não suportado.
+	- Especificações detalhas [aqui](https://developer.twitter.com/en/docs/media/upload-media/uploading-media/media-best-practices) .
 
 - **MercadoLivre**:
 	- Não suportado.
@@ -131,6 +131,6 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 - **Google Actions**:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDA2OTExNCw3NDIxMjYyNDgsLTE1Nj
+eyJoaXN0b3J5IjpbLTk5MzUxMDk0Nyw3NDIxMjYyNDgsLTE1Nj
 c3Mjg0NjZdfQ==
 -->
