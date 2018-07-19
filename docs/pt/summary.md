@@ -1,7 +1,7 @@
 * [Home](/)
-* [Cadastro e Administração de Usuários](Cadastro e Administração de Usuários.md)
-* [Envio de Mensagens em Massa](Envio de Mensagens em Massa.md)
-* [Operação da Janela de Chat Híbrido](Operação da Janela de Chat Híbrido.md)
+* [Cadastro e Administração de Usuários]
+* [Envio de Mensagens em Massa]
+* [Operação da Janela de Chat Híbrido]
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEyNTY5OTczNiwyMTM2OTcwNzYzXX0=
 -->
