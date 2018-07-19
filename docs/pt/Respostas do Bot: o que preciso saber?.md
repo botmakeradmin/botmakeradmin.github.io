@@ -56,11 +56,10 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Até 8 pills.
 
- ## Carrossel
+ ##Carrossel
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcyNjgxNjEsLTE1Njc3Mjg0NjZdfQ
-==
+eyJoaXN0b3J5IjpbNjUyMDUyNzA1LC0xNTY3NzI4NDY2XX0=
 -->
