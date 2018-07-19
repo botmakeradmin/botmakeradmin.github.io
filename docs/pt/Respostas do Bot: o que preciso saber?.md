@@ -64,18 +64,16 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 	- Botões - texto em formato UTF-8 com limite de 20 caracteres.
 
 - **Telegram**:
-	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
-	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Só suporta até uma URL.
+	- Não suportado.
 
 - **Twitter**:
-	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
-	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. 
+	- Não suportado.
 
 - **MercadoLivre**:
 	- Não suportado.
 
 - **Google Actions**:
-	- Texto anterior aos botões em formato UTF-8 com limite de 640 caracteres;
+	- Imagem - formato jpg de tamanho 128x232dp.
 	- Texto dos botões em formato UTF-8 com limite de 20 caracteres. Até 8 pills.
 
 
@@ -83,5 +81,5 @@ Olá! Aqui vamos aprender quais são os formatos corretos para cada elemento de 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzA3ODIzOCwtMTU2NzcyODQ2Nl19
+eyJoaXN0b3J5IjpbLTQzMDQ2NTQzNCwtMTU2NzcyODQ2Nl19
 -->
