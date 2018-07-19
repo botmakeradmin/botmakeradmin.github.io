@@ -49,6 +49,8 @@ Se você deseja editar a função de um usuário já cadastrado no bot, deve-se 
 
 > Para isso, pode-se filtrar através dos botões localizados no canto superior direito, eles são: Pesquisar por Nome, Ordenar por Ordem Alfabética ou Filtrar por Função.
 
+![Filtrar e Editar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/FiltrarEditar.png)
+
 Assim que encontrado o usuário, deve-se clicar em “**Editar**” e fazer a alteração necessária.
 
 <!--stackedit_data:
