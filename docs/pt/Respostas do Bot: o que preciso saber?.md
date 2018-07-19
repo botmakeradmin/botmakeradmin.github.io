@@ -30,11 +30,17 @@ Não suportado. Utilizar respostas rápidas no lugar.
 - **Twitter**:
 Não suportado. Utilizar respostas rápidas no lugar.
 
+- **MercadoLivre**:
+Não suportado.
+
+- **Google Actions**:
+Não suportado. Utilizar respostas rápidas no lugar.
+
 
   
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc3Mjg0NjZdfQ==
+eyJoaXN0b3J5IjpbLTY3OTIyNDQ1MSwtMTU2NzcyODQ2Nl19
 -->
