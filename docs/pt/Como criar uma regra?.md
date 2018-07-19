@@ -66,13 +66,12 @@ Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado qua
 
 Com resposta rápida ativada:
 
-![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg | width=100)
-
 <img src="https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg" width="500" height="400" />
 
 Sem resposta rápida ativada:
 
-![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
+<img src="https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg" width="500" height="400" />
+
 
 ### Carrossel
 Pressionando o botão +Carrossel, será possível adicionar diversas imagens, com possibilidade de adicionar nome, descrição e botões, no formato de Carrossel, como observamos abaixo:
