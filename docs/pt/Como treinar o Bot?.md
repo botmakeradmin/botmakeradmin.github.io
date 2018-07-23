@@ -1,6 +1,10 @@
 # Como treinar o Bot?
 
-Olá! Aqui vamos aprender como utilizar a seção **"Termos Não Compreendidos"** para treinar o Bot
+Olá! Aqui vamos aprender como utilizar a seção **"Termos Não Compreendidos"** para treinar o Bot.
+
+## Termos não compreendidos
+Nessa seção, você verá os termos que o Bot não entendeu. Cada cartão agrupa exemplos que a inteligência artificial julga como similar e alta frequência. Ao gerar novas regras, gatilhos e respostas nesses cartões, você poderá melhorar o bot. Quando terminar de trabalhar em um cartão, você pode removê-lo clicando no botão 'Remover cartão' para permitir que novos cartões apareçam.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MzQ2NjNdfQ==
+eyJoaXN0b3J5IjpbMTI1MjQ5NDIzMywzNzYzNDY2M119
 -->
