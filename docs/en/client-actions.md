@@ -150,8 +150,7 @@ result.gotoRule('a rule name');
 
 **It's is important to call _result.done()_ method in every flow that the code has in order to finish the execution**
 
-_The following code shows a well implemented Client Action with _done()_ method called in every flow:
-
+_The following code shows a well implemented Client Action with done() method called in every flow:_
 
 ```javascript
 rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1VucMVgVvhul5XqS9HkAyJY/exec?tz=Asia/Tokyo Japan', json: true})
