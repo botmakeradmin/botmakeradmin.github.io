@@ -172,7 +172,7 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
 
 # Input Example
 
-```json
+```javascript
 {
   "context": {
     "userData": {
