@@ -17,7 +17,7 @@ Then go to the rule you're interested and in the response screen, in there you o
 
 Node.js v6.14.0 is supported and a faily common list of libraries are whitelisted:
 
-```json
+```javascript
   {
     "@turf/helpers": "^6.1.4", // accessed by "turfHelpers" var
     "@turf/turf": "^5.1.6", // accessed by "turf" var
