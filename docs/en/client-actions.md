@@ -136,28 +136,31 @@ _neverWasHere value will be true forever and when another client action set a di
 
 ## The _entityLoader_ object
 
-When a cvs file is saved in the Entities option of the platform, Client Actions can access them. For instance, a store list can be filtered and showed to the user based on his location.
+When a cvs file is uploaded in _Entities_ menu of the platform, Client Actions will have access to it. For instance a store list can be filtered and showed to the user based on hes location:
 
 ```javascript
 entityLoader('entity name', json => {
-  // here you got your entity object loaded as JSON
+  // here you got your entity object loaded as json
 });
 ```
 
 
-## connectRedis object
+## The _connectRedis_ object
 
-A Redis db instance is available for usage within the Client Actions. You can do
+A Redis db instance is available for usage within the Client Actions. You can:
 
 ```javascript
 const redis = connectRedis();
 const myKey = redis.get('key');
 ```
 
+_full redis support is provided. Take a look at the official node [redis library]|(https://github.com/NodeRedis/node_redis)_
+
 
 # Client Action Result
 
-Any side effect that the Client Action wants to create must be done using the **result** object.
+Any side effect that the Client Action wants to create must be done using the *result* object.
+So for instance:
 
 - To say something to the user as text: ```result.text('a message')```
 - To show an image to the user: ```result.image('https://example.com/image.jpg')```
@@ -180,7 +183,7 @@ result.buttonsBuilder()
 
 ## Go to anothe rule
 
-This handy method makes possible to execute a rule when the Client Action ends. This is helpful when after saying something to the user or change some session or user state, you want to fire a rule to continue the conversational flow. 
+This handy method makes possible to execute a rule when the Client Action ends. This is helpful when, after saying something to the user or change some session or user state, you want to fire a rule to continue the conversational flow. 
 
 ```javascript
 result.gotoRule('a rule name');
