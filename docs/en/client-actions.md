@@ -154,8 +154,9 @@ const redis = connectRedis();
 const myKey = redis.get('key');
 ```
 
-_full redis support is provided. Take a look at the official node [redis library]|(https://github.com/NodeRedis/node_redis)_
+_full redis support is provided. Take a look at the official node [redis library](https://github.com/NodeRedis/node_redis)_
 
+___
 
 # Client Action Result
 
@@ -196,7 +197,7 @@ result.gotoRule('a rule name');
 
 **It's is important to call _result.done()_ method in every flow that the code has in order to finish the execution**
 
-_The following code shows a well implemented Client Action with done() method called in every flow:_
+The following code shows a well implemented Client Action with done() method called in every flow:
 
 ```javascript
 rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1VucMVgVvhul5XqS9HkAyJY/exec?tz=Asia/Tokyo Japan', json: true})
