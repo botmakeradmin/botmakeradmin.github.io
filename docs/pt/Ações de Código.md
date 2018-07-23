@@ -138,7 +138,7 @@ _Por exemplo:_
 
 ```javascript
 if ( !user.get('neverWasHere') )
-  userSession.set('neverWasHere', 'true');
+  user.set('neverWasHere', 'true');
 ```
 _o valor neverWasHere será true para sempre, ou até quando outra ação de cliente configurar um valor diferente_
 
