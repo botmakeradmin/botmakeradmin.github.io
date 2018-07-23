@@ -214,7 +214,7 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
         result.done();
     })
     .catch(error => {
-        result.text('Problems: ' + error + '|' + JSON.stringify(error));
+        result.text('Problems: ' + error + '|' + error.message);
         result.done();
     });
 ```
