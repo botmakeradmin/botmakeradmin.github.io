@@ -88,12 +88,11 @@ When the code is invoked, all the information we know about the user, conversati
 ```
 
 
-## Context object
+## The _context_ object
 
-A read-only object that has relevant information that a Code Action might need. It has
+A read-only object that has relevant information that a Code Action might need. It provides:
 
-- **bot**: settings and other data related to the bot (not the current user or conversation)
-- **userData**: all the data related to an user
+- **userData**: all the data related to an user. Including tags and variables (if any)
 - **message**: data related to last message from the user
 - **params**: optional params that can be passed by a rule
 
@@ -103,9 +102,9 @@ _For example:_
 const userFirstName = context.userData.FIRST_NAME;
 ```
 
-## userSession object
+## The _userSession_ object
 
-Allows to read and write variables that will last for a session from the user. Generally speaking a conversasion session is deleted after 1 hour of inactivity. This is an useful place to store data related the current conversation of the user.
+Allows to read and write variables that will last for an user's session. Generally speaking a session is deleted after 1 hour of inactivity from the user. This is an useful place to store data related the current conversation.
 *Keep in mind that values have to be of type string*
 
 - To read a value: ```userSession.get('valueKey')``` => will return a string value or null
@@ -117,12 +116,12 @@ _For example:_
 if ( !userSession.get('userJustTalked') )
   userSession.set('userJustTalked', 'true');
 ```
+_after 1 hour of inactivity, userJustTalked will be null again_
 
-
-## user object
+## The _user_ object
 
 Allows to read and write variables that will persist in the user forever. This is an useful place to store data related to the user.
-**Keep in mind that values have to be of type string**
+*Keep in mind that values have to be of type string*
 
 - To read a value: ```user.get('valueKey')``` => will return a string value or null
 - To write a value: ```user.set('valueKey', 'value')```
@@ -133,9 +132,9 @@ _For example:_
 if ( !user.get('neverWasHere') )
   userSession.set('neverWasHere', 'true');
 ```
+_neverWasHere value will be true forever and when another client action set a different value_
 
-
-## entityLoader object
+## The _entityLoader_ object
 
 When a cvs file is saved in the Entities option of the platform, Client Actions can access them. For instance, a store list can be filtered and showed to the user based on his location.
 
