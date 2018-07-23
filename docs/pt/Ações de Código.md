@@ -1,16 +1,25 @@
 # Ações de Cliente
 
+![Seção](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Sec%CC%A7a%CC%83oCliente.png)
+
 Olá! Aqui vamos aprender como desenvolver códigos dentro da plataforma Botmaker.
 
 As ações de cliente são uteis para o desenvolvimento de regras mais complexas ou então quando for desejado adiconar códigos arbitrários em uma conversa. É uma excelente alternativa para conectar serviços externos para adquirir informações relevantes em tempo real na conversa com o usuário.
 
 _Por exemplo:_
-> você pode socilitar ao usuário que ele diga uma cor. Após enviada, você pode conectar a [*Google Translating API*] (https://cloud.google.com/translate/docs/) para fazer o bot responder a mesma cor em outra língua.
+> Você pode socilitar ao usuário que ele diga uma cor. Após enviada, você pode conectar a [*Google Translating API*] (https://cloud.google.com/translate/docs/) para fazer o bot responder a mesma cor em outra língua.
 
 ## Como disparar um código
 
 Primeiramente, você terá de criar uma Ação de Cliente na tela de **Códigos**. Veja abaixo: 
+
+![Criar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/CriarClient.png)
+
 > Dê um nome à ação (não se esqueça dele), e clique em **Salvar**.
+
+Na regra em que a ação deverá ser disparada, clique em "**+Ação**", escolha "**Client Actiom**" e selecione o código a ser executado:
+
+![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ClientSave.png)
 
 ## Features de código
 
