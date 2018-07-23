@@ -1,6 +1,9 @@
 # Como treinar o Bot?
 
+[Seção](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Sec%CC%A7a%CC%83oNC.png)
+
 Olá! Aqui vamos aprender como utilizar a seção **"Termos Não Compreendidos"** para treinar o Bot.
+
 
 ## Termos não compreendidos
 Nessa seção, você verá os termos que o Bot não entendeu. Cada cartão agrupa exemplos que ocorrem frequentemente, e que a inteligência artificial julga como similares. Veja abaixo: 
@@ -15,6 +18,6 @@ Quando terminar de trabalhar em um cartão, você pode removê-lo clicando no bo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzI0MzQ0Myw2MjE4MTIzNSwtMTc3Nj
-k4MTQxMywzNzYzNDY2M119
+eyJoaXN0b3J5IjpbLTgwODUzNDMyMywxNTUzMjQzNDQzLDYyMT
+gxMjM1LC0xNzc2OTgxNDEzLDM3NjM0NjYzXX0=
 -->
