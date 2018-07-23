@@ -1,6 +1,6 @@
 # Client Actions
 
-Client actions are useful for adding arbitrary code within a conversation in order to solve complex rules or to call external services to adquire realtime information with meaning to the current user conversation.
+Client actions are useful when adding arbitrary code within a conversation or when solving complex rules or calling external services to adquire realtime information with meaning to the current conversation.
 
 _Example: you can ask the user to say a color. Then you can call [Google Translation API](https://cloud.google.com/translate/docs/) to make to bot to reply the color in other language_
 
@@ -8,14 +8,14 @@ _Example: you can ask the user to say a color. Then you can call [Google Transla
 ## How to invoke the code
 
 First you will need to create the Code Action in the Code Actions screen. Remember the name you used when you save it.
-Then go to the rule you're interested and in the response screen, in there you only to add an _Action_. Then select Client Action option and finally set the name of the code that you previously saved.
+Then go to the rule you're interested. In the response screen add an _Action_. Then select _Client Action_ option and finally set the name of the code that you previously saved.
 
 ![call code](https://botmakeradmin.github.io/docs/en/callcode.png)
 
 
 ## Code features
 
-Node.js v6.14.0 is supported and a faily common list of libraries are whitelisted:
+Node.js v6.14.0 is supported and a common list of libraries are whitelisted:
 
 ```javascript
   {
@@ -42,7 +42,51 @@ _In case you need to whilelist another library, write to [architecture@botmaker.
 
 ## Client Action Input
 
-When the code is invoked, all the information we know about the user, conversations and general settings are provided. The following diagram describes the input that a Cloud Function might use.
+When the code is invoked, all the information we know about the user, conversations and general settings are provided. The following json describes the input that a Cloud Function might use.
+
+
+```javascript
+{
+  "context": {
+    "userData": {
+      "CHAT_PLATFORM_ID": "webchat",
+      "CHAT_CHANNEL_ID": "YPDXTZKM8Y3NXLXVQYAN-webchat-null",
+      "PLATFORM_CONTACT_ID": "0BBSX05QRF-3318782UBYKNLUIRBM0KL8XMDTM",
+      "LAST_MODIFICATION": "2018-07-23T03:43:51.243Z",
+      "HAS_TALKED": true,
+      "_id_": "O0IUBYCHJYSA4PNB0QH7",
+      "LAST_SEEN": "2018-07-23T03:43:52.279Z",
+      "variables": {
+        "svar": "sdas"
+      },
+      "tags": [
+        "testtest2"
+      ]
+    },
+    
+    "message": {
+      "BUSINESS_ID": "YPDXTZKM8Y3NXLXVQYAN",
+      "CREATION_TIME": "2018-07-23T03:43:52.281Z",
+      "FROM_NAME": "Usuario",
+      "CUSTOMER_ID": "O0IUBYCHJYSA4PNB0QH7",
+      "_id_": "LBIJGWZN4SJADFT2HUD2",
+      "FROM": "0BBSX05QRF-3318782UBYKNLUIRBM0KL8XMDTM",
+      "OBJECT_TYPE": "Message",
+      "SESSION_CREATION_TIME": "2018-07-23T03:43:52.281Z",
+      "AUDIOS_URLS": [],
+      "MESSAGE": "test",
+      "CHAT_PLATFORM_ID": "webchat",
+      "CHAT_CHANNEL_ID": "YPDXTZKM8Y3NXLXVQYAN-webchat-null",
+      "LAST_MODIFICATION": "2018-07-23T03:43:52.281Z",
+      "TO": "me",
+      "TAGS": {}
+    },
+    
+    "params": {}
+  }
+}
+```
+
 
 ## Context object
 
@@ -165,49 +209,4 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
         result.text('Problems: ' + error + '|' + JSON.stringify(error));
         result.done();
     });
-```
-
-
-# Input Example
-
-```javascript
-{
-  "context": {
-    "userData": {
-      "CHAT_PLATFORM_ID": "webchat",
-      "CHAT_CHANNEL_ID": "YPDXTZKM8Y3NXLXVQYAN-webchat-null",
-      "PLATFORM_CONTACT_ID": "0BBSX05QRF-3318782UBYKNLUIRBM0KL8XMDTM",
-      "LAST_MODIFICATION": "2018-07-23T03:43:51.243Z",
-      "HAS_TALKED": true,
-      "_id_": "O0IUBYCHJYSA4PNB0QH7",
-      "LAST_SEEN": "2018-07-23T03:43:52.279Z",
-      "variables": {
-        "svar": "sdas"
-      },
-      "tags": [
-        "testtest2"
-      ]
-    },
-    
-    "message": {
-      "BUSINESS_ID": "YPDXTZKM8Y3NXLXVQYAN",
-      "CREATION_TIME": "2018-07-23T03:43:52.281Z",
-      "FROM_NAME": "Usuario",
-      "CUSTOMER_ID": "O0IUBYCHJYSA4PNB0QH7",
-      "_id_": "LBIJGWZN4SJADFT2HUD2",
-      "FROM": "0BBSX05QRF-3318782UBYKNLUIRBM0KL8XMDTM",
-      "OBJECT_TYPE": "Message",
-      "SESSION_CREATION_TIME": "2018-07-23T03:43:52.281Z",
-      "AUDIOS_URLS": [],
-      "MESSAGE": "test",
-      "CHAT_PLATFORM_ID": "webchat",
-      "CHAT_CHANNEL_ID": "YPDXTZKM8Y3NXLXVQYAN-webchat-null",
-      "LAST_MODIFICATION": "2018-07-23T03:43:52.281Z",
-      "TO": "me",
-      "TAGS": {}
-    },
-    
-    "params": {}
-  }
-}
 ```
