@@ -17,7 +17,7 @@ Then go to the rule you're interested and in the response screen, in there you o
 
 Node.js v6.14.0 is supported and a faily common list of libraries are whitelisted:
 
-```javascript
+```json
   {
     "@turf/helpers": "^6.1.4", // accessed by "turfHelpers" var
     "@turf/turf": "^5.1.6", // accessed by "turf" var
@@ -172,7 +172,7 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
 
 # Input Example
 
-```javascript
+```json
 {
   "context": {
     "userData": {
