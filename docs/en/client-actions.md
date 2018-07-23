@@ -130,7 +130,7 @@ _For example:_
 
 ```javascript
 if ( !user.get('neverWasHere') )
-  userSession.set('neverWasHere', 'true');
+  user.set('neverWasHere', 'true');
 ```
 _neverWasHere value will be true forever and when another client action set a different value_
 
