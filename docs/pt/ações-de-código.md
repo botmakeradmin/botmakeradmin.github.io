@@ -1,6 +1,6 @@
 # Ações de Cliente
 
-![Seção](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Sec%CC%A7a%CC%83oCliente.png)
+![Seção](https://botmakeradmin.github.io/docs/pt/imagens/Sec%CC%A7a%CC%83oCliente.png)
 
 Olá! Aqui vamos aprender como desenvolver códigos dentro da plataforma Botmaker.
 
