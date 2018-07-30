@@ -10,7 +10,7 @@ Nessa seção, é onde encontramos todas as conversas em tempo real, e onde, tam
 
 # 1. Lista de Conversas
 
-![Lista](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/todoschats.png)
+![Lista](https://botmakeradmin.github.io/docs/pt/imagens/todoschats.png)
  
 Visíveis na coluna à esquerda, estão todas as conversas ordenadas cronológicamente, da mais recente à mais antiga. 
 
@@ -20,9 +20,9 @@ Ao clicar sobre uma conversa, a coluna central se atualizará, mostrando em deta
 
 Dentro de cada chat, é possível ver a identificação do usuário e a última mensagem recebida/enviada. A identificação é feita da seguinte maneira:
 
-![ChatWeb](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Chatweb.png)
+![ChatWeb](https://botmakeradmin.github.io/docs/pt/imagens/Chatweb.png)
 
-![ChatFace](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ChatFace.png)
+![ChatFace](https://botmakeradmin.github.io/docs/pt/imagens/ChatFace.png)
 
 - **Foto de perfil**: 
 Sempre e quando o usuário estiver em uma conversa através de um canal fixo (Messenger, Twitter, Telegram, WhatsApp, etc), será possível visualizar sua foto de perfil. 
@@ -55,15 +55,15 @@ Quando uma conversa for tomada por um operador, ela será marcada com um cadeado
 ## Pesquisa:
 Acima dos chats, encontra-se uma barra de pesquisa. É possível pesquisar um chat pelo nome do usuário ou por uma mensagem contida no chat.
 
-![Pesquisa](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/BuscaChat.png)
+![Pesquisa](https://botmakeradmin.github.io/docs/pt/imagens/BuscaChat.png)
 
 Também é possível filtrar, para mostrar chats apenas de situações desejadas:
 
-![Filtro](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/FiltroCHat.png)
+![Filtro](https://botmakeradmin.github.io/docs/pt/imagens/FiltroCHat.png)
 
 # 2. Detalhe de Conversas
 
-![Detalhe](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Detalhe.png)
+![Detalhe](https://botmakeradmin.github.io/docs/pt/imagens/Detalhe.png)
 
 Encontrada na coluna central da tela, pode-se visualizar o histórico de conversa completo de cada usuário.
 
@@ -73,7 +73,7 @@ Também, a plataforma foi desenhada para uma operação híbrida (Bot/Humano), e
 
 ## Caixa de texto:
 
-![Caixa](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/escreverchat.png)
+![Caixa](https://botmakeradmin.github.io/docs/pt/imagens/escreverchat.png)
 
 Na parte inferior se encontra uma caixa de texto, onde os operadores podem executar as seguintes funções:
 
@@ -84,15 +84,15 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
 
 Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
 
-![Regras](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/pesquisaregras.png)
+![Regras](https://botmakeradmin.github.io/docs/pt/imagens/pesquisaregras.png)
 
 > Nela, o operador pode buscar uma regra carregada no Bot para envia-la como resposta a uma pergunta não compreendida do usuário. Ao fazer isso, não só o usuário receberá a resposta, mas também o Bot estará sendo treinado para futuras ocasiões similares, para responder sem necessitar da participação de um operador.
 
 ## Opções do Cabeçalho:
 
-![Opções](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/opcoeschat.png)
+![Opções](https://botmakeradmin.github.io/docs/pt/imagens/opcoeschat.png)
 
-![OpçõesChat](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/opcoeschata.png)
+![OpçõesChat](https://botmakeradmin.github.io/docs/pt/imagens/opcoeschata.png)
 
 Ademais dos pontos descritos anteriormente, também podem ser executadas diversas ações através do cabeçalho do Detalhe de Conversa.
 
@@ -115,7 +115,7 @@ Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomen
 
 ## Desligar o Bot na conversa
 
-![Bloquear](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/desativarbot.png)
+![Bloquear](https://botmakeradmin.github.io/docs/pt/imagens/desativarbot.png)
 
 O Bot pode ser desligado por um operador (em uma conversa, específicamente), selecionando a opção abaixo:
 
@@ -130,7 +130,7 @@ A terceira e última coluna é localizada à direita da Janela de Chats Híbrida
 
 ### Informação adicional
 
-![Info add](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/informacaoadd.png)
+![Info add](https://botmakeradmin.github.io/docs/pt/imagens/informacaoadd.png)
 
 Onde estão localizadas as informações que, historicamente, foi armazenada pelo Bot através da interação com o usuário. Podem ser guardados, por exemplo: 
 
@@ -144,11 +144,11 @@ Onde estão localizadas as informações que, historicamente, foi armazenada pel
 
 Da leitura da conversa, também é possível obter novas informações, que podem ser incorporadas manualmente clicando no botão "**Editar**". Seleciona-se a varíavel e a informação a ser guardada.
 
-![Editar info](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/addinfo.png)
+![Editar info](https://botmakeradmin.github.io/docs/pt/imagens/addinfo.png)
 
 ### Tags
 
-![Tags](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/tags.png)
+![Tags](https://botmakeradmin.github.io/docs/pt/imagens/tags.png)
 
 As Tags são os temas de conversação dos quais o usuário historicamente percorreu no chat. Eles são adicionados automáticamente, sempre e quando se trata de temas dos quais Bot entende.
 
