@@ -13,13 +13,13 @@ _Por exemplo:_
 
 Primeiramente, você terá de criar uma Ação de Cliente na tela de **Códigos**. Veja abaixo: 
 
-![Criar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/CriarClient.png)
+![Criar](https://botmakeradmin.github.io/docs/pt/imagens/CriarClient.png)
 
 > Dê um nome à ação (não se esqueça dele), e clique em **Salvar**.
 
 Na regra em que a ação deverá ser disparada, clique em "**+Ação**", escolha "**Client Actiom**" e selecione o código a ser executado:
 
-![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ClientSave.png)
+![Salvar](https://botmakeradmin.github.io/docs/pt/imagens/ClientSave.png)
 
 ## Features de código
 
