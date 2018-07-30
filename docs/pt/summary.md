@@ -1,4 +1,3 @@
-* [Home](/)
 * [Cadastro e Administração de Usuários](cadastro-e-administração-de-usuários.md)
 * [Envio de Mensagens em Massa](envio-de-mensagens-em-massa.md)
 * [Operação da Janela de Chats Híbrida](operação-da-janela-de-chat-híbrido.md)
