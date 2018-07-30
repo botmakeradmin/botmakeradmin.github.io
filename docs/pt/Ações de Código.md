@@ -200,7 +200,7 @@ result.gotoRule('a rule name');
 
 ```result.done()``` deverá ser executado quando a Ação de Cliente for finalizada.
 
-**É muito importante chamar _result.done()_ em todo fluxo que exista uma Ação de Cliente, de modo a finalizar a execução do mesmo_
+**É muito importante chamar _result.done()_ em todo fluxo que exista uma Ação de Cliente, de modo a finalizar a execução do mesmo_**
 
 O seguinte código mostra uma Ação de Cliente bem implementada, com o método done() chamado em todo o fluxo.
 
