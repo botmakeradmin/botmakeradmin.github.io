@@ -7,7 +7,7 @@
 * [Como personalizar o WebChat?] (docs/pt/Como personalizar o WebChat?.md)
 * [Integrando o Bot a um canal] (docs/pt/Integrando o Bot a um canal.md)
 * [Melhores práticas no desenvolvimento de um Bot] (docs/pt/Melhores práticas no desenvolvimento de um Bot.md)
-* [Respostas do Bot: o que preciso saber?] (Respostas do Bot: o que preciso saber?.md)
+* [Respostas do Bot: o que preciso saber?] (docs/pt/Respostas do Bot: o que preciso saber?.md)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEyNTY5OTczNiwyMTM2OTcwNzYzXX0=
