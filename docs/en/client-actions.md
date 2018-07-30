@@ -158,7 +158,7 @@ _full redis support is provided. Take a look at the official node [redis library
 
 ___
 
-# Client Action Result
+## Client Action Result
 
 Any side effect that the Client Action wants to create must be done using the *result* object.
 So for instance:
