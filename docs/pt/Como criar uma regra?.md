@@ -38,7 +38,7 @@ Quando ativado um disparador por tempo de inatividade, a regra será disparada a
 
 Para utilizar o disparador por tempo de inatividade, siga o procedimento do vídeo abaixo:
 
-[![](http://img.youtube.com/vi/uROmiorHU-c/0.jpg)](http://www.youtube.com/watch?v=uROmiorHU-c "")
+[![](http://img.youtube.com/vi/uROmiorHU-c/0.jpg)](http://www.youtube.com/watch?v=uROmiorHU-c)
 
 
 ## Respostas
