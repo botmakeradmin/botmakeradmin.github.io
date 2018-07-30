@@ -16,7 +16,7 @@ Um Bot é um conjunto de regras - as regras permitem definir o que será respond
 ### Disparadores por compreensão de frase
 
 Os diparadores por compreensão de uma frase podem ser de dois tipos:
-![EstáticoeVariável](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Estatico.png)
+![EstáticoeVariável](https://botmakeradmin.github.io/docs/pt/imagens/Estatico.png)
 
 #### Frases estáticas
 
@@ -43,7 +43,7 @@ Para utilizar o disparador por tempo de inatividade, siga o procedimento do víd
 
 ## Respostas
 
-![Respostas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Respostas.png)
+![Respostas](https://botmakeradmin.github.io/docs/pt/imagens/Respostas.png)
 
 Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**, na ordem que estiverem os conteúdos.
 
@@ -66,22 +66,22 @@ Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado qua
 
 Com resposta rápida ativada:
 
-![Com Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/ComRespostaRapida.jpg)
+![Com Resposta Rápida ativada](https://botmakeradmin.github.io/docs/pt/imagens/ComRespostaRapida.jpg)
 
 Sem resposta rápida ativada:
 
-![Sem Resposta Rápida ativada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/SemRespostaRapida.jpg)
+![Sem Resposta Rápida ativada](https://botmakeradmin.github.io/docs/pt/imagens/SemRespostaRapida.jpg)
 
 ### Carrossel
 Pressionando o botão + Carrossel, será possível adicionar diversas imagens, com possibilidade de adicionar nome, descrição e botões, no formato de Carrossel, como observamos abaixo:
 
-![Carrossel](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Carrossel.png)
+![Carrossel](https://botmakeradmin.github.io/docs/pt/imagens/Carrossel.png)
 
 ### Ações
 As ações permitem agregar ao Bot, de maneira simples, comportamentos pré definidos.
 
 Temos um artigo inteiro sobre elas, que poderá te ajudar a aprender sobre seus usos! 
-[Clique aqui para acessar.](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/A%C3%A7%C3%B5es%20e%20Vari%C3%A1veis.md)
+[Clique aqui para acessar.](https://botmakeradmin.github.io/docs/pt/A%C3%A7%C3%B5es%20e%20Vari%C3%A1veis.md)
 
 ### Mídia
 Pressionando o botão + Mídia, poderá ser adicionado qualquer tipo de arquivo ao a, como iaes, os, dis  aeroutoivo. 
