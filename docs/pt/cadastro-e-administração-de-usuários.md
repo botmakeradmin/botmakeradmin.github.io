@@ -14,7 +14,7 @@ Você pode se cadastrar através de seu email Google (e outros) e também com se
 
 Uma vez criada a conta, você deverá aguardar que um usuário com perfil de Super Administrador conecte sua conta ao bot correspondente.
 
-![Conta Criada](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Aguardando%20permissa%CC%83o.png)
+![Conta Criada](https://botmakeradmin.github.io/docs/pt/imagens/Aguardando%20permissa%CC%83o.png)
 
 > Para isso, é importante que você envie o endereço de email utilizado para criar sua conta para um usuário com perfil de Super Administrador. Assim, ele conseguirá te conceder acesso.
 
@@ -27,13 +27,13 @@ Para adicionar um novo usuário ao Bot, um usuário com perfil de Super Administ
 3. Funções de usuários
  
  
-![Configurações](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Adicionar%20usua%CC%81rio.png)
+![Configurações](https://botmakeradmin.github.io/docs/pt/imagens/Adicionar%20usua%CC%81rio.png)
 
 Uma vez na seção, o Super Administrador deverá clicar no botão "**+**", no canto inferior direito.
 
 No popup que aparecerá, deve-se colocar manualmente o endereço de email dos novos usuários a serem agregados ao Bot e suas funções. Feito isso, clicar em “**Adicionar**”.
 
-![Editar usuário](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Editar%20usua%CC%81rio.png)
+![Editar usuário](https://botmakeradmin.github.io/docs/pt/imagens/Editar%20usua%CC%81rio.png)
 
 ## As funções disponíveis são:
 
@@ -49,7 +49,7 @@ Se você deseja editar a função de um usuário já cadastrado no bot, deve-se 
 
 > Para isso, pode-se filtrar através dos botões localizados no canto superior direito, eles são: Pesquisar por Nome, Ordenar por Ordem Alfabética ou Filtrar por Função.
 
-![Filtrar e Editar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/FiltrarEditar.png)
+![Filtrar e Editar](https://botmakeradmin.github.io/docs/pt/imagens/FiltrarEditar.png)
 
 Assim que encontrado o usuário, deve-se clicar em “**Editar**” e fazer a alteração necessária.
 
