@@ -24,18 +24,18 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
  1. Acessar o Menu "**Audiências**";
  
- ![Acessar Pushes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Audiencias.png)
+ ![Acessar Pushes](https://botmakeradmin.github.io/docs/pt/imagens/Audiencias.png)
 
  2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
  
- ![Criar um push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/CriarAudiencia.png)
+ ![Criar um push](https://botmakeradmin.github.io/docs/pt/imagens/CriarAudiencia.png)
  
 > Note que você poderá, através dos botões, observar as métricas de um push, editar um envio, duplicá-lo (para gerar um novo baseado no atual), eliminar o push ou desabilitá-lo (não será enviado quando chegar ao horário programado).
 > ![Opções](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/OpcoesPush.png)
 
 3. Para criar um novo Push, clique em "**Criar Novo**", aparecerá uma janela como essa:
 
-![Janela Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/EditarAudiencia.png)
+![Janela Push](https://botmakeradmin.github.io/docs/pt/imagens/EditarAudiencia.png)
 
 4. Editando um Push: 
 
@@ -59,7 +59,7 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
 
 ## Veja um exemplo de um Push configurado:
 
-![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/Push.png)
+![Push](https://botmakeradmin.github.io/docs/pt/imagens/Push.png)
 
 Nesse caso, somente usuários que tenham se identificado como clientes atuais da empresa, e que tenham inserido seu endereço de email no chat, receberão a oferta.
 
