@@ -17,13 +17,23 @@ go.botmaker.com
 *.googleusercontent.com
 
 *.giphy.com  
+
 www.google-analytics.com
+
 m-infra.firebaseapp.com
+
 code.jquery.com
+
 maxcdn.bootstrapcdn.com
+
 cdn.firebase.com
+
 unpkg.com
+
 twemoji.maxcdn.com
+
 connect.facebook.net
+
 scontent.xx.fbcdn.net
+
 www.accountchooser.com
