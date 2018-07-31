@@ -7,10 +7,15 @@ Olá! Aqui vamos aprender como permitir o funcionamento perfeito da BotMaker na 
 É fácil: tudo o que deverá ser feito é inserir os endereços listados abaixo na lista de permissões de sua rede segura.
 
 go.botmaker.com
+
 *.googleapis.com
+
 *.gstatic.com
+
 *.google.com
+
 *.googleusercontent.com
+
 *.giphy.com  
 www.google-analytics.com
 m-infra.firebaseapp.com
