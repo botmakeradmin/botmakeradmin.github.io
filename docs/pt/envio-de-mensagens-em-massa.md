@@ -31,7 +31,7 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
  ![Criar um push](https://botmakeradmin.github.io/docs/pt/imagens/CriarAudiencia.png)
  
 > Note que você poderá, através dos botões, observar as métricas de um push, editar um envio, duplicá-lo (para gerar um novo baseado no atual), eliminar o push ou desabilitá-lo (não será enviado quando chegar ao horário programado).
-> ![Opções](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/pt/imagens/OpcoesPush.png)
+> ![Opções](https://botmakeradmin.github.io/docs/pt/imagens/OpcoesPush.png)
 
 3. Para criar um novo Push, clique em "**Criar Novo**", aparecerá uma janela como essa:
 
