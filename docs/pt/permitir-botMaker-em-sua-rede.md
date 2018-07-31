@@ -8,32 +8,32 @@ Olá! Aqui vamos aprender como permitir o funcionamento perfeito da BotMaker na 
 
 go.botmaker.com
 
-*.googleapis.com
+- *.googleapis.com
 
-*.gstatic.com
+- *.gstatic.com
 
-*.google.com
+- *.google.com
 
-*.googleusercontent.com
+- *.googleusercontent.com
 
-*.giphy.com  
+- *.giphy.com  
 
-www.google-analytics.com
+- www.google-analytics.com
 
-m-infra.firebaseapp.com
+- m-infra.firebaseapp.com
 
-code.jquery.com
+- code.jquery.com
 
-maxcdn.bootstrapcdn.com
+- maxcdn.bootstrapcdn.com
 
-cdn.firebase.com
+- cdn.firebase.com
 
-unpkg.com
+- unpkg.com
 
-twemoji.maxcdn.com
+- twemoji.maxcdn.com
 
-connect.facebook.net
+- connect.facebook.net
 
-scontent.xx.fbcdn.net
+- scontent.xx.fbcdn.net
 
-www.accountchooser.com
+- www.accountchooser.com
