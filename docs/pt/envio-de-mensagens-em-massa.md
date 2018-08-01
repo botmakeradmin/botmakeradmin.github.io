@@ -26,7 +26,7 @@ Podemos usar as seguintes variantes e configurações para o envios de mensagens
  
  ![Acessar Pushes](https://botmakeradmin.github.io/docs/pt/imagens/Audiencias.png)
 
- 2. Nessa seção, você poderá ver as últimas mensagens programas e também poderá criar uma nova;
+ 2. Nessa seção, você poderá ver as últimas mensagens programadas e também poderá criar uma nova;
  
  ![Criar um push](https://botmakeradmin.github.io/docs/pt/imagens/CriarAudiencia.png)
  
