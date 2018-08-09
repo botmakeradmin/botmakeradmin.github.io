@@ -5,7 +5,7 @@
 
 Olá! Aqui vamos aprender como desenvolver códigos dentro da plataforma Botmaker.
 
-As ações de cliente são uteis para o desenvolvimento de regras mais complexas ou então quando for desejado adiconar códigos arbitrários em uma conversa. É uma excelente alternativa para conectar serviços externos para adquirir informações relevantes em tempo real na conversa com o usuário.
+As ações de cliente são uteis para o desenvolvimento de regras mais complexas ou então quando for desejado adicionar códigos arbitrários em uma conversa. É uma excelente alternativa para conectar serviços externos para adquirir informações relevantes em tempo real na conversa com o usuário.
 
 _Por exemplo:_
 > Você pode socilitar ao usuário que ele diga uma cor. Após enviada, você pode conectar a [Google Translating API](https://cloud.google.com/translate/docs/) para fazer o bot responder a mesma cor em outra língua.
