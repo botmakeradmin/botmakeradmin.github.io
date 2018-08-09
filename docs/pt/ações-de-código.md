@@ -18,7 +18,7 @@ Primeiramente, você terá de criar uma Ação de Cliente na tela de **Códigos*
 
 > Dê um nome à ação (não se esqueça dele), e clique em **Salvar**.
 
-Na regra em que a ação deverá ser disparada, clique em "**+Ação**", escolha "**Client Actiom**" e selecione o código a ser executado:
+Na regra em que a ação deverá ser disparada, clique em "**+Ação**", escolha "**Client Action**" e selecione o código a ser executado:
 
 ![Salvar](https://botmakeradmin.github.io/docs/pt/imagens/ClientSave.png)
 
