@@ -125,7 +125,7 @@ Una vez que el operador responda a las solicitudes del usuario, o cuando sea per
 
 > En caso de olvido, la reactivación del Bot se realizará automaticamente despues de 30 minutos.
 
-# 3. Informacióno adicional y Tags
+# 3. Información adicional y Tags
 La tercera y última columna esta localizada a la derecha de la pantalla de Chats Híbrida. La misma muestra todas las informaciones guardadas, provenientes del usuario, además de los temas de conversación recorridos durante la conversación.
 
 ### Información adicional
