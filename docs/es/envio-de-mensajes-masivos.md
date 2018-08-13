@@ -52,7 +52,7 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
 - Y, por fin, definirá cual será el mensaje a ser enviado! Este podrá ser: 
 	- un texto: al agregar un "**+Texto**", será posible digitar un mensaje de texto.
 	
-	- una acción: al agregar una "**+Acción**", será posible disparar una intención del Bot, enriquecer un Cuestionario y/o atribuir variábles al usuario;
+	- una acción: al agregar una "**+Acción**", será posible disparar una intención del Bot, enriquecer un Cuestionario y/o atribuir variables al usuario;
 	-  una media: al agregar una "**+Media**", será posible enviar una imagen, un audio, un vídeo y/o un archivo.
 
 5. Después de la confuguración deseada, cliquee en **Guardar**, y en la fecha y horario indicados, los usuarios de la segmentación recibirán el Push! 
