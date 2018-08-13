@@ -75,7 +75,7 @@ Sin respuesta rápida activada:
 ### Carrousel
 Presionando el botón + Carrousel, será posible agregar diversas imagenes, con posibilidad de agregar nombre, descripción y botones, en formato de Carrousel, como observamos aquí debajo:
 
-![Carrousel](https://botmakeradmin.github.io/docs/pt/imagens/Carrossel.png)
+![Carrousel](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2017.04.54.png)
 
 ### Acciones
 Las acciones permiten agregar al Bot, de manera simple, comportamientos predefinidos.
