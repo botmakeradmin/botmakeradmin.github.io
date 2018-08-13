@@ -6,7 +6,7 @@ En esta sección, es donde encontramos todas las conversaciones en tiempo real, 
 
  1. Lista de Conversaciones;
  2. Detalle de Conversaciones;
- 3. Información adicional y tags
+ 3. Información adicional y tags;
 
 # 1. Lista de Conversaciones
 
