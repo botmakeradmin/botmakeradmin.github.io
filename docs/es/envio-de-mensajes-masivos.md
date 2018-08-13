@@ -30,7 +30,7 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
  
  ![Crear un push](https://botmakeradmin.github.io/docs/pt/imagens/CriarAudiencia.png)
  
-> Tenga en cuenta que puede, a través de los botones, observar las métricas de un push, editar un envío, duplicarlo (para generar una nueva basada en la actual), eliminar un push o deshabilitarlo (no será enviado cuando llegue al horario programado).
+> Tenga en cuenta que puede, a través de los botones, observar las métricas de un push, editar un envío, duplicarlo (para generar una nueva basado en la actual), eliminar un push o deshabilitarlo (no será enviado cuando llegue al horario programado).
 > ![Opciones](https://botmakeradmin.github.io/docs/pt/imagens/OpcsoesPush.png)
 
 3. Para crear un nuevo Push, cliquee en "**Crear Nuevo**", aparecerá una ventana como esta:
