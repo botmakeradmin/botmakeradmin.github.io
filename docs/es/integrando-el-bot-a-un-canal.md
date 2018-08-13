@@ -7,29 +7,29 @@ Hola! Aquí vamos a aprender como hacer la integración del Bot con su canal de 
 
 Para realizar la integración, debe ingresar a la consola de administración de BotMaker con una cuenta con permiso de Administrador. Vea una imagen abajo como localizarlo:
 
-![Localizar](https://botmakeradmin.github.io/docs/pt/imagens/Canais.png)
+![Localizar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.40.08.png)
 
 ## Facebook
 Para integración con Facebook, debe cliquear en el botón **"Conceda permisos de Facebook para Bot"**. 
 
-![Conceder](https://botmakeradmin.github.io/docs/pt/imagens/ConcederFB.png)
+![Conceder](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.49.52.png)
 
 Tan pronto como sea permitido, cliquee en **"Páginas"**, donde aparecerán las fanpages disponibles para ser concectadas a BotMaker. 
 
-![Páginas](https://botmakeradmin.github.io/docs/pt/imagens/ClicarPagi.png)
+![Páginas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.50.48.png)
 
-![Escoger](https://botmakeradmin.github.io/docs/pt/imagens/SelecionarPagi.png)
+![Escoger](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.51.01.png)
 
 Seleccione y salve, cliqueando en **"Salvar"**.
 
-![Salvar](https://botmakeradmin.github.io/docs/pt/imagens/SalvarCaal.png)
+![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.51.15.png)
 
 ## WebChat
 En la sección WebChat, la integración podrá ser realizada - primero - activandolo.
 
 Una vez activado, copie el código correspondiente, de START a END, y siga las instrucciones indicadas para incluir el WebChat en su página Web. 
 
-![WebChat](https://botmakeradmin.github.io/docs/pt/imagens/Webcat.png)
+![WebChat](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.54.43.png)
 
 Cuando ha finalizado, salve, clicando en **"Salvar"**.
 
