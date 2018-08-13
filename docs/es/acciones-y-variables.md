@@ -34,7 +34,7 @@ Además, también son encontradas las variables definidas en el Bot y en las Tag
 
 ### Dónde utilizar variables?
 
-Las variables son muy útiles al momento de definir cuando se debe disparar una Intención, que respuesta se debe dar en tal contexto ó para filtrar informes.
+Las variables son muy útiles al momento de definir cuando se debe disparar una Intención, que respuesta se debe dar en tal contexto o para filtrar informes.
 
 - Variables como condición de disparo:
 	- Al aplicar una condición a un Disparador, la intención solamente será disparada cuando es ejecutado el disparador y la condición se cumpla. 
