@@ -2,6 +2,8 @@
 
 Hola! Aqui vamos a aprender como se crea una **intención**.
 
+[Regras](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2017.08.16.png)
+
 Un Bot es un conjunto de intenciones. Las intenciones permiten definir lo que será respondido por el Bot frente a una solicitud específica del usuario. Su creación consta de dos partes:
 
 - **Disparadores**: sobre que condiciones y/o mensajes de usuarios, la intención deberá ser disparada? Pueden ser:
