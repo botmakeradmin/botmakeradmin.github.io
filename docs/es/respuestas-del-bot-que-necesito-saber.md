@@ -42,31 +42,31 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 ## Respuestas rápidas (pills)
 
   - **Facebook Messenger y WebChat**:
-	- Texto de los botones en formato UTF-8 con limite de 20 caracteres. Pueden ser usados emojis. Hasta 10 pills.
+	- Texto de los botones en formato UTF-8 con límite de 20 caracteres. Pueden ser usados emojis. Hasta 10 pills.
 	- ![Con Respuesta Rápida activada](https://botmakeradmin.github.io/docs/pt/imagens/ComRespostaRapida.jpg)
 
 
 - **Telegram**:
-	- Texto anterior de los botones en formato UTF-8 con limite de 640 caracteres;
-	- Texto de los botones en formato UTF-8 con limite de 20 caracteres. Solo soporta hasta una URL.
+	- Texto anterior de los botones en formato UTF-8 con límite de 640 caracteres;
+	- Texto de los botones en formato UTF-8 con límite de 20 caracteres. Solo soporta hasta una URL.
 
 - **Twitter**:
-	- Texto anterior de los botones en formato UTF-8 con limite de 640 caracteres;
-	- Texto de los botones en formato UTF-8 con limite de 20 caracteres. 
+	- Texto anterior de los botones en formato UTF-8 con límite de 640 caracteres;
+	- Texto de los botones en formato UTF-8 con límite de 20 caracteres. 
 
 - **MercadoLibre**:
 	- No soportado.
 
 - **Google Actions**:
-	- Texto anterior de los botones en formato UTF-8 con limite de 640 caracteres;
-	- Texto de los botones en formato UTF-8 com limite de 20 caracteres. Hasta 8 pills.
+	- Texto anterior de los botones en formato UTF-8 con límite de 640 caracteres;
+	- Texto de los botones en formato UTF-8 com límite de 20 caracteres. Hasta 8 pills.
 
  ## Carrousel
   - **Facebook Messenger y WebChat**:
 	- **Imagen** - formato JPG con aspect ratio de 1.91:1. Tamaño recomendado: 1200x628px.
-	- **Título** - texto en formato UTF-8 con limite de 80 caracteres.
-	- **Subtítulo** - texto en formato UTF-8 con limite de 80 caracteres.
-	- **Botones** - texto en formato UTF-8 con limite de 20 caracteres.
+	- **Título** - texto en formato UTF-8 con límite de 80 caracteres.
+	- **Subtítulo** - texto en formato UTF-8 con límite de 80 caracteres.
+	- **Botones** - texto en formato UTF-8 con límite de 20 caracteres.
 
 - **Telegram**:
 	- No soportado.
@@ -80,8 +80,8 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 - **Google Actions**:
 	- **Imagen** - formato jpg de tamaño 128x232dp.
 	- **Título** - texto en formato UTF-8, debe ser único para soportar selección por voz.
-	- **Subtítulo** - texto en formato UTF-8, con un máximo de 4 lineas.
-	- **Botones** - texto en formato UTF-8 con limite de 20 caracteres.
+	- **Subtítulo** - texto en formato UTF-8, con un máximo de 4 líneas.
+	- **Botones** - texto en formato UTF-8 con límite de 20 caracteres.
 
 ## Imagenes
   - **Facebook Messenger y WebChat**:
