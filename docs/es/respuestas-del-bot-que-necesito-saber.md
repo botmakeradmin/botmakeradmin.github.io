@@ -137,7 +137,7 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 	- No soportado.
 
 ## Configuración de respuestas
-Para resolver las preguntas relacionadas con la configuración de respuestas en una intención, acceda a esta pagina del manual.
+Para resolver las preguntas relacionadas con la configuración de respuestas en una intención, acceda a esta página del manual.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTAxNTcwNDU4MSw3NDIxMjYyNDgsLTE1Nj
 c3Mjg0NjZdfQ==
