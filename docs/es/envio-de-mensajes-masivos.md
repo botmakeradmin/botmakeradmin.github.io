@@ -1,4 +1,4 @@
-# Envio de Mensagens em Massa
+# Envio de Mensajes Masivos
 
 Hola! Aquí, vamos a aprender como enviar mensajes masivos para sus usuarios, con posibilidad de segmentación.
 
