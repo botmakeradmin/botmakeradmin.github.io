@@ -1,4 +1,4 @@
-# Respuestas del Bot: lo que preciso saber?
+# Respuestas del Bot: qué preciso saber?
 
 Hola! Aquí vamos a aprender cuales son los formatos correctos para cada elemento de conversación para las diferentes plataformas soportadas por BotMaker.
 
