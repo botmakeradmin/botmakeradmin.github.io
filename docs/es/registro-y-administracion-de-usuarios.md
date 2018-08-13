@@ -47,7 +47,7 @@ Una vez que el usuario a ser agregado sea asignado, cliquear en “**Save**”
 
 Si desea editar la función de un usuario ya registrado en el bot, se debe encontrar el perfil a ser modificado.
 
-> Para eso, se puede filtrar a través de los botones localizados en la esquina superior derecha, ellos son: Busqueda por Nombre, Ordenar por Orden Alfabético o Filtrar por Función.
+> Para eso, se puede filtrar a través de los botones localizados en la esquina superior derecha, ellos son: Búsqueda por Nombre, Ordenar por Orden Alfabético o Filtrar por Función.
 
 ![Filtrar y Editar](https://botmakeradmin.github.io/docs/pt/imagens/FiltrarEditar.png)
 
