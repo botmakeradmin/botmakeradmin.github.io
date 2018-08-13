@@ -109,7 +109,7 @@ Seleccionando esa opción, será posible asignar la conversación a un operador 
 Seleccionando esa opción, la conversación será marcada como "**No Leída**".
 
 ### Marcar como SPAM
-Seleccionando esa opción, el usuario será bloqueado por 7 días. Se en casosque el usuario esté molestando al Bot/Operador, haciendo preguntas sin sentido. 
+Seleccionando esa opción, el usuario será bloqueado por 7 días. En caso que el usuario esté molestando al Bot/Operador, haciendo preguntas sin sentido. 
 
 > Un usuario bloqueado podrá seguir enviando mensajes, pero el Bot dejará de responderle y los Operadores no serán notificados sobre la conversación.
 
