@@ -21,8 +21,8 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 
 ## Botones
 - **Facebook Messenger y WebChat**:
-	- Texto anterior de los botones en formato UTF-8 con limite de 640 caracteres;
-	- Texto de los botones en formato UTF-8 con limite de 20 caracteres. Los botones soportan URLs.
+	- Texto anterior de los botones en formato UTF-8 con límite de 640 caracteres;
+	- Texto de los botones en formato UTF-8 con límite de 20 caracteres. Los botones soportan URLs.
 	- ![Sin Respuesta Rápida activada](https://botmakeradmin.github.io/docs/pt/imagens/SemRespostaRapida.jpg)
 
 
