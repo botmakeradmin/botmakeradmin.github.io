@@ -6,7 +6,7 @@ El BotMaker permite crear perfiles de audiencia customizados para envío de mens
 
  - Envío de publicidad; 
  - Anuncio de novedades de productos y servicios;
- - Busquedas sobre productos y servicios; 
+ - Búsquedas sobre productos y servicios; 
  - Anuncio de nuevas funcionalidades del bot; 
  - Solicitud de confección de formularios;
  - Ofrecimiento de inscripción a novedades.
