@@ -8,9 +8,9 @@ Independientemente del objetivo y alcance del Bot, un chat es un canal de comuni
 
 Se recomienda que el Bot pueda entender la mayor variedad de perguntas posibles y responderlas, incluso si usted no tiene la respuesta especifica. 
 
-## Comunicación el objetivo del Bot
+## Comunicación del objetivo del Bot
 
-Es fundamental se haga la comunicación correcta del proposito y del campo de conocimiento del Bot. Asi se pone una expectativa a los usuarios, sobre los temas que pueden ser conversados, de modo de evitar frustraciones.
+Es fundamental se haga la comunicación correcta del propósito y del campo de conocimiento del Bot. Así se pone una expectativa a los usuarios, sobre los temas que pueden ser conversados, de modo de evitar frustraciones.
 
 ## Definición de tono
 Es importante que exista consistencia en el tono y en el lenguaje utilizado en las respuestas del bot:
