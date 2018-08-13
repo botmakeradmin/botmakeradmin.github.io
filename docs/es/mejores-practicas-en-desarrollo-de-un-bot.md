@@ -42,10 +42,10 @@ Es una buena práctica evitar respuestas que comiencen con "Si" ó "No", dado qu
 Al redactar una respuesta, es recomendable dar a entender al usuario que el Bot entendió la pregunta, y que está respondiendo correctamente.
 
 Por ejemplo, la pregunta: 
-"Cual es el precio del estacionamiento?",
+"Cuál es el precio del estacionamiento?",
 - La respuesta debería ser: "El precio del estacionamiento es de $25 la hora" - en lugar de : "$25 la hora".
 
-## Solicitud de informacion personal del usuario
+## Solicitud de información personal del usuario
 
 Siempre que fuera necesario solicitar informaciones personales al usuario, es importante explicar los motivos de esa solicitud.
 <!--stackedit_data:
