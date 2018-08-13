@@ -16,7 +16,7 @@ Un Bot es un conjunto de intenciones. Las intenciones permiten definir lo que se
 ### Disparadores por comprensión de frase
 
 Los diparadores por comprensión de una frase pueden ser de dos tipos:
-![EstáticoyVariable](https://botmakeradmin.github.io/docs/pt/imagens/Estatico.png)
+![EstáticoyVariable](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.51.00.png)
 
 #### Frases estáticas
 
@@ -38,12 +38,12 @@ Cuando se activa un disparador por tiempo de inactividad, la intención será di
 
 Para utilizar el disparador por tiempo de inactividad, siga el procedimiento del vídeo aqui debajo:
 
-[![](http://img.youtube.com/vi/uROmiorHU-c/0.jpg)](http://www.youtube.com/watch?v=uROmiorHU-c)
+[Inactividad](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.53.11.png)
 
 
 ## Respuestas
 
-![Respuestas](https://botmakeradmin.github.io/docs/pt/imagens/Respostas.png)
+![Respuestas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.52.35.png)
 
 Cuando una intención fué disparada, el Bot ejecutará todo lo que se define en la pantalla de **Respuestas**, en el orden que esten los contenidos.
 
