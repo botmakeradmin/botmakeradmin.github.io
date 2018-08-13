@@ -142,7 +142,7 @@ Donde están localizadas las informaciones que, historicamente, fueron almacenad
 - URL de interacción;
 - Y cualquier otra información que el Bot solicite al usuario.
 
-De la lectura de la conversación, también es posible obtener nuevas informaciones, que pueden ser incorporadas manualmente cliqueando en el botón "**Editar**". Se selecciona la variable y la informacióno a ser guardada.
+De la lectura de la conversación, también es posible obtener nuevas informaciones, que pueden ser incorporadas manualmente cliqueando en el botón "**Editar**". Se selecciona la variable y la información a ser guardada.
 
 ![Editar info](https://botmakeradmin.github.io/docs/pt/imagens/addinfo.png)
 
