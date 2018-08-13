@@ -10,7 +10,7 @@ En esta sección, es donde encontramos todas las conversaciones en tiempo real, 
 
 # 1. Lista de Conversaciones
 
-![Lista](https://botmakeradmin.github.io/docs/pt/imagens/todoschats.png)
+![Lista](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2014.png)
  
 Visibles en la columna izquierda, están todas las conversaciones ordenadas cronológicamente, de más reciente a más antigua. 
 
@@ -20,9 +20,9 @@ Al cliquear sobre una conversación, la columna central se actualizará, mostran
 
 Dentro de cada chat, es posible ver la identificación del usuario y el último mensaje recibido/enviado. La identificación se hace de la siguiente manera:
 
-![ChatWeb](https://botmakeradmin.github.io/docs/pt/imagens/Chatweb.png)
+![ChatWeb](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/IdentificacionESP.png)
 
-![ChatFace](https://botmakeradmin.github.io/docs/pt/imagens/ChatFace.png)
+![ChatFace](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Ident.ESP.png)
 
 - **Foto de perfil**: 
 Siempre y cuando el usuario está en una conversación a través de un canal fijo (Messenger, Twitter, Telegram, WhatsApp, etc), será posible visualizar su foto de perfil. 
@@ -55,15 +55,15 @@ Cuando una conversación es tomada por un operador, ella será marcada con un ca
 ## Búsqueda:
 Sobre los chats, se encuentra una barra de búsqueda. Es posible buscar un chat por el nombre del usuario o por un mensaje contenido en el chat.
 
-![Búsqueda](https://botmakeradmin.github.io/docs/pt/imagens/BuscaChat.png)
+![Búsqueda](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/PesquisaESp.png)
 
 También es posible filtrar, para mostrar chats solo las situaciones deseadas:
 
-![Filtro](https://botmakeradmin.github.io/docs/pt/imagens/FiltroCHat.png)
+![Filtro](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Pesq2ESP.png)
 
 # 2. Detalle de Conversaciones
 
-![Detalle](https://botmakeradmin.github.io/docs/pt/imagens/Detalhe.png)
+![Detalle](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2014.45.44.png)
 
 Encontrado en la columna central de la pantalla, se puede visualizar el historial de conversación completo de cada usuario.
 
@@ -73,7 +73,7 @@ También, la plataforma fué diseñada para una operación híbrida (Bot/Humano)
 
 ## Caja de texto:
 
-![Caja](https://botmakeradmin.github.io/docs/pt/imagens/escreverchat.png)
+![Caja](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Caixatexo.png)
 
 En la parte inferior se encuentra una caja de texto, donde los operadores pueden ejecutar las siguientes funciones:
 
@@ -84,15 +84,15 @@ En la parte inferior se encuentra una caja de texto, donde los operadores pueden
 
 Adicionalmente, cuando el cursor está en la caja de texto, el operador puede presionar la tecla "**Enter**" para abrir un Menu de acciones del Bot.
 
-![Intenciones](https://botmakeradmin.github.io/docs/pt/imagens/pesquisaregras.png)
+![Intenciones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Caixatexto.png)
 
 > En ella, el operador puede buscar una intención cargada en el Bot para enviarla como respuesta a una pregunta no comprendida del usuario. Al hacer eso, no solo el usuario recibirá la respuesta, sino que también el Bot estará siendo entrenado para futuras ocasiones similares, para responder sin necesitar de la participación de un operador.
 
 ## Opciones de Encabezamiento:
 
-![Opciones](https://botmakeradmin.github.io/docs/pt/imagens/opcoeschat.png)
+![Opciones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/opcoeschatESP.png)
 
-![OpcionesChat](https://botmakeradmin.github.io/docs/pt/imagens/opcoeschata.png)
+![OpcionesChat](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Opc%CC%A7o%CC%83esESP.png)
 
 Además de los puntos descriptos anteriormente, también pueden ser ejecutados diversas acciones a través del encabezamiento del Detalle de Conversación.
 
@@ -115,7 +115,7 @@ Seleccionando esa opción, el usuario será bloqueado por 7 días. En caso que e
 
 ## Desactivar al Bot en la conversación
 
-![Bloquear](https://botmakeradmin.github.io/docs/pt/imagens/desativarbot.png)
+![Bloquear](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/desactivarESP.png)
 
 El Bot puede ser desactivado por un operador (en una conversación específicamente), seleccionando la opción de abajo:
 
@@ -130,7 +130,7 @@ La tercera y última columna esta localizada a la derecha de la pantalla de Chat
 
 ### Información adicional
 
-![Info add](https://botmakeradmin.github.io/docs/pt/imagens/informacaoadd.png)
+![Info add](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/informacionESP.png)
 
 Donde están localizadas las informaciones que, historicamente, fueron almacenadas por el Bot a través de la interacción con el usuario. Pueden ser guardadas, por ejemplo: 
 
@@ -144,11 +144,11 @@ Donde están localizadas las informaciones que, historicamente, fueron almacenad
 
 De la lectura de la conversación, también es posible obtener nuevas informaciones, que pueden ser incorporadas manualmente cliqueando en el botón "**Editar**". Se selecciona la variable y la información a ser guardada.
 
-![Editar info](https://botmakeradmin.github.io/docs/pt/imagens/addinfo.png)
+![Editar info](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-09%20a%CC%80s%2016.20.46.png)
 
 ### Etiquetas
 
-![Etiquetas](https://botmakeradmin.github.io/docs/pt/imagens/tags.png)
+![Etiquetas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-09%20a%CC%80s%2016.21.00.png)
 
 Las Etiquetas son los temas de conversación de los cuales el usuario ha recorrido historicamente en el chat. Se agregan automáticamente, siempre y cuando se trate de temas de los cuales el Bot entiende.
 
