@@ -100,7 +100,7 @@ Un objeto solamente-lectura que tiene informacion relevante que una acción de c
 
 - **userData**: toda información referente a un usuario, incluyendo tags y variables - si hubiera;
 - **message**: información referente al último mensaje del usuario;
-- **params**: params opcionales que pueden ser enviados por una intención.
+- **params**: parametros opcionales que pueden ser enviados por una intención.
 
 _Por ejemplo:_
 
@@ -112,7 +112,7 @@ const userFirstName = context.userData.FIRST_NAME;
 
 Este objeto permite leer y escribir variables que duran la sesión del usuario. Es muy útil para guardar datos relacionados a la conversación actual.
 
-> Generalizando, una sesión esta expirada despues de 1 hora de inactividad del usuario. 
+> Generalizando, una sesión está expirada despues de 1 hora de inactividad del usuario. 
 
 > Tenga en cuenta que los valores tendrán que ser de tipo *string*
 
@@ -128,7 +128,7 @@ if ( !userSession.get('userJustTalked') )
 _Después de 1 hora de inactividad, userJustTalked será nulo nuevamente_
 
 ## El objeto _user_
-Este objeto permite leer y escribir variables que persistirán en el usuario para siempre. Es muy util para guardar dados relacionados con el usuario.
+Este objeto permite leer y escribir variables que persistirán en el usuario para siempre. Es muy util para guardar datos relacionados con el usuario.
 
 > Tenga presente que los valores tendrán que ser de tipo *string*
 
