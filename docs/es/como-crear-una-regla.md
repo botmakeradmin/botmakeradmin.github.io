@@ -62,7 +62,7 @@ Esses botones pueden ser:
 - Compartir
 - Llamada (Llamar)
 
-Observe la opción **"Activar respuesta rápida"**, ésta solo podrá ser activada cuando los botones agrgados fueran de redireccionamento para intenciones. Esa opción cambiará el formato del botón, en Messenger y en WebChat, como podemos ver abajo:
+Observe la opción **"Activar respuesta rápida"**, ésta solo podrá ser activada cuando los botones agegados fueran de redireccionamento para intenciones. Esa opción cambiará el formato del botón, en Messenger y en WebChat, como podemos ver abajo:
 
 Con respuesta rápida activada:
 
