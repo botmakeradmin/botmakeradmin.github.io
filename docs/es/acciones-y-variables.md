@@ -39,17 +39,17 @@ Las variables son muy útiles al momento de definir cuando se debe disparar una 
 - Variables como condición de disparo:
 	- Al aplicar una condición a un Disparador, la intención solamente será disparada cuando es ejecutado el disparador y la condición se cumpla. 
 
-![Variable de Disparo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.17.10.png)
+![Variable de Disparo](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.17.10.png)
 	
 - Variables como condición de respuestas:
 	- Pueden ser utilizadas para, frente a diferentes condiciones, dar diferentes respuestas para la misma intención del usuario.
 
-![Variable de Respuesta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.15.24.png)
+![Variable de Respuesta](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.15.24.png)
 
 - Variables como texto dinámico dentro de una respuesta:
 	- La información contenida en una variable puede ser utilizada para dar respuestas dinámicas a los usuarios, donde la variable será substituída por su contenido.
 
-![Variable de Texto](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.16.19.png)
+![Variable de Texto](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.16.19.png)
 
 ## Acciones
 
@@ -78,7 +78,7 @@ A continuación, presentamos una lista de las principales acciones disponibles e
 
 Las acciones son configuradas en la pantalla de Respuestas, última etapa de desarrollo de una intención. Mire el ejemplo:
 
-![Acciones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.14.13.png)
+![Acciones](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.14.13.png)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjAwMDAzMTk4LDE0MDAyMzA0NCw0MTY2Mj
 g5MDAsLTE5MzAyMzk2NDcsLTczNDgyOTQyOSwtOTM4NjE4Nzgx
