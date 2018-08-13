@@ -43,7 +43,7 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
 
 > Esto servirá solo para identificarlo en la plataforma, no será visible para los que reciban la notificación.
 
-- En "Audiencia" será definido cuales usuarios recibirán el mensaje. Podrá segmentar a su público aagregando condiciones, de las cuales solamente los usuarios que estuvieran etiquetados en ellas recibirán el push.
+- En "Audiencia" será definido cuales usuarios recibirán el mensaje. Podrá segmentar a su público agregando condiciones, de las cuales solamente los usuarios que estuvieran etiquetados en ellas recibirán el push.
 
 > Note que a medida en que agrega o remueve condiciones, el número de usuarios que serán alcanzados cambiará.    Si desa enviar un push a todos los usuarios, aunque no es recomendable, deben ser eliminadas todas las condiciones.
 
