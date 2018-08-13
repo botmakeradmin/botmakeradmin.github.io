@@ -24,18 +24,18 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
 
  1. Ingresar al Menu "**Audiencias**";
  
- ![Ingresar Pushes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/MenuAudienciaESP.png)
+ ![Ingresar Pushes](https://botmakeradmin.github.io/docs/es/imagenes/MenuAudienciaESP.png)
 
  2. En esta sección, podrá ver los últimos mensajes programadas y también podrá crear una nueva;
  
- ![Crear un push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/2018-08-13_16-18-15.png)
+ ![Crear un push](https://botmakeradmin.github.io/docs/es/imagenes/2018-08-13_16-18-15.png)
  
 > Tenga en cuenta que puede, a través de los botones, observar las métricas de un push, editar un envío, duplicarlo (para generar una nueva basado en la actual), eliminar un push o deshabilitarlo (no será enviado cuando llegue al horario programado).
-> ![Opciones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/2018-08-13_16-18-11.png)
+> ![Opciones](https://botmakeradmin.github.io/docs/es/imagenes/2018-08-13_16-18-11.png)
 
 3. Para crear un nuevo Push, cliquee en "**Crear Nuevo**", aparecerá una ventana como esta:
 
-![Ventana Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.21.29.png)
+![Ventana Push](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.21.29.png)
 
 4. Editando un Push: 
 
@@ -59,7 +59,7 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
 
 ## Vea un ejemplo de un Push configurado:
 
-![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.23.02.png)
+![Push](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.23.02.png)
 
 En este caso, solamente los usuarios que esten identificados como clientes actuales de la empresa recibirán la oferta.
 
