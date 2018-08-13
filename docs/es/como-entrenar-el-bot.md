@@ -1,6 +1,6 @@
 # Como entrenar al Bot?
 
-![Sección](https://botmakeradmin.github.io/docs/pt/imagens/Sec%CC%A7a%CC%83oNC.png)
+![Sección](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.33.56.png)
 
 Hola! Aqui vamos a aprender como utilizar la sección **"Terminos No Comprendidos"** para entrenar al Bot.
 
@@ -8,7 +8,7 @@ Hola! Aqui vamos a aprender como utilizar la sección **"Terminos No Comprendido
 ## Terminos no comprendidos
 En esta sección, verá los terminos que el Bot no ha entendido. Cada tarjeta agrupa ejemplos que ocurren frecuentemente, y que la inteligencia artificial juzga como similares. Vea abajo: 
 
-![Página](https://botmakeradmin.github.io/docs/pt/imagens/Termosnc.png)
+![Página](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.33.43.png)
 
 Al generar nuevas intenciones, disparadores y respuestas basados en las tarjetas, podrá mejorar el comportamiento del Bot. 
 
