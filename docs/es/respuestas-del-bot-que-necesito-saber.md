@@ -5,19 +5,19 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 ## Textos
 
 - **Facebook Messenger y WebChat**:
-	-  Formato UTF-8, con limite de 640 caracteres por caja de texto. Si se excede, el texto será separado en diferentes mensajes.
+	-  Formato UTF-8, con límite de 640 caracteres por caja de texto. Si se excede, el texto será separado en diferentes mensajes.
 
 - **Telegram**:
-	-  Formato UFT-8 con limite de 4096 caracteres.
+	-  Formato UFT-8 con límite de 4096 caracteres.
   
 - **Twitter**:
-	-  Formato UTF-8 con limite desconocido.
+	-  Formato UTF-8 con límite desconocido.
   
  - **MercadoLibre**:
-	-  Formato UTF-8 con limite de 2000 caracteres.
+	-  Formato UTF-8 con límite de 2000 caracteres.
   
  - **Google Actions**:
-	 - Formato UTF-8 con limite de 640 caracteres.
+	 - Formato UTF-8 con límite de 640 caracteres.
 
 ## Botones
 - **Facebook Messenger y WebChat**:
