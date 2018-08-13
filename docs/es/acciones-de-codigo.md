@@ -50,7 +50,7 @@ Soporta Node.js v6.14.0, junto a la lista de *libraries* abajo:
 
 ## Input de Acción de Cliente
 
-Cuando el código fué disparado, toda información que tenemos del usuario, conversaciones y configuraciones generales serán provistas. La json abajo describe o input que una *Cloud Function* podrá usar.
+Cuando el código fué disparado, toda información que tenemos del usuario, conversaciones y configuraciones generales serán provistas. La json abajo describe el input que una *Cloud Function* podrá usar.
 
 ```javascript
 {
