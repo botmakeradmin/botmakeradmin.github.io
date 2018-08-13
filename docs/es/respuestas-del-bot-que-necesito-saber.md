@@ -122,7 +122,7 @@ Hola! Aquí vamos a aprender cuales son los formatos correctos para cada element
 
 ## Vídeo
   - **Facebook Messenger y WebChat**:
-	- Formato MP4, preferiblemente noo superiores a 5mb.
+	- Formato MP4, preferiblemente no superiores a 5mb.
 
 - **Telegram**:
 	- Formato MP4 no superiores a 50mb.
