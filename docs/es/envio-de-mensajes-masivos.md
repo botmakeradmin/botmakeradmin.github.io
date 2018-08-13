@@ -22,7 +22,7 @@ Podemos usar las siguientes variantes y configuraciones para los envíos de mens
 
 ## Como usar?
 
- 1. Ingrsar al Menu "**Audiencias**";
+ 1. Ingresar al Menu "**Audiencias**";
  
  ![Ingresar Pushes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/MenuAudienciaESP.png)
 
