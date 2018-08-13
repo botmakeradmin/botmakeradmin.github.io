@@ -4,7 +4,7 @@ Hola! Aquí vamos a aprender cuales son las mejores prácticas que BotMaker, con
 
 ## El chat como canal de comunicación
 
-Independientemente del objetivo y alcance del Bot, un chat es un canal de comunicación, y los usuarios siempre lo utilizarán para perguntar sea lo que sea.
+Independientemente del objetivo y alcance del Bot, un chat es un canal de comunicación, y los usuarios siempre lo utilizarán para preguntar sea lo que sea.
 
 Se recomienda que el Bot pueda entender la mayor variedad de perguntas posibles y responderlas, incluso si usted no tiene la respuesta especifica. 
 
