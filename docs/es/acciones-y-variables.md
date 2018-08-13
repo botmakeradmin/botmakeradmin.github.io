@@ -58,9 +58,9 @@ Las acciones permiten agregar al Bot, de manera simple, comportamientos predefin
 ### Principales acciones:
 A continuación, presentamos una lista de las principales acciones disponibles en la plataforma, con una breve explicación de cada una.
 
-- **Question**: permite hacer perguntas al usuario y guardar su respuesta como un valor en una variable;
+- **Question**: permite hacer preguntas al usuario y guardar su respuesta como un valor en una variable;
 - **Go to**: permite redireccionar el flujo a una intención;
-- **Send Email**: permite enviar um email a un usuario;
+- **Send Email**: permite enviar un email a un usuario;
 - **Send to Messenger**: permite agregar un botón para que el usuario de WebChat conecte su cuenta con Messenger;
 - **Add Topic CTA**: sugiere botones con intenciones del mismo tema;
 - **Subscribe/Unsubscribe**: inscribe o desinscribe al usuario de la recepción de Pushes;
