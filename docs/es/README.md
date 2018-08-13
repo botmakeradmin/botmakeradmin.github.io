@@ -1,9 +1,2 @@
-# Headline
+# BotMaker Documentation Home Page
 
-> An awesome project.
-
-123
-asdsa
-sad
-sa@
-# sdsad
