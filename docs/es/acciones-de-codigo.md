@@ -1,7 +1,7 @@
 
 # Acciones de Clientes
 
-![Sección](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/CodigoESP.png)
+![Sección](https://botmakeradmin.github.io/docs/es/imagenes/CodigoESP.png)
 
 Hola! Aquí vamos a aprender como desarrollar códigos dentro de la plataforma Botmaker.
 
@@ -14,13 +14,13 @@ _Por ejemplo:_
 
 Primero, tendrá que crear una Acción de Cliente en la pantalla de **Códigos**. Vea abajo: 
 
-![Crear](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/acciones.png)
+![Crear](https://botmakeradmin.github.io/docs/es/imagenes/acciones.png)
 
 > Dé un nombre a la acción (no debe olvidarse de esto), y cliquee en **Guardar**.
 
 En la intención en que la acción deberá ser disparada, cliquee en "**+Acción**", escoja "**Client Action**" y seleccione el código a ser ejecutado:
 
-![Guardar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/choosecodeESP.png)
+![Guardar](https://botmakeradmin.github.io/docs/es/imagenes/choosecodeESP.png)
 
 ## Caracteristicas de código
 
