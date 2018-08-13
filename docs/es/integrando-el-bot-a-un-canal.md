@@ -12,17 +12,17 @@ Para realizar la integración, debe ingresar a la consola de administración de 
 ## Facebook
 Para integración con Facebook, debe cliquear en el botón **"Conceda permisos de Facebook para Bot"**. 
 
-![Conceder](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.49.52.png)
+![Conceder](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.58.59.png)
 
 Tan pronto como sea permitido, cliquee en **"Páginas"**, donde aparecerán las fanpages disponibles para ser concectadas a BotMaker. 
 
-![Páginas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.50.48.png)
+![Páginas](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.00.12.png)
 
-![Escoger](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.51.01.png)
+![Escoger](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.00.23.png)
 
 Seleccione y salve, cliqueando en **"Salvar"**.
 
-![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.51.15.png)
+![Salvar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.00.36.png)
 
 ## WebChat
 En la sección WebChat, la integración podrá ser realizada - primero - activandolo.
