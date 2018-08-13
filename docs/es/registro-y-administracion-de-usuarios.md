@@ -27,13 +27,15 @@ Para agregar un nuevo usuario al Bot, un usuario con perfil de Super Administrad
 3. Funciones de usuarios
  
  
-![Configuraciones](https://botmakeradmin.github.io/docs/pt/imagens/Adicionar%20usua%CC%81rio.png)
+![Configuraciones](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.05.22.png)
 
 Una vez en la sección, de Super Administrador deberá cliquear en el botón "**+**", en el rincón inferior derecho.
 
+![Plus](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/2018-08-13_16-06-29.png)
+
 En el popup que aparecerá, se debe colocar manualmente la dirección de email de los nuevos usuarios a ser agregados al Bot y sus funciones. Hecho eso, cliquear en “**Agregar**”.
 
-![Editar usuario](https://botmakeradmin.github.io/docs/pt/imagens/Editar%20usua%CC%81rio.png)
+![Editar usuario](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.08.04.png)
 
 ## Las funciones disponibles son:
 
@@ -49,7 +51,7 @@ Si desea editar la función de un usuario ya registrado en el bot, se debe encon
 
 > Para eso, se puede filtrar a través de los botones localizados en la esquina superior derecha, ellos son: Búsqueda por Nombre, Ordenar por Orden Alfabético o Filtrar por Función.
 
-![Filtrar y Editar](https://botmakeradmin.github.io/docs/pt/imagens/FiltrarEditar.png)
+![Filtrar y Editar](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/2018-08-13_16-06-21.png)
 
 Una vez encontrado el usuario, se debe cliquear en “**Editar**” y hacer la modificación necesaria.
 
