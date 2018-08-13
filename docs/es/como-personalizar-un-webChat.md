@@ -2,11 +2,11 @@
 
 Hola! Aqui vamos a aprender con detalles cuales parámetros del WebChat BotMaker pueden ser personalizados.
 
-![Cuerpo](https://botmakeradmin.github.io/docs/pt/imagens/Corpo.png)
+![Cuerpo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.27.34.png)
 
 ## WebChat minimizado
 
-![Minimizado](https://botmakeradmin.github.io/docs/pt/imagens/Minimizado.png)
+![Minimizado](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.28.33.png)
 
 Cuando esté minimizado, el WebChat estará presentado como una pequeña pestaña. Ella puede ser cambiada por una imagen.
 
@@ -20,7 +20,7 @@ Los parámetros editables de la pestaña del WebChat minimizado son:
 
 ## Encabezamiento de WebChat
 
-![Encabezamiento](https://botmakeradmin.github.io/docs/pt/imagens/Cabecalh.png)
+![Encabezamiento](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.28.50.png)
 
 Los parametros editables en el Encabezamiento del WebChat son:
 
@@ -31,7 +31,7 @@ Los parametros editables en el Encabezamiento del WebChat son:
 
 ## Cuerpo del WebChat
 
-![Cuerpo](https://botmakeradmin.github.io/docs/pt/imagens/Corpo.png)
+![Cuerpo](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.27.34.png)
 
 Los parámetros editables del cuerpo del WebChat son:
 
@@ -41,7 +41,7 @@ Los parámetros editables del cuerpo del WebChat son:
 
 ## Respuesta de WebChat
 
-![Respuesta](https://botmakeradmin.github.io/docs/pt/imagens/Escrever.png)
+![Respuesta](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2015.29.12.png)
 
 Los parametros editables de la caja de respuesta del WebChat son:
 
