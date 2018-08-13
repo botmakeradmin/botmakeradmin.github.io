@@ -1,6 +1,6 @@
 # Integrando el Bot a un canal
 
-Hola! Aquí vamos a aprender como hacer la integración del Bot con seu canal de atendimento.
+Hola! Aquí vamos a aprender como hacer la integración del Bot con su canal de atención.
 
 
 ## Ingresar un Menu
