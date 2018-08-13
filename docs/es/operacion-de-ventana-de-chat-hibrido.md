@@ -27,7 +27,7 @@ Dentro de cada chat, es posible ver la identificación del usuario y el último 
 - **Foto de perfil**: 
 Siempre y cuando el usuario está en una conversación a través de un canal fijo (Messenger, Twitter, Telegram, WhatsApp, etc), será posible visualizar su foto de perfil. 
 
-	 - Si no tiene, la conversación se realizó a través de un WebChat (donde el usuario es anonimo), será mostrada uma imagen genérica.
+	 - Si no tiene, la conversación se realizó a través de un WebChat (donde el usuario es anonimo), será mostrada una imagen genérica.
 
 - **Nombre de usuario**:
 Siempre y cuando el usuario está en una conversación a través de un canal fijo (Messenger, Twitter, Telegram, WhatsApp, etc), será posible visualizar su nombre y sobrenombre.
