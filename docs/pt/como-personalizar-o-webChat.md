@@ -1,6 +1,6 @@
 # Como personalizar o WebChat?
 
-Olá! Aqui vamos aprender com detalhes quais parâmetros do WebChat BotMaker podem ser persoalizados.
+Olá! Aqui vamos aprender com detalhes quais parâmetros do WebChat BotMaker podem ser personalizados.
 
 ![Corpo](https://botmakeradmin.github.io/docs/pt/imagens/Corpo.png)
 
