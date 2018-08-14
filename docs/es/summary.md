@@ -1,5 +1,5 @@
 * [Registro y administración de usuarios](registro-y-administracion-de-usuarios.md)
-* [Envio de mensajes masivos](envio-de-mansajes-masivos.md)
+* [Envio de mensajes masivos](envio-de-mensajes-masivos.md)
 * [Operación de ventana de chats híbridos](operacion-de-ventana-de-chat-hibrido.md)
 * [Acciones de código](acciones-de-codigo.md)
 * [Acciones y variables](acciones-y-variables.md)
