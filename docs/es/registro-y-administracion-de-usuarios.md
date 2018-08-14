@@ -37,7 +37,7 @@ En el popup que aparecerá, se debe colocar manualmente la dirección de email d
 
 ![Editar usuario](https://botmakeradmin.github.io/docs/es/imagenes/Captura%20de%20Tela%202018-08-13%20a%CC%80s%2016.08.04.png)
 
-## Las funciones disponibles son:
+## Los roles disponibles son:
 
  - **Operador**: dado a usuarios con tareas referentes al gerenciamiento de conversaciones.
  - **Configurador**: dado a usuarios con tareas referentes al gerenciamento de conversaciones y configuración general del bot.
@@ -45,9 +45,9 @@ En el popup que aparecerá, se debe colocar manualmente la dirección de email d
 
 Una vez que el usuario a ser agregado sea asignado, cliquear en “**Save**”
 
-## Editar la función de un usuario
+## Editar los roles de un usuario
 
-Si desea editar la función de un usuario ya registrado en el bot, se debe encontrar el perfil a ser modificado.
+Si desea editar los roles de un usuario ya registrado en el bot, se debe encontrar el perfil a ser modificado.
 
 > Para eso, se puede filtrar a través de los botones localizados en la esquina superior derecha, ellos son: Búsqueda por Nombre, Ordenar por Orden Alfabético o Filtrar por Función.
 
