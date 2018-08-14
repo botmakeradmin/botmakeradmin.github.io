@@ -219,6 +219,3 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
         result.done();
     });
 ```
-
-
-dsfdsfdsfds
