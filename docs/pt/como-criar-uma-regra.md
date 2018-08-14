@@ -1,10 +1,10 @@
-# Como criar uma regra?
+# Como criar uma intenção?
 
-Olá! Aqui vamos aprender como cria-se uma **regra**.
+Olá! Aqui vamos aprender como cria-se uma **intenção**.
 
-Um Bot é um conjunto de regras - as regras permitem definir o que será respondido pelo Bot diante uma específica solicitação do usuário. Sua criação é feita em duas partes:
+Um Bot é um conjunto de intenções - elas permitem definir o que será respondido pelo Bot diante uma específica solicitação do usuário. Sua criação é feita em duas partes:
 
-- **Disparadores**: sob que condições e/ou mensagens de usuários, a regra deverá ser disparada? Podem ser:
+- **Disparadores**: sob que condições e/ou mensagens de usuários, a intenção deverá ser disparada? Podem ser:
 
 	- Por compreensão de uma mensagem do usuário;
 	- Por tempo de inatividade do usuário.
@@ -24,17 +24,17 @@ O Bot será muito restrito com a compreensão dessas frases, e somente pequenas 
 
 #### Frases com variáveis
 
-Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a regra.
+Nesse caso, as palavras marcadas como **"palavras importantes"** aumentarão as possibilidades de compreensão da solicitação. Além dos sinônimos globais, variações selecionadas de cada palavra, serão suficientes para ativar a intenção.
 
 
 **Dicas:**
 
-- Não use disparadores com poucas palavras chaves, pois deixará a regra muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida com outra solicitação.
-- "Brinque" com as possibilidades dos disparadores - observe que você pode duplicar um disparador, podendo desativar uma palavra importante (cuidado para não deixar a regra ampla!)
+- Não use disparadores com poucas palavras chaves, pois deixará a intenção muito ampla e fácil de ser disparada - devemos deixá-las de modo em que ela não seja confundida com outra solicitação.
+- "Brinque" com as possibilidades dos disparadores - observe que você pode duplicar um disparador, podendo desativar uma palavra importante (cuidado para não deixar a intenção ampla!)
 
 ### Disparadores por tempo de inatividade
 
-Quando ativado um disparador por tempo de inatividade, a regra será disparada automaticamente quando o *timer* pré definido ser atingido. O tempo computado será o tempo em que o usuário não enviou nada ao Bot.
+Quando ativado um disparador por tempo de inatividade, a intenção será disparada automaticamente quando o *timer* pré definido ser atingido. O tempo computado será o tempo em que o usuário não enviou nada ao Bot.
 
 Para utilizar o disparador por tempo de inatividade, siga o procedimento do vídeo abaixo:
 
@@ -45,7 +45,7 @@ Para utilizar o disparador por tempo de inatividade, siga o procedimento do víd
 
 ![Respostas](https://botmakeradmin.github.io/docs/pt/imagens/Respostas.png)
 
-Quando uma regra for disparada, o Bot executará tudo o que for definido na tela de **Respostas**, na ordem que estiverem os conteúdos.
+Quando uma intenção for disparada, o Bot executará tudo o que for definido na tela de **Respostas**, na ordem que estiverem os conteúdos.
 
 Os elementos da mensagem podem ser:
 
@@ -58,11 +58,11 @@ Pressionando o botão + Botões, poderá ser adicionado um texto com opções, e
 Esses botões podem ser:
 
 - Abrir link
-- Disparar uma regra (*Fire rule*)
+- Disparar uma intenção (*Fire rule*)
 - Compartilhar
 - Chamada (Chamar)
 
-Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado quando os botões adicionados forem de redirecionamento para regras. Essa opção mudará o formato do botão, no Messenger e no WebChat, como podemos ver abaixo:
+Observe a opção **"Ativar resposta rápida"**, ele só poderá ser ativado quando os botões adicionados forem de redirecionamento para intenções. Essa opção mudará o formato do botão, no Messenger e no WebChat, como podemos ver abaixo:
 
 Com resposta rápida ativada:
 
