@@ -117,7 +117,7 @@ Selecionando essa opção, o usuário será bloqueado por 7 dias. Ela é recomen
 
 ![Bloquear](https://botmakeradmin.github.io/docs/pt/imagens/desativarbot.png)
 
-O Bot pode ser desligado por um operador (em uma conversa, específicamente), selecionando a opção abaixo:
+O Bot pode ser desligado por um operador (em uma conversa, específicamente), selecionando a opção acima.
 
 É recomendado utilizar essa funcionalidade sempre que um operador precisar intervir manualmente em uma conversa, de maneira a evitar que o Bot responda as perguntas.
 
