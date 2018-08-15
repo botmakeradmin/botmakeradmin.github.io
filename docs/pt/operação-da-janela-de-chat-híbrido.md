@@ -82,7 +82,7 @@ Na parte inferior se encontra uma caixa de texto, onde os operadores podem execu
  - Gravar mensagens de voz (requer um microfone); 
  - Enviar GIFs e emojis.
 
-Adicionalmente, quando o cursos estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
+Adicionalmente, quando o cursor estiver na caixa de texto, o operador pode pressionar a tecla "**Enter**" para abrir um Menu de ações do Bot.
 
 ![Regras](https://botmakeradmin.github.io/docs/pt/imagens/pesquisaregras.png)
 
