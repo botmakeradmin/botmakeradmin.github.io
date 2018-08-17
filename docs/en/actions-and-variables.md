@@ -48,12 +48,15 @@ Variables are useful when defining when a rule should be triggered, which answer
 
 - Variables as a trigger condition
     - When adding a condition on a trigger, the rule will be only triggered when it's executed and the condition accomplished. 
+![T.Condi](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/AnswCondition.png)
 
 - Variables as answers condition 
     - Can be used for, before distinct conditions give different answers for the same user intention.
+![Ans.Condi](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/Diff.Answer.png)
 
 - Variables as dynamic text in an answer
     - The data contained on a variable can be used to give dynamic answers to users, where the variable will be substituted for its content.
+![Dynamic](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/Text.Variab.png)
 
 ## Actions
 Actions allow aggregating to the Bot, easily, predefined behaviors.
@@ -91,7 +94,7 @@ Next, we'll show you a list of the main actions present on the platform, with a 
 
 ### Where to use actions?
 Actions are set up from the Answers screen, the last step on a rule development. See the example:
-
+![Actions](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/Captura%20de%20Tela%202018-08-16%20a%CC%80s%2016.17.04.png)
 
 
 
