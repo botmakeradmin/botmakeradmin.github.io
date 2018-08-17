@@ -2,6 +2,15 @@
 
 Hello! Here we'll learn with details which parameters of Botmaker's WebChat are personalized.
 
+## Webchat body
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-52-08.png)
+
+The editable parameters of webchat's body are:
+- Background color
+- Font, colors, and text size (for Bot and user)
+- Background color and chat's options edges
+
 ## Minimized webchat
 
 ![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-53-22.png)
@@ -24,15 +33,6 @@ The editable parameters of the webchat's header are:
 - Font, colors, and title size
 - Background color
 - Font, color and minimize icon size
-
-## Webchat body
-
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-52-08.png)
-
-The editable parameters of webchat's body are:
-- Background color
-- Font, colors, and text size (for Bot and user)
-- Background color and chat's options edges
 
 ## Webchat answers
 
