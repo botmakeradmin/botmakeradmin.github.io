@@ -97,6 +97,7 @@ A read-only object that has relevant information that a Code Action might need. 
 - **userData**: all the data related to a user. Including tags and variables (if any)
 - **message**: data related to the last message from the user
 - **params**: optional params that can be passed by a rule
+
 For example:
 
 ```javascript
@@ -113,6 +114,7 @@ Allows to read and write variables that will last for a user's session. This is 
 
 - To read a value: ```userSession.get('valueKey')``` => will return a string value or null
 - To write a value: ```userSession.set('valueKey', 'value')```
+
 For example:
 
 ```javascript
@@ -129,6 +131,7 @@ Allows to read and write variables that will persist in the user forever. This i
 
 - To read a value: ```user.get('valueKey')``` => will return a string value or null
 - To write a value: ```user.set('valueKey', 'value')```
+
 For example:
 
 ```javascript
