@@ -20,10 +20,10 @@ The triggers by user expression comprehension can be of two types:
 
 ![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_17-59-45.png)
 
-#4 Static phrases
+**Static phrases**
 The Bot will be very restrictive with the comprehension of those phrases, and only little variables are going to be interpreted - global synonyms.
 
-#4 Phrases with variables
+**Phrases with variables**
 In this case, words marked as **important words** will elevate the comprehension possibilities of the request. Besides global synonyms, selected variables for each word are going to be sufficient to activate the intention.
 
 **Tips:**
@@ -60,7 +60,9 @@ With quick reply:
 Without quick reply
 
 ### Carrousel
-Pressing the button "**+Carrousel**," it'll be possible to add several images - on Carrousel format - with naming, description and buttons capabilities.  
+Pressing the button "**+Carrousel**," it'll be possible to add several images - on Carrousel format - with naming, description and buttons capabilities.
+
+![ }(https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-02-54.png)
 
 ### Actions
 Actions permit aggregate simply to the Bot predefined behaviors.
