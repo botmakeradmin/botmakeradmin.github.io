@@ -9,9 +9,20 @@ This section is where we find all the conversations in real time. Here's where  
 3. Additional Info and Tags.
 
 # 1. Conversations list
+
+![List](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/Captura%20de%20Tela%202018-08-17%20a%CC%80s%2015.26.06.png)
+
 Placed on the left column, it's the area where all conversations with the Bot are listed by chronological order, from most recent to most dated.
 
+When you enter on a conversation, the central column will update showing the Conversation Detail.
+
 ## Identification
+
+Inside each chat summary, it's possible to see the user ID and the last sent/receive message.
+
+![WebChat](https://camo.githubusercontent.com/0d0e8e15464639a4a4cd22937e364e7b9c49a3bd/68747470733a2f2f626f746d616b657261646d696e2e6769746875622e696f2f646f63732f65732f696d6167656e65732f4964656e74696669636163696f6e4553502e706e67)
+
+![Mess](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-26-53.png)
 
 - **Profile picture:** Always and when the user is chatting through a fixed channel (Messenger, Twitter, Telegram, WhatsApp), it'll be possible to visualize his profile picture.
     - If you can't visualize it, the user is chatting from a WebChat (where he's anonymous), and it'll only be shown a generic image. 
@@ -22,6 +33,7 @@ Placed on the left column, it's the area where all conversations with the Bot ar
 - **Channel**: It's possible to observe on the conversation an indicative icon of which channel the user is using to chat with the Bot.
     - They can be Messenger, WhatsApp, Telegram, Twitter DM, Microsoft Teams, Skype, Google Assistant or Google Chrome (when it's a WebChat).
     - In case of WebChats conversations, the Chrome icon will appear with a mark. The mark is green if the user's still online, and red if he's already disconnected.
+    - ![Channel](https://camo.githubusercontent.com/33da8e6c46cfd8730d2139886b69e6e274d20404/68747470733a2f2f626f746d616b657261646d696e2e6769746875622e696f2f646f63732f70742f696d6167656e732f69636f6e65732e706e67)
 
 - **Country:** On every WebChat conversation, the platform will indicate from which country the user is contacting you. This data is obtained from the user's IP address.
 
@@ -33,9 +45,15 @@ Placed on the left column, it's the area where all conversations with the Bot ar
 
 Above the chats, it's found a search bar. From it, you can search for a chat typing the user's name or by typing a message from the conversation. 
 
+![Search](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-29-34.png)
+
 Also, it's possible to filter chats by desired tags.
 
+![Filters](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-30-13.png)
+
 # 2. Conversations Detail
+
+![Detail](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-31-29.png)
 
 Placed on the central column, it's the are where you visualize the conversation history from each user.
 
@@ -44,6 +62,8 @@ From the moment that the Bot understands all user's requests and answers them, t
 Also, the platform was drawn for a hybrid operation (Bot+Human), and that's why it's found all the necessary elements for human service.
 
 ## Textbox
+
+![Box](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-31-99.png)
 
 At the bottom of Conversations Detail, it's found the textbox, where operators are capable of executing the following functions:
 
@@ -54,9 +74,16 @@ At the bottom of Conversations Detail, it's found the textbox, where operators a
 
 In addition, when the cursor is on the textbox, the operator can click "**Enter**" to open the Bot's Actions Menu.
 
+![Enter](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-32-19.png)
+
 >On it, the operator can search for an intention loaded in the Bot to send it as an answer for a not-comprehended request. While doing it, not only the user will receive the answers, but also the Bot will be being trained for future similar cases - so he can answer without an operator help.
 
 ## Header's options
+
+![ ](https://camo.githubusercontent.com/12e5ac3771d9fdf3e8cbd31a82074a070c9e3f15/68747470733a2f2f626f746d616b657261646d696e2e6769746875622e696f2f646f63732f65732f696d6167656e65732f6f70636f6573636861744553502e706e67)
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-33-15.png)
+
 Besides the points described before, also some options can be executed through the header on Conversations Detail.
 
 ### Take chat
@@ -76,6 +103,9 @@ By selecting this option, the user will be blocked for seven days. It's recommen
 >A blocked user can still send messages, but the Bot will no longer answer him. Also, the Operators won't be notified about this chat.
 
 ## Deactivate bot on the conversation
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-33-43.png)
+
 The Bot can be deactivated by an operator (on a conversation, individually) selecting the option above.
 
 It's recommended using this function always when an operator needs to interfere manually, in a way to avoid that the Bot answers the questions.
@@ -89,6 +119,9 @@ As the operator's finished answering the user's requests, he can reactivate the 
 The third and last column is localized at the right area of Hybrid Chats Console. There, it's shown all saved information - provided by the user - and the conversation themes discussed on the chat.
 
 ## Additional Info
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-34-12.png)
+
 It's where all information stored historically by the Bot, through user interaction, is shown. It can be stored, for example:
 
 - Name and surname;
@@ -101,7 +134,11 @@ It's where all information stored historically by the Bot, through user interact
 
 From the conversation reading, it's possible to obtain new information, which can be stored manually clicking on the "**Edit**" button. Select the variable and write the info.
 
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-34-37.png)
+
 ## Tags
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-36-35.png)
 
 The tags are the conversation themes which the user, historically, talked about. They are added automatically, always and when it's about topics that the Bot comprehends.
 
