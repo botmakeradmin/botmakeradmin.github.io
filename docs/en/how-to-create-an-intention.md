@@ -2,6 +2,8 @@
 
 Hello! Here we'll learn how to create an **Intention**.
 
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_17-56-48.png)
+
 A Bot is a set of intentions - the intentions allow to define what will be answered by the Bot up a specific request from the user. Your creation is done by two elements.
 
 - Triggers: against which conditions or which user requests the intention should be triggered? They can be:
@@ -15,6 +17,8 @@ A Bot is a set of intentions - the intentions allow to define what will be answe
 ### Triggers by user expression comprehension
 
 The triggers by user expression comprehension can be of two types:
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_17-59-45.png)
 
 #4 Static phrases
 The Bot will be very restrictive with the comprehension of those phrases, and only little variables are going to be interpreted - global synonyms.
@@ -30,6 +34,9 @@ In this case, words marked as **important words** will elevate the comprehension
 When activated a trigger by inactivity time, the intention will be fired automatically as the predefined timer finalizes. The computed time is the time that the user didn't send anything to the Bot.
 
 ## Answers
+
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-00-15.png)
+
 When an intention is triggered, the Bot will execute what is defined on the **Answers** screen, in the order that's set up. 
 
 The messages' elements can be:
