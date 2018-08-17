@@ -62,7 +62,7 @@ Without quick reply
 ### Carrousel
 Pressing the button "**+Carrousel**," it'll be possible to add several images - on Carrousel format - with naming, description and buttons capabilities.
 
-![ }(https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-02-54.png)
+![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-02-54.png)
 
 ### Actions
 Actions permit aggregate simply to the Bot predefined behaviors.
