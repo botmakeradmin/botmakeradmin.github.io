@@ -19,9 +19,21 @@ We can use the following variants and settings for massive sending of content th
 
 ## How to use?
 1. Access the "Audiences" menu.
+
+![AudMenu](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/AudienceMenu.png)
+
 2. On this section, you'll be able to see the last scheduled messages and create new ones, too.
+
+![Create](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/CreatePush.png)
+
 >Note that you can, using the buttons, see metrics of a push, edit a push, duplicate it (generating a new one based on the actual), remover the push or deactivate it (it won't be sent when the scheduled date arrives).
+
+![Edit](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/EditPush.png)
+
 3. To create a new push, click on "Create new". It will appear this window:
+
+![Push](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/DefaultPush.png)
+
 4. Editing a push
 - You can name a Push editing it on the box "New message".
 >The name is used only for identification on the platform, it won't be visible for users who will receive the notification.
