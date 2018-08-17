@@ -7,7 +7,7 @@ Hello! Here we'll learn how to develop codes inside Botmaker's platform.
 Client actions are useful when adding arbitrary code within a conversation or when solving complex rules or calling external services to acquire real-time information with meaning to the current conversation.
 
 Example: 
->you can ask the user to say a color. Then you can call Google Translation API to make to bot to reply the color in another language.
+You can ask the user to say a color. Then you can call [Google Translation API](https://cloud.google.com/translate/docs/) to make to bot to reply the color in another language.
 
 ## How to invoke the code
 First, you will need to create the Code Action in the **"Code"** screen. See below:
