@@ -1,5 +1,7 @@
 # Client Actions
 
+![CodeMenu](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/CodeMenu.png)
+
 Hello! Here we'll learn how to develop codes inside Botmaker's platform.
 
 Client actions are useful when adding arbitrary code within a conversation or when solving complex rules or calling external services to acquire real-time information with meaning to the current conversation.
@@ -10,9 +12,13 @@ Example:
 ## How to invoke the code
 First, you will need to create the Code Action in the **"Code"** screen. See below:
 
+![Codes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/ClientActions.png)
+
 >Remember the name you used when you save it. 
 
 Then go to the rule you're interested. In the response screen, add an **"+Action"**. Then select **"Client Action"** option and finally set the name of the code that you previously saved.
+
+![AddAction](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/AddAction.png)
 
 ## Code features
 
