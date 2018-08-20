@@ -20,7 +20,8 @@ Hello! Here we'll learn what are the correct formats for each conversational ele
 
 ## Buttons
 - **Facebook Messenger y WebChat**:
-    - 
+    - Pre-button text on UTF-8 limited to 640 characters.
+    - Button text on UTF-8 limited to 20 characters. Links supported.
 
 - **Telegram**:
     - Not supported. Use pills instead.
@@ -36,23 +37,29 @@ Hello! Here we'll learn what are the correct formats for each conversational ele
 
 ## Quick answers (Pills)
 - **Facebook Messenger y WebChat**:
-    - 
+    - Button text on UTF-8 limited to 20 characters. Emojis supported. Limit of 10 pills.
 
 - **Telegram**:
-    - 
+    - Pre-button text on UTF-8 limited to 640 characters.
+    - Button text on UTF-8 limited to 20 characters. Only one link supported.
 
 - **Twitter**:
-    - 
+    - Pre-button text on UTF-8 limited to 640 characters.
+    - Button text on UTF-8 limited to 20 characters. Only one link supported.
 
 - **MercadoLibre**:
-    - 
+    - Not supported.
 
 - **Google Actions**:
-    - 
+    - Pre-button text on UTF-8 limited to 640 characters.
+    - Button text on UTF-8 limited to 20 characters. Limit of 8 pills.
 
 ## Carrousel
 - **Facebook Messenger y WebChat**:
-    - 
+    - Image: JPG with 1.91:1 aspect ratio (example: 1200x628px).
+    - Title: UTF-8 limited to 80 characters.
+    - Subtitle: UTF-8 limited to 80 characters.
+    - Buttons: UTF-8 limited to 20 characters.
 
 - **Telegram**:
     - Not supported.
@@ -64,7 +71,10 @@ Hello! Here we'll learn what are the correct formats for each conversational ele
     - Not supported.
 
 - **Google Actions**:
-    - 
+    - Image: JPG sized 128x232dp.
+    - Title: UTF-8. The text should be unique to support voice selection.
+    - Subtitle: UTF-8 limited to 4 lines.
+    - Buttons: UTF-8 limited to 20 characters.
 
 ## Images
 - **Facebook Messenger y WebChat**:
