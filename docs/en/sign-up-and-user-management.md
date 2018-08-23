@@ -24,13 +24,13 @@ To add a new user to the Bot, a user with SuperAdmin profile should access Botma
 2. Settings
 3. User Roles
 
-![Menu](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/RolesMenu.png)
+![Menu](https://botmakeradmin.github.io/docs/en/images/RolesMenu.png)
 
 At user roles section, the SuperAdministrator should click the + button, at the bottom right corner.
 
 A popup will show up. On it, there's a text box which the new users' email address should be put manually.  When done, click **"Add"**.
 
-![PopUp](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/AddUser.png)
+![PopUp](https://botmakeradmin.github.io/docs/en/images/AddUser.png)
 
 ## The functions are:
 - **Operator**: given to users whose tasks are referred to chat management.
@@ -39,14 +39,14 @@ A popup will show up. On it, there's a text box which the new users' email addre
 
 When finished inserting the user's function, click **"Save"**.
 
-![Save](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/SaveUser.png)
+![Save](https://botmakeradmin.github.io/docs/en/images/SaveUser.png)
 
 ## Edit user roles
 If it's needed to edit a function of a user already logged on the Bot, you need to find his profile.
 
 >It's possible to filter users with the top right corner buttons, they are Search by name, Order by chronological order and Filter by a function.
 
-![Edit](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/EditUser.png)
+![Edit](https://botmakeradmin.github.io/docs/en/images/EditUser.png)
 
 After the user was found, the role switch is done clicking on **"Edit"** button.
 
