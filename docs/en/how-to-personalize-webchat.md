@@ -4,7 +4,7 @@ Hello! Here we'll learn with details which parameters of Botmaker's WebChat are 
 
 ## Webchat body
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-52-08.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_15-52-08.png)
 
 The editable parameters of webchat's body are:
 - Background color
@@ -13,7 +13,7 @@ The editable parameters of webchat's body are:
 
 ## Minimized webchat
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-53-22.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_15-53-22.png)
 
 When minimized, the Web chat will be present as a little tab. It can be changed for an image, for example.
 
@@ -26,7 +26,7 @@ The editable parameters of the minimized webchat's tab are:
 
 ## Webchat header
 
-![Header](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-52-79.png)
+![Header](https://botmakeradmin.github.io/docs/en/images/2018-08-17_15-52-79.png)
 
 The editable parameters of the webchat's header are:
 - Logo
@@ -36,7 +36,7 @@ The editable parameters of the webchat's header are:
 
 ## Webchat answers
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_15-52-98.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_15-52-98.png)
 
 The editable parameters of webchat's body are:
 - Fixed text for text input
