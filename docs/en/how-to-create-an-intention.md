@@ -2,7 +2,7 @@
 
 Hello! Here we'll learn how to create an **Intention**.
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_17-56-48.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_17-56-48.png)
 
 A Bot is a set of intentions - the intentions allow to define what will be answered by the Bot up a specific request from the user. Your creation is done by two elements.
 
@@ -18,7 +18,7 @@ A Bot is a set of intentions - the intentions allow to define what will be answe
 
 The triggers by user expression comprehension can be of two types:
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_17-59-45.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_17-59-45.png)
 
 **Static phrases**
 The Bot will be very restrictive with the comprehension of those phrases, and only little variables are going to be interpreted - global synonyms.
@@ -35,7 +35,7 @@ When activated a trigger by inactivity time, the intention will be fired automat
 
 ## Answers
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-00-15.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_18-00-15.png)
 
 When an intention is triggered, the Bot will execute what is defined on the **Answers** screen, in the order that's set up. 
 
@@ -62,7 +62,7 @@ Without quick reply
 ### Carrousel
 Pressing the button "**+Carrousel**," it'll be possible to add several images - on Carrousel format - with naming, description and buttons capabilities.
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_18-02-54.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_18-02-54.png)
 
 ### Actions
 Actions permit aggregate simply to the Bot predefined behaviors.
