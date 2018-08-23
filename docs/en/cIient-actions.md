@@ -1,6 +1,6 @@
 # Client Actions
 
-![CodeMenu](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/CodeMenu.png)
+![CodeMenu](https://botmakeradmin.github.io/docs/en/images/CodeMenu.png)
 
 Hello! Here we'll learn how to develop codes inside Botmaker's platform.
 
@@ -12,13 +12,13 @@ You can ask the user to say a color. Then you can call [Google Translation API](
 ## How to invoke the code
 First, you will need to create the Code Action in the **"Code"** screen. See below:
 
-![Codes](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/ClientActions.png)
+![Codes](https://botmakeradmin.github.io/docs/en/images/ClientActions.png)
 
 >Remember the name you used when you save it. 
 
 Then go to the rule you're interested. In the response screen, add an **"+Action"**. Then select **"Client Action"** option and finally set the name of the code that you previously saved.
 
-![AddAction](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/AddAction.png)
+![AddAction](https://botmakeradmin.github.io/docs/en/images/AddAction.png)
 
 ## Code features
 
