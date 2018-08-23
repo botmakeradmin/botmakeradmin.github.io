@@ -5,7 +5,7 @@ Hello! Here we'll learn how to integrate the Bot with your customer service chan
 ## Accessing the menu
 To realize the integration, you have to access the Botmaker's channel management console with an Administrator account. See below how to localize:
 
-![ ](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/en/images/2018-08-17_16-50-35.png)
+![ ](https://botmakeradmin.github.io/docs/en/images/2018-08-17_16-50-35.png)
 
 ## Facebook
 For Facebook integrations, click the button **"Grant Facebook Permissions to Bot"**.
