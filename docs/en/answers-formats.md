@@ -1,6 +1,6 @@
 # Bot's answers formats
 
-Hello! Here we'll learn what are the correct formats for each conversational element for all the platforms supported by BotMaker.
+Hello! Here we'll learn what are the correct formats for each conversational element for all the platforms supported by Botmaker.
 
 ## Texts
 - **Facebook Messenger and WebChat**:
