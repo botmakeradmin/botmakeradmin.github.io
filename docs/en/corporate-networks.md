@@ -1,6 +1,6 @@
-# BotMaker on corporate networks
+# Botmaker on corporate networks
 
-Hello! Here we'll learn how to allow the perfect functioning of BotMaker on your corporate network - if yours is blocking the platform via Firewall.
+Hello! Here we'll learn how to allow the perfect functioning of Botmaker on your corporate network - if yours is blocking the platform via Firewall.
 
 >Note that you will only need to do this process if your corporate network is blocking the connection with the platform.
 
