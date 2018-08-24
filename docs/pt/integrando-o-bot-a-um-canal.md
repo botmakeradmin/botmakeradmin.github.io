@@ -5,7 +5,7 @@ Olá! Aqui vamos aprender como fazer a integração do Bot com seu canal de aten
 
 ## Acessar o Menu
 
-Para realizar a integração, você deve acessar o console de administração da BotMaker com uma conta com permissão de Administrador. Veja na imagem abaixo como localizá-lo:
+Para realizar a integração, você deve acessar o console de administração da Botmaker com uma conta com permissão de Administrador. Veja na imagem abaixo como localizá-lo:
 
 ![Localizar](https://botmakeradmin.github.io/docs/pt/imagens/Canais.png)
 
@@ -14,7 +14,7 @@ Para integração com Facebook, você deve clicar no botão **"Conceda permissõ
 
 ![Conceder](https://botmakeradmin.github.io/docs/pt/imagens/ConcederFB.png)
 
-Assim que permitido, clique em **"Páginas"**, onde aparecerão as fanpages disponíveis para serem concectadas à BotMaker. 
+Assim que permitido, clique em **"Páginas"**, onde aparecerão as fanpages disponíveis para serem concectadas à Botmaker. 
 
 ![Páginas](https://botmakeradmin.github.io/docs/pt/imagens/ClicarPagi.png)
 
