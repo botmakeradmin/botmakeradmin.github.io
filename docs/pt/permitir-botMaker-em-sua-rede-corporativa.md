@@ -1,6 +1,6 @@
-# Como permitir a BotMaker em sua rede corporativa?
+# Como permitir a Botmaker em sua rede corporativa?
 
-Olá! Aqui vamos aprender como permitir o funcionamento perfeito da BotMaker na sua rede corporativa, se a mesma estiver bloqueando a plataforma via Firewall.
+Olá! Aqui vamos aprender como permitir o funcionamento perfeito da Botmaker na sua rede corporativa, se a mesma estiver bloqueando a plataforma via Firewall.
 
 > **Note que você somente precisará fazer esse procedimento se sua rede corporativa estiver impedindo a conexão com a plataforma.**
 
