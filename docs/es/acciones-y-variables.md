@@ -1,6 +1,6 @@
 # Acciones y Variables
 
-Hola! Aqui vamos a aprender a usar variables y acciones de la plataforma BotMaker.
+Hola! Aqui vamos a aprender a usar variables y acciones de la plataforma Botmaker.
 
 ## Variables
 Una variable es un nombre simbólico que es utilizado para guardar un valor. 
