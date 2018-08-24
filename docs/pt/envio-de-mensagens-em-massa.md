@@ -2,7 +2,7 @@
 
 Olá! Aqui, vamos aprender como enviar mensagens em massa para seus usuários, com possibilidade de segmentação.
 
-A BotMaker permite criar perfis de audiência customizadas para envio de mensagens, útil para:
+A Botmaker permite criar perfis de audiência customizadas para envio de mensagens, útil para:
 
  - Envio de publicidade; 
  - Anúncio de novidades de produtos e serviços;
