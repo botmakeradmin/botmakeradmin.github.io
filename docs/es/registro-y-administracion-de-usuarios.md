@@ -1,10 +1,10 @@
 # Registro y Administración de Usuarios
 
-Hola! Aquí, vamos a aprender como crear una cuenta BotMaker y administrar operadores de su bot.
+Hola! Aquí, vamos a aprender como crear una cuenta Botmaker y administrar operadores de su bot.
 
 ## Crear una cuenta
 
-Para crear una cuenta en BotMaker, debe ingresar al siguiente link:
+Para crear una cuenta en Botmaker, debe ingresar al siguiente link:
 
  - [**go.botmaker.com**](https://go.botmaker.com)
 
@@ -20,7 +20,7 @@ Una vez creada la cuenta, deberá aguardar que un usuario con perfil de Super Ad
 
 ## Agregar usuarios al Bot
 
-Para agregar un nuevo usuario al Bot, un usuario con perfil de Super Administrador deberá ingresar a la plataforma BotMaker y dirigirse a:
+Para agregar un nuevo usuario al Bot, un usuario con perfil de Super Administrador deberá ingresar a la plataforma Botmaker y dirigirse a:
 
 1. Menu
 2. Configuraciones
