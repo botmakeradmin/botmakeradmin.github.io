@@ -1,6 +1,6 @@
 # Mejores prácticas en el desarrollo de un Bot
 
-Hola! Aquí vamos a aprender cuales son las mejores prácticas que BotMaker, con base en nuestra experiencia, recomienda en el desarrollo de un Bot.
+Hola! Aquí vamos a aprender cuales son las mejores prácticas que Botmaker, con base en nuestra experiencia, recomienda en el desarrollo de un Bot.
 
 ## El chat como canal de comunicación
 
