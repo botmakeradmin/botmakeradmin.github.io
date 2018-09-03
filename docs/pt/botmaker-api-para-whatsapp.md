@@ -34,7 +34,6 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 
 - Para aprovar sua conta, nos envie um email a servico@botmaker.com indicando:
   1. Seu **_Business Manager ID_**, obtido em Facebook Business Manager.
-  
     - Se ainda não tem um ID, pode criar uma seguindo estes passos.
     
   2. Os **números de telefone** que serão utilizados para sua conta do WhatsApp. No geral, só um número é suficiente, porém, podem ser usados mais para diferenciar idiomas, ambientes ou países, por exemplo.
@@ -45,7 +44,6 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 
   3. Informação para o **perfil da conta de WhatsApp**
     - **Foto de perfil** - deve ser uma imagem quadrada, de no mínimo 192x192px. Tenha em mente que o modo de visualização na lista de contatos é circular.
-    
     - **Texto descritivo do perfil** - Sobre, Direções, Descrição do comércio, Categoria, Email de contato e URL Web.
     
 ## Recebendo mensagens dos usuários
