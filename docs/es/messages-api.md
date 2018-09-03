@@ -3,7 +3,7 @@
 
 Botmaker te provee acceso oficial para enviar y recibir mensajes de WhatsApp a más de 1500 millones de usuarios en el mundo. 
 
-Puedes enviar mensajes sin programar y activando tu bot u operación manual utilizando la plataforma Botmaker y también acceder a Botmaker API 
+Puedes enviar mensajes sin programar y activando tu bot respondiendo tus mensajes manualmente utilizando la plataforma Botmaker y también acceder a Botmaker API 
 para WhatsApp para conectar tus aplicaciones ahora mismo. 
 
 **¡Solo te llevará 15 minutos!**
