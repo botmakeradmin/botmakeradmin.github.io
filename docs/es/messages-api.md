@@ -43,10 +43,13 @@ En general un solo número es suficiente pero puedes querer tener más para dife
 este no debe haber tenido WhatsApp instalado en los últimos 6 meses_
 
 - Información para el **perfil de la cuenta WhatsApp**
-  1. Foto de perfil. Debe ser una imagen cuadrada de al menos 192×192 píxeles. Ten en cuenta que solo la part circular central 
-  va a verse en la lista de contactos:
+  - Foto de perfil. Debe ser una imagen cuadrada de al menos 192×192 píxeles. Ten en cuenta que solo la parte circular central va a verse en la lista de contactos:
+
+
  ![Profile picture](./profilepicture.png)
-  1. Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
+
+
+  - Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
 
 
 ## Recibiendo mensajes de los usuarios
