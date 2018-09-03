@@ -11,7 +11,4 @@
 * [Respuestas del Bot: Qué necesito saber](respuestas-del-bot-que-necesito-saber.md)
 * [Permitir Botmaker en su red corporativa](permitir-botMaker-en-su-red-corporativa.md)
 * [Usar colas para chat manual](colas.md)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTY5OTczNiwyMTM2OTcwNzYzXX0=
--->
+* [Botmaker API para WhatsApp](messages-api.md)
