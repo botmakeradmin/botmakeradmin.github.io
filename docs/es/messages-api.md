@@ -46,7 +46,7 @@ este no debe haber tenido WhatsApp instalado en los últimos 6 meses_
 - Información para el **perfil de la cuenta WhatsApp**
   1. Foto de perfil. Debe ser una imagen cuadrada de al menos 192×192 píxeles. Ten en cuenta que solo la part circular central 
   va a verse en la lista de contactos:
- ![Profile picture](./profilepicture.png =100)
+ ![Profile picture](./profilepicture.png)
   1. Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
 
 ## Recibiendo mensajes de los usuarios
@@ -58,10 +58,17 @@ Si quieres recibir cada mensaje que llega a la plataforma puedes configurar un _
 - Accede a la **[Consola del Operador de Botmaker](https://go.botmaker.com)** y selecciona la opción Configuration, Configuraciones Internas ó accede directamente
 a **[https://go.botmaker.com/#/adminconfig](https://go.botmaker.com/#/adminconfig)**
 - Allí indica el URL de tu endpoint. Por ejemplo **https://example.com/income** 
-- Tu endpoint debe contestar http code 200, tener un certificado válido https y estar disponible todo el tiempo y responder en menos de 500ms 
+- Tu endpoint debe contestar http code 200, tener un certificado válido https y estar disponible todo el tiempo y responder en menos de 2 segundos
 
  ![endpoint url](./endpoint-url.png)
 
 
 ## Enviando mensajes a los usuarios
+(response es message id y % saldo pendiente)
+
+### Cambios en el estado de los mensajes enviados
+
+### Sandbox
+(pregistered templates en sandbox)
+
 
