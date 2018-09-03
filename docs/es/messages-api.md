@@ -46,7 +46,7 @@ este no debe haber tenido WhatsApp instalado en los últimos 6 meses_
 - Información para el **perfil de la cuenta WhatsApp**
   1. Foto de perfil. Debe ser una imagen cuadrada de al menos 192×192 píxeles. Ten en cuenta que solo la part circular central 
   va a verse en la lista de contactos:
- ![Profile picture](./profilepicture.png)
+ ![Profile picture](./profilepicture.png | width=50%)
   1. Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
 
 ## Recibiendo mensajes de los usuarios
@@ -58,17 +58,62 @@ Si quieres recibir cada mensaje que llega a la plataforma puedes configurar un _
 - Accede a la **[Consola del Operador de Botmaker](https://go.botmaker.com)** y selecciona la opción Configuration, Configuraciones Internas ó accede directamente
 a **[https://go.botmaker.com/#/adminconfig](https://go.botmaker.com/#/adminconfig)**
 - Allí indica el URL de tu endpoint. Por ejemplo **https://example.com/income** 
-- Tu endpoint debe contestar http code 200, tener un certificado válido https y estar disponible todo el tiempo y responder en menos de 2 segundos
+- Tu endpoint debe contestar http code 200, tener un certificado válido https y estar disponible todo el tiempo y responder en menos de 10 segundos
 
  ![endpoint url](./endpoint-url.png)
+
+- Una vez activado, vas a comenzar a recibir mensajes según las políticas de Google PubSub: mensajes firmados, preservación de mensajes por 7 días, etc.
+Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
+
+- El siguiente ejemplo muestra un mensaje típico de un usuario
+```json
+{
+  "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
+  "MESSAGE": "Hola!",                     // the user message text
+  "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
+  "FROM_NAME": "user_name",               // name of user if possible
+  "CUSTOMER_ID": "user_id",               // unique id of user
+  "_id_": "message_id",                   // unique id of message
+  "FROM": "phone_number",                 // user phone number
+  "SESSION_CREATION_TIME": "session_id",  // chat session id
+  
+  // other less important fields are also inclused in the message
+  ...
+}
+```
+
+- También soportamos multimedia (mensajes de voz, audios, documentos, imágenes, etc.), por ejemplo:
+
+```json
+{
+   "FROM_NAME": "user_name",               // name of user if possible
+   "IMAGES_URLS": [
+     "https://botmaker.com/hostedImageByUser.png"
+   ],
+   ...
+}
+```
 
 
 ## Enviando mensajes a los usuarios
 (response es message id y % saldo pendiente)
 
+### Mensajes multimedia
+- media consola y url
+
 ### Cambios en el estado de los mensajes enviados
 
-### Sandbox
-(pregistered templates en sandbox)
+### Aplicar formato a mensajes desde API
 
+  Formatting	Symbol	Example
+  Bold	Asterisk (**)	Your total is *$10.50**.
+  Italic	Underscore (_)	Welcome to _WhatsApp_!
+  Strike-through	Tilde (~)	This is ~better~ best!
+  Code / Pre-formatted	Three backticks (```)	```print 'Hello World';```
+  
 
+  "type": "audio" | "document" | "hsm" | "image" | "text",
+  
+  "text": {
+    "body": "message-content"
+  }
