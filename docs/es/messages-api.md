@@ -10,6 +10,7 @@ para WhatsApp para conectar tus aplicaciones ahora mismo.
 
 > Puedes probarlo ahora mismo **[aquí](whatsapp://send?phone=5491151234696&text=Hola!)** ó **[aquí](https://wa.me/5491151234696/?text=Hola!)** 
 
+
 ## Consideraciones iniciales
 
 - El proceso de aprobación de tu cuenta se hace solo por única vez. Mientras eso sucede, puedas empezar ahora mismo a utilizar
@@ -48,6 +49,7 @@ este no debe haber tenido WhatsApp instalado en los últimos 6 meses_
   va a verse en la lista de contactos:
  ![Profile picture](./profilepicture.png | width=50%)
   1. Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
+
 
 ## Recibiendo mensajes de los usuarios
 
@@ -122,7 +124,7 @@ Para ellos debes:
   }'
 ```
 
-la respuesta va a ser un http code 200 con un JSON indicando el id del mensaje generado:
+la respuesta va a ser un **http code 200** con un JSON indicando el id del mensaje generado:
 
 ```json
 {
@@ -130,28 +132,36 @@ la respuesta va a ser un http code 200 con un JSON indicando el id del mensaje g
 }
 ```
 
-
-
-
 ### Templates messages
 - template msg: que son, como crearlos en reglas (disparar mensaje desde intentapi con params) session whatsapp 25 horas (como hacemos control de 25hs?)
+
 
 ### Mensajes multimedia
 - media consola y url
 
+
 ### Cambios en el estado de los mensajes enviados
+
+Posteriormente a enviar un mensaje a un usuario, tu endpoint va a recibir notificaciones de entrega o lectura del mensaje enviado por ti.
+
+1. **delivered** indica que el mensaje ha sido enviado (doble tilde de WhatsApp) 
+1. **read** indica que el mensaje ha sido leído por el usuario destino (doble tilde azul de WhatsApp) 
+
+```json
+{
+  "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
+  "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
+  "CUSTOMER_ID": "user_id",               // unique id of user
+  "_id_": "message_id",                   // unique id of message
+  "FROM": "phone_number",                 // user phone number
+  "STATUS": "el_cambio_status"            // message read or delivered
+}
+```
+
+> si un usuario desactiva esta opción desde su configuración de privacidad, estos mensajes no va a ser recibidos.
+
 
 ### Aplicar formato a mensajes desde API
 
-  Formatting	Symbol	Example
-  Bold	Asterisk (**)	Your total is *$10.50**.
-  Italic	Underscore (_)	Welcome to _WhatsApp_!
-  Strike-through	Tilde (~)	This is ~better~ best!
-  Code / Pre-formatted	Three backticks (```)	```print 'Hello World';```
-  
-
-  "type": "audio" | "document" | "hsm" | "image" | "text",
-  
-  "text": {
-    "body": "message-content"
-  }
+Se puede aplicar formato simples a textos de mensajes que se envían a los usuarios. "Hola _Juan_". Para más información revisar la 
+**[documentación de formato de WhatsApp](https://faq.whatsapp.com/en/android/26000002/)**
