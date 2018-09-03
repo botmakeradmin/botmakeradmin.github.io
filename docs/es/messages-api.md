@@ -131,11 +131,66 @@ la respuesta va a ser un **http code 200** con un JSON indicando el id del mensa
 ```
 
 > cada vez que un mensaje es enviado al usuario, se efectua un chequeo de control de saldo de tu cuenta Botmaker. Si la cuenta está cerca de quedar sin saldo, 
-el servicio va a devolver un **http code 403 - Forbidden** indicando que no hay saldo para enviar mensajes. 
+el servicio va a devolver un **http code 403 - Forbidden** indicando que no hay saldo para enviar mensajes en el JSON de respuesta 
+
+```json
+{
+  "error": {
+    "code": 101,
+    "message": "Insufficient credit"
+  }
+}
+```
+
+> cada vez que un mensaje es enviado al usuario, se efectua un chequeo para determinar si el mensaje va a ser rechazado por WhatsApp ya que el usuario no habló
+con la plataforma desde hace 24hs. Ver la sección **Templates messages** para más información.
+
+```json
+{
+  "error": {
+    "code": 201,
+    "message": "User window is over 24 hours"
+  }
+}
+```
+
 
 ### Templates messages
-- template msg: que son, como crearlos en reglas (disparar mensaje desde intentapi con params) session whatsapp 25 horas (como hacemos control de 25hs?)
 
+WhatsApp permite enviar mensajes a usuarios hasta 24 horas después del último mensaje producido por este. Fuera de ese rango, los mensajes deben ser enviados
+utilizando el endpoint **intent** y realizando los siguientes pasos:
+
+- Ingresar a **[Message Templates en Facebook Business Manager](https://business.facebook.com/wa/manage/message-templates/)**
+
+- Anotar el **namespace**, **templates** y sus **parámetros** (si los usa)
+
+- Luego ingresar a **[Configuración de Reglas](https://go.botmaker.com/#/rule)**
+
+- Crear una nueva regla, es importante anotar el nombre de esa regla para los próximos pasos
+
+- En el tab **Respuestas** crear una nueva acción **"WhatsApp Template"**
+
+![whatsapptemplate](./whatsapptemplate.png)
+
+- Allí anotar **namespace**, **templates** y sus **parámetros**.
+
+- Finalmente efectuar la llamada al endpoint:
+
+
+```bash
+ curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
+  --header  "Content-Type: application/json" \
+  --header 'access-token: tu_access_token" \
+  -d '{
+    "chatPlatform": "whatsapp",
+    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
+    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
+    "params": {
+       "firstName": "Juan",
+       "nombre_otro_param": "valor_otro_param"
+    }
+  }'
+```
 
 
 ### Mensajes multimedia
