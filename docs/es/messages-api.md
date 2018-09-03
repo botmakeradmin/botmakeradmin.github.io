@@ -32,9 +32,7 @@ No está permitido enviar mensajes de publicidad o venta.
 - Para aprobar tu cuenta envia un email a **[servicio@botmaker.com](mailto:servicio@botmaker.com)** indicando:
  
   1. Tu **Business Manager Id** que puedes obtener en **[Facebook Business Manager](https://business.facebook.com/settings/info)**
-![Business Manager](./businessmanager.png)
   1. (si aun no tienes una cuenta, la puedes crear **[siguiendo estos pasos](https://www.facebook.com/business/help/1710077379203657)**
-
   1. El o los **números telefónicos** que quieras utilizar para tu cuenta de WhatsApp.
 En general un solo número es suficiente pero puedes querer tener más para diferenciar idiomas (ej: línea Español, línea Portugués), ambientes 
 (ej: Producción, QA) o países. 
@@ -47,7 +45,7 @@ este no debe haber tenido WhatsApp instalado en los últimos 6 meses_
 - Información para el **perfil de la cuenta WhatsApp**
   1. Foto de perfil. Debe ser una imagen cuadrada de al menos 192×192 píxeles. Ten en cuenta que solo la part circular central 
   va a verse en la lista de contactos:
- ![Profile picture](./profilepicture.png | width=50%)
+ ![Profile picture](./profilepicture.png)
   1. Texto descriptivo del perfil para los campos _About_, _Dirección_, _Descripción del comercio_, _Categoría_, _email de contacto_ y _sitio web_
 
 
@@ -132,12 +130,31 @@ la respuesta va a ser un **http code 200** con un JSON indicando el id del mensa
 }
 ```
 
+> cada vez que un mensaje es enviado al usuario, se efectua un chequeo de control de saldo de tu cuenta Botmaker. Si la cuenta está cerca de quedar sin saldo, 
+el servicio va a devolver un **http code 403 - Forbidden** indicando que no hay saldo para enviar mensajes. 
+
 ### Templates messages
 - template msg: que son, como crearlos en reglas (disparar mensaje desde intentapi con params) session whatsapp 25 horas (como hacemos control de 25hs?)
 
 
+
 ### Mensajes multimedia
-- media consola y url
+
+Botmaker permite enviar todos los tipos de mensajes multimedia soportados por WhatsApp y otros canales. Para ello deber crear un mensaje desde Reglas
+siguiendo la información de **[Como crear respuestas](https://botmakeradmin.github.io/docs/es/#/como-crear-una-regla?id=respuestas)** en nueva nueva Regla.
+
+Luego puedes llamar al servicio de activación de reglas desde tu sistema. Por ejemplo:
+
+```bash
+ curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
+  --header  "Content-Type: application/json" \
+  --header 'access-token: tu_access_token" \
+  -d '{
+    "chatPlatform": "whatsapp",
+    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
+    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
+  }'
+```
 
 
 ### Cambios en el estado de los mensajes enviados
