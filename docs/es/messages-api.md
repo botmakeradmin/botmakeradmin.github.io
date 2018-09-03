@@ -96,7 +96,45 @@ Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
 
 
 ## Enviando mensajes a los usuarios
-(response es message id y % saldo pendiente)
+
+Es posible enviar mensajes a los usuarios utilizando la consola del operador, generando notificaciones masivas y programando envíos por diferentes estímulos. 
+Y también se puede utilizar el API de Botmaker para disparar mensajes programáticamente desde un sistema.
+
+Para ellos debes:
+
+- Obtener un token para acceder el API
+1. Accede a la **[configuración de canales](https://go.botmaker.com/#/platforms)**
+1. Selecciona **Botmaker API - Credenciales**
+1. Genera un token o utiliza el que ya está generado. En particular es importante que guardes el **Access Token**
+
+![accesstoken](./accesstoken.png)
+
+- Con el access token, se puede efectuar el llamado via HTTP Post al API rest con un JSON:
+
+```bash
+ curl -X POST https://go.botmaker.com/api/v1.0/message/v3 \
+  --header  "Content-Type: application/json" \
+  --header 'access-token: tu_access_token" \
+  -d '{
+    "chatPlatform": "whatsapp",
+    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
+    "messageText": "mensaje_a_enviar",
+  }'
+```
+
+la respuesta va a ser un http code 200 con un JSON indicando el id del mensaje generado:
+
+```json
+{
+  "id": "id_del_mensaje"
+}
+```
+
+
+
+
+### Templates messages
+- template msg: que son, como crearlos en reglas (disparar mensaje desde intentapi con params) session whatsapp 25 horas (como hacemos control de 25hs?)
 
 ### Mensajes multimedia
 - media consola y url
