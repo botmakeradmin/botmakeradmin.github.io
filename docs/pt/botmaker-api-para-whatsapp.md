@@ -171,11 +171,11 @@ Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá noti
 ```json
 {
   "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
-  "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
-  "CUSTOMER_ID": "user_id",               // unique id of user
-  "_id_": "message_id",                   // unique id of message
-  "FROM": "phone_number",                 // user phone number
-  "STATUS": "el_cambio_status"            // message read or delivered
+  "CREATION_TIME": "a_date", // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
+  "CUSTOMER_ID": "user_id", // unique id of user
+  "_id_": "message_id", // unique id of message
+  "FROM": "phone_number", // user phone number
+  "STATUS": "el_cambio_status" // message read or delivered
 }
 ```
 
