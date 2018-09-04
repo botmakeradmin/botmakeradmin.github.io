@@ -17,6 +17,7 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 - Uma vez integrado à Botmaker, há duas maneiras de iniciar uma conversa com seus usuários:
 
   1. Os usuários podem começar a conversa com sua marca: para isso, você pode publicar seu número de WhatsApp em anúncios, websites e landing pages, usando a URL de auto ativação: *whatsapp://send?phone=seu_número&text=Olá!*ou *https:wa.me/seu_número/?text=Olá!*.
+  
   2. Você pode iniciar uma conversa com seus usuários (mesmo que não tenham conversado anteriormente com sua empresa): nesse caso, é importante que, previamente, socilite um opt-in em seu website à eles para que você tenha autorização. Pode ser um formulário de registro, um email, etc.
   
 - O WhatsApp protege seus usuários contra práticas de SPAM. Eles podem te contactar por qualquer motivo, mas, no caso de que você os contacte, deve ser por uma das razões aprovadas:
