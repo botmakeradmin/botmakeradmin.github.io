@@ -46,7 +46,7 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
     - **Foto de perfil** - deve ser uma imagem quadrada, de no mínimo 192x192px. Tenha em mente que o modo de visualização na lista de contatos é circular.
     - **Texto descritivo do perfil** - Sobre, Direções, Descrição do comércio, Categoria, Email de contato e URL Web.
     
-![Profile picture](https://botmakeradmin.github.io/raw/master/docs/es/profilepicture.png)
+![Profile picture](https://botmakeradmin.github.io/docs/pt/imagens/profilepicture.png)
 
 
 ## Recebendo mensagens dos usuários
