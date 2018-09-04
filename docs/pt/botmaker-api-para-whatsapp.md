@@ -45,6 +45,9 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
   3. Informação para o **perfil da conta de WhatsApp**
     - **Foto de perfil** - deve ser uma imagem quadrada, de no mínimo 192x192px. Tenha em mente que o modo de visualização na lista de contatos é circular.
     - **Texto descritivo do perfil** - Sobre, Direções, Descrição do comércio, Categoria, Email de contato e URL Web.
+    
+![Profile picture](https://botmakeradmin.github.io/raw/master/docs/es/profilepicture.png)
+
 
 ## Recebendo mensagens dos usuários
 
@@ -54,7 +57,8 @@ As mensages enviadas pelos usuários podem ser vistas intanstaneamente no [Conso
 - Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: [https://example.com/income](https://example.com/income)
   - Seu endpoint deve estar em _http code 200_, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 2 segundos.
   
-![](15360693827205.png)
+![](https://botmakeradmin.github.io/raw/master/docs/es/endpoint-url.png)
+
 - Uma vez ativado, você começará a receber mensagens segundo as políticas do Google PubSub; mensagens assinadas, preservação de mensagens por 7 dias, etc. Veja mais detalhes [aqui](https://cloud.google.com/pubsub/docs/push).
 - O exemplo a seguir mostra uma mensagem típica de um usuário:
 
@@ -95,7 +99,7 @@ Para isso, deve-se:
     - Selecione **Botmaker API - Credenciais**;
     - Gere um token ou utilize o que já está gerado. Em particular, é importante que salve o **Access Token**.
 
-![accesstoken](./accesstoken.png)
+![accesstoken](https://botmakeradmin.github.io/raw/master/docs/es/accesstoken.png)
 
 - Com o acesso ao token, será possível efetuar o chamado HTTP Post ao API rest com um JSON:
 
@@ -111,7 +115,6 @@ Para isso, deve-se:
 ```
 
 
-![](15360689097821.png)
 
 
 ### Templates de mensagens
@@ -123,7 +126,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 - Criar uma nova intenção. É importante lembrar o nome dessa intenção para os próximos passos;
 - Na aba de **Respostas**, criar uma ação chamada **WhatsApp Template**:
 
-![whatsapptemplate](./whatsapptemplate.png)
+![whatsapptemplate](https://botmakeradmin.github.io/raw/master/docs/es/whatsapptemplate.png)
 
 - Na ação, anotar **namespace**, **templates** e seus **parâmetros**;
 - E, finalmente, efetuar a chamada ao endpoint:
