@@ -8,13 +8,13 @@ Uma fila de atenção é uma unidade que oderna como usuários serão assignados
 
 Para configurá-las, acesse o menu e entre no painel de Configurações, Ajustes Internos, Operação de um Humano. Alí estará disponível a lista de filas com todos os parâmetros que podem ser modificados.
 
-![Profile picture](https://botmakeradmin.github.io/docs/pt/imagens/human.png)
+![Profile picture](https://botmakeradmin.github.io/docs/pt/imagens/human.PNG)
 
 ## Assignado filas à agentes
 
 A configuração de cada um dos agentes será realizada na tela de Funções, selecionando as Filas que cada agente poderá atender.
 
-![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/roles.png)
+![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/roles.PNG)
 
 ## Reports em tempo real
 
@@ -34,5 +34,5 @@ Para trasferir um cliente a uma Fila diferente, encontra-se a opção Send user 
 
 Poderá ser selecionada a Fila para a qual a conversa será transferida, se essa tiver agentes disponíveis.
 
-![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/choose.png)
+![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/choose.PNG)
 
