@@ -51,10 +51,10 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 
 ## Recebendo mensagens dos usuários
 
-As mensages enviadas pelos usuários podem ser vistas intanstaneamente no [Console de Operador da Botmaker](https://go.botmaker.com/), onde é possível responder manualmente ou mediante o uso de bots. Sem dificuldade, também é possível notificar um sistema dessas mensagens: se quiser receber cada mensagem, pode configurar um webhook em seus sistemas da seguinte maneira:
+As mensages enviadas pelos usuários podem ser vistas intanstaneamente no **[Console de Operador da Botmaker]**(https://go.botmaker.com/), onde é possível responder manualmente ou mediante o uso de bots. Sem dificuldade, também é possível notificar um sistema dessas mensagens: se quiser receber cada mensagem, pode configurar um webhook em seus sistemas da seguinte maneira:
 
-- Acesse o [Console de Operador da Botmaker](https://go.botmaker.com/) e selecione Configurações, Ajustes Internos. Se preferir, acesse diretamente: [https://go.botmaker.com/#/adminconfig](https://go.botmaker.com/#/adminconfig)
-- Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: [https://example.com/income](https://example.com/income)
+- Acesse o **[Console de Operador da Botmaker]**(https://go.botmaker.com/) e selecione Configurações, Ajustes Internos. Se preferir, acesse diretamente: **[https://go.botmaker.com/#/adminconfig]**(https://go.botmaker.com/#/adminconfig)
+- Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: **[https://example.com/income]**(https://example.com/income)
   - Seu endpoint deve estar em **http code 200**, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 10 segundos.
   
 ![](https://botmakeradmin.github.io/raw/master/docs/es/endpoint-url.png)
@@ -114,24 +114,42 @@ Para isso, deve-se:
   }'
 ```
 
-- A resposta será um **http code 200** com um JSON indicando o ID da mensagem gerada.
+- A resposta será um **http code 200** com um JSON indicando o ID da mensagem gerada:
 
+```json
+{
+  "id": "id_del_mensaje"
+}
+```
 
+> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check de controle de saldo da sua conta Botmaker. Se a conta estiver prestes a ficar sem saldo, o serviço devolverá um **http code 403 - Forbidden**, indicando que não há saldo para enviar mensagens no JSON de resposta:
 
-> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check de controle de saldo da sua conta Botmaker. Se a conta estiver prestes a ficar sem saldo, o serviço devolverá um **http code 403 - Forbidden**, indicando que não há saldo para enviar mensagens no JSON de resposta.
+```json
+{
+  "error": {
+    "code": 101,
+    "message": "Insufficient credit"
+  }
+}
+```
 
+> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check para determinar se a mensagem será rejeitada pelo WhatsApp, já que o usuário não conversou com você na plataforma nas últimas 24 horas. Veja a seção **Templates de Mensagens** para mais informações:
 
-
-> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check para determinar se a mensagem será rejeitada pelo WhatsApp, já que o usuário não conversou com você na plataforma nas últimas 24 horas. Veja a seção **Templates de Mensagens** para mais informações.
-
-
+```json
+{
+  "error": {
+    "code": 201,
+    "message": "User window is over 24 hours"
+  }
+}
+```
 
 ### Templates de mensagens
 O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da última mensagem enviada por ele. Fora desse prazo, as mensagens deverão ser enviadas utilizando o endpoint **intent** e realizando os seguintes passos:
 
 - Acessar Templates de Mensagens no Facebook Business Manager;
 - Anotar o **namespace**, **templates** e seus **parâmetros** (se os usam);
-- Acessar a Configuração de Regras;
+- Acessar a [**Configuração de Regras**](https://go.botmaker.com/#/rule);
 - Criar uma nova intenção. É importante lembrar o nome dessa intenção para os próximos passos;
 - Na aba de **Respostas**, criar uma ação chamada **WhatsApp Template**:
 
@@ -156,7 +174,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 ```
 
 ### Mensagens multimídia 
-A Botmaker permite enviar todas os tipos de mensagens multimídia suportados pelo WhatsApp e outros canais. Para isso, deve-se criar uma mensagem em Regras seguindo a página de Como criar respostas em uma intenção.
+A Botmaker permite enviar todas os tipos de mensagens multimídia suportados pelo WhatsApp e outros canais. Para isso, deve-se criar uma mensagem em Regras seguindo a página de **[Como criar respostas]**() em uma intenção.
 
 Também se pode chamar o serviço de ativação de regras desde o seu sistema, por exemplo:
 
