@@ -36,6 +36,7 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
   1. Seu **_Business Manager ID_**, obtido em [Facebook Business Manager](https://business.facebook.com/settings/info).
     - Se ainda não tem um ID, pode criar uma seguindo [estes passos](https://www.facebook.com/business/help/1710077379203657).
     
+    
   2. Os **números de telefone** que serão utilizados para sua conta do WhatsApp. No geral, só um número é suficiente, porém, podem ser usados mais para diferenciar idiomas, ambientes ou países, por exemplo.
   
 > Podemos te prover números no Brasil e na Argentina.
@@ -51,10 +52,10 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 
 ## Recebendo mensagens dos usuários
 
-As mensages enviadas pelos usuários podem ser vistas intanstaneamente no **[Console de Operador da Botmaker]**(https://go.botmaker.com/), onde é possível responder manualmente ou mediante o uso de bots. Sem dificuldade, também é possível notificar um sistema dessas mensagens: se quiser receber cada mensagem, pode configurar um webhook em seus sistemas da seguinte maneira:
+As mensages enviadas pelos usuários podem ser vistas intanstaneamente no [**Console de Operador da Botmaker**](https://go.botmaker.com/), onde é possível responder manualmente ou mediante o uso de bots. Sem dificuldade, também é possível notificar um sistema dessas mensagens: se quiser receber cada mensagem, pode configurar um webhook em seus sistemas da seguinte maneira:
 
-- Acesse o **[Console de Operador da Botmaker]**(https://go.botmaker.com/) e selecione Configurações, Ajustes Internos. Se preferir, acesse diretamente: **[https://go.botmaker.com/#/adminconfig]**(https://go.botmaker.com/#/adminconfig)
-- Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: **[https://example.com/income]**(https://example.com/income)
+- Acesse o [**Console de Operador da Botmaker**](https://go.botmaker.com/) e selecione Configurações, Ajustes Internos. Se preferir, acesse diretamente: [**https://go.botmaker.com/#/adminconfig**](https://go.botmaker.com/#/adminconfig)
+- Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: [**https://example.com/income**](https://example.com/income)
   - Seu endpoint deve estar em **http code 200**, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 10 segundos.
   
 ![](https://botmakeradmin.github.io/docs/pt/imagens/endpoint-url.png)
@@ -211,5 +212,5 @@ Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá noti
 >Se a opção Confirmação de Leitura for desativada pelo usuário nas configurações de privacidade, essas mensagens não serão recebidas.
 
 ### Aplicar formatos à mensagens através da API
-É possível aplicar formatos simples à textos de mensagens que serão enviadas aos usuários, por exemplo “Olá, *João*”. Para mais informações, cheque a **[Documentação de Formatos do WhatsApp.](https://faq.whatsapp.com/en/android/26000002/)**
+É possível aplicar formatos simples à textos de mensagens que serão enviadas aos usuários, por exemplo “Olá, *João*”. Para mais informações, cheque a [**Documentação de Formatos do WhatsApp.**](https://faq.whatsapp.com/en/android/26000002/)
 
