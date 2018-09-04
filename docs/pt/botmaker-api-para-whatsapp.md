@@ -1,3 +1,4 @@
+# WApp
 # Botmaker API para WhatsApp
 
 Olá! Aqui vamos aprender como acessar a Botmaker API para WhatsApp.
@@ -56,6 +57,34 @@ As mensages enviadas pelos usuários podem ser vistas intanstaneamente no Consol
   
 ## Enviando mensagens aos usuários
 
-## Alterações no estado das mensagens enviadas
 
-## Sandbox
+## Templates de mensagens
+O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da última mensagem enviada por ele. Fora desse prazo, as mensagens deverão ser enviadas utilizando o endpoint **intent** e realizando os seguintes passos:
+
+- Acessar Templates de Mensagens no Facebook Business Manager;
+- Anotar o **namespace**, **templates** e seus **parâmetros** (se os usam);
+- Acessar a Configuração de Regras;
+- Criar uma nova intenção. É importante lembrar o nome dessa intenção para os próximos passos;
+- Na aba de **Respostas**, criar uma ação chamada **WhatsApp Template**:
+
+
+- Na ação, anotar **namespace**, **templates** e seus **parâmetros**;
+- E, finalmente, efetuar a chamada ao endpoint:
+
+## Mensagens multimídia 
+A Botmaker permite enviar todas os tipos de mensagens multimídia suportados pelo WhatsApp e outros canais. Para isso, deve-se criar uma mensagem em Regras seguindo a página de Como criar respostas em uma intenção.
+
+Também se pode chamar o serviço de ativação de regras desde o seu sistema, por exemplo;
+
+## Alterações no estado das mensagens enviadas
+Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá notificações de entrega ou leitura dessa mensagem.
+
+1. **Delivered** indica que a mensagem foi enviada - check duplo do WApp.
+2. **Read** indica que a mensagem foi lida pelo usuário de destino - check duplo azul do WApp.
+
+
+
+> Se a opção Confirmação de Leitura for desativada pelo usuário nas configurações de privacidade, essas mensagens não serão recebidas.
+
+## Aplicar formatos à mensagens através da API
+É possível aplicar formatos simples à textos de mensagens que serão enviadas aos usuários, por exemplo “Olá, *João*”. Para mais informações, cheque a Documentação de Formatos do WhatsApp.
