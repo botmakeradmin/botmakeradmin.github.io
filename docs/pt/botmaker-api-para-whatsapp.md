@@ -57,7 +57,7 @@ As mensages enviadas pelos usuários podem ser vistas intanstaneamente no **[Con
 - Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: **[https://example.com/income]**(https://example.com/income)
   - Seu endpoint deve estar em **http code 200**, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 10 segundos.
   
-![](https://botmakeradmin.github.io/raw/master/docs/es/endpoint-url.png)
+![](https://botmakeradmin.github.io/docs/pt/imagens/endpoint-url.png)
 
 - Uma vez ativado, você começará a receber mensagens segundo as políticas do Google PubSub; mensagens assinadas, preservação de mensagens por 7 dias, etc. Veja mais detalhes [aqui](https://cloud.google.com/pubsub/docs/push).
 - O exemplo a seguir mostra uma mensagem típica de um usuário:
