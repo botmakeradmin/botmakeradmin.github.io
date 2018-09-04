@@ -1,4 +1,3 @@
-# WApp
 # Botmaker API para WhatsApp
 
 Olá! Aqui vamos aprender como acessar a Botmaker API para WhatsApp.
