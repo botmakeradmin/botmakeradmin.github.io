@@ -10,6 +10,7 @@
 * [Melhores práticas no desenvolvimento de um Bot](melhores-práticas-no-desenvolvimento-de-um-bot.md)
 * [Respostas do Bot: o que preciso saber](respostas-do-bot-o-que-preciso-saber.md)
 * [Como permitir BotMaker em sua rede corporativa?](permitir-botMaker-em-sua-rede-corporativa.md)
+* [Botmaker API para Whatsapp](botmaker-api-para-whatsapp.md)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTEyNTY5OTczNiwyMTM2OTcwNzYzXX0=
