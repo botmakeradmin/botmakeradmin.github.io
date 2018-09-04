@@ -99,7 +99,9 @@ Para isso, deve-se:
     - Selecione **Botmaker API - Credenciais**;
     - Gere um token ou utilize o que já está gerado. Em particular, é importante que salve o **Access Token**.
 
-![accesstoken](https://botmakeradmin.github.io/raw/master/docs/es/accesstoken.png)
+![GerarToken](https://botmakeradmin.github.io/docs/pt/imagens/Gerar_credenciais.png)
+
+![accesstoken](https://botmakeradmin.github.io/docs/pt/imagens/accesstoken.png)
 
 - Com o acesso ao token, será possível efetuar o chamado HTTP Post ao API rest com um JSON:
 
@@ -153,7 +155,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 - Criar uma nova intenção. É importante lembrar o nome dessa intenção para os próximos passos;
 - Na aba de **Respostas**, criar uma ação chamada **WhatsApp Template**:
 
-![whatsapptemplate](https://botmakeradmin.github.io/raw/master/docs/es/whatsapptemplate.png)
+![whatsapptemplate](https://botmakeradmin.github.io/docs/pt/imagens/whatsapptemplate.png)
 
 - Na ação, anotar **namespace**, **templates** e seus **parâmetros**;
 - E, finalmente, efetuar a chamada ao endpoint:
