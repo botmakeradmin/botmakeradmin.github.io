@@ -55,7 +55,7 @@ As mensages enviadas pelos usuários podem ser vistas intanstaneamente no [Conso
 
 - Acesse o [Console de Operador da Botmaker](https://go.botmaker.com/) e selecione Configurações, Ajustes Internos. Se preferir, acesse diretamente: [https://go.botmaker.com/#/adminconfig](https://go.botmaker.com/#/adminconfig)
 - Na área Endpoint de Mensagens, indique seu URL de endpoint. Por exemplo: [https://example.com/income](https://example.com/income)
-  - Seu endpoint deve estar em _http code 200_, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 2 segundos.
+  - Seu endpoint deve estar em **http code 200**, ter um certificado válido _https_, estar disponível todo o tempo e responder em menos de 10 segundos.
   
 ![](https://botmakeradmin.github.io/raw/master/docs/es/endpoint-url.png)
 
@@ -114,6 +114,15 @@ Para isso, deve-se:
   }'
 ```
 
+- A resposta será um **http code 200** com um JSON indicando o ID da mensagem gerada.
+
+
+
+> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check de controle de saldo da sua conta Botmaker. Se a conta estiver prestes a ficar sem saldo, o serviço devolverá um **http code 403 - Forbidden**, indicando que não há saldo para enviar mensagens no JSON de resposta.
+
+
+
+> Cada vez que uma mensagem é enviada ao usuário, será efetuado um check para determinar se a mensagem será rejeitada pelo WhatsApp, já que o usuário não conversou com você na plataforma nas últimas 24 horas. Veja a seção **Templates de Mensagens** para mais informações.
 
 
 
@@ -171,11 +180,11 @@ Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá noti
 ```json
 {
   "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
-  "CREATION_TIME": "a_date", // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
-  "CUSTOMER_ID": "user_id", // unique id of user
-  "_id_": "message_id", // unique id of message
-  "FROM": "phone_number", // user phone number
-  "STATUS": "el_cambio_status" // message read or delivered
+  "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
+  "CUSTOMER_ID": "user_id",               // unique id of user
+  "_id_": "message_id",                   // unique id of message
+  "FROM": "phone_number",                 // user phone number
+  "STATUS": "el_cambio_status"            // message read or delivered
 }
 ```
 
