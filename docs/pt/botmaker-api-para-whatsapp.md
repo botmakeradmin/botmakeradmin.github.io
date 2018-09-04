@@ -45,7 +45,7 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
   3. Informação para o **perfil da conta de WhatsApp**
     - **Foto de perfil** - deve ser uma imagem quadrada, de no mínimo 192x192px. Tenha em mente que o modo de visualização na lista de contatos é circular.
     - **Texto descritivo do perfil** - Sobre, Direções, Descrição do comércio, Categoria, Email de contato e URL Web.
-    
+
 ## Recebendo mensagens dos usuários
 
 As mensages enviadas pelos usuários podem ser vistas intanstaneamente no [Console de Operador da Botmaker](https://go.botmaker.com/), onde é possível responder manualmente ou mediante o uso de bots. Sem dificuldade, também é possível notificar um sistema dessas mensagens: se quiser receber cada mensagem, pode configurar um webhook em seus sistemas da seguinte maneira:
@@ -95,6 +95,8 @@ Para isso, deve-se:
     - Selecione **Botmaker API - Credenciais**;
     - Gere um token ou utilize o que já está gerado. Em particular, é importante que salve o **Access Token**.
 
+![accesstoken](./accesstoken.png)
+
 - Com o acesso ao token, será possível efetuar o chamado HTTP Post ao API rest com um JSON:
 
 ```bash
@@ -103,7 +105,7 @@ Para isso, deve-se:
   --header 'access-token: tu_access_token" \
   -d '{
     "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
+    "platformContactId": "telefono_del_usuario", // por ex: 5511931111234
     "messageText": "mensaje_a_enviar",
   }'
 ```
@@ -112,7 +114,7 @@ Para isso, deve-se:
 ![](15360689097821.png)
 
 
-## Templates de mensagens
+### Templates de mensagens
 O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da última mensagem enviada por ele. Fora desse prazo, as mensagens deverão ser enviadas utilizando o endpoint **intent** e realizando os seguintes passos:
 
 - Acessar Templates de Mensagens no Facebook Business Manager;
@@ -121,6 +123,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 - Criar uma nova intenção. É importante lembrar o nome dessa intenção para os próximos passos;
 - Na aba de **Respostas**, criar uma ação chamada **WhatsApp Template**:
 
+![whatsapptemplate](./whatsapptemplate.png)
 
 - Na ação, anotar **namespace**, **templates** e seus **parâmetros**;
 - E, finalmente, efetuar a chamada ao endpoint:
@@ -131,8 +134,8 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
   --header 'access-token: tu_access_token" \
   -d '{
     "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
-    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
+    "platformContactId": "telefono_del_usuario", // por ex: 5511931111234
+    "ruleNameOrId": "nombre_de_regla",           // por ex: "minha regra"
     "params": {
        "firstName": "Juan",
        "nombre_otro_param": "valor_otro_param"
@@ -140,7 +143,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
   }'
 ```
 
-## Mensagens multimídia 
+### Mensagens multimídia 
 A Botmaker permite enviar todas os tipos de mensagens multimídia suportados pelo WhatsApp e outros canais. Para isso, deve-se criar uma mensagem em Regras seguindo a página de Como criar respostas em uma intenção.
 
 Também se pode chamar o serviço de ativação de regras desde o seu sistema, por exemplo:
@@ -151,12 +154,12 @@ Também se pode chamar o serviço de ativação de regras desde o seu sistema, p
   --header 'access-token: tu_access_token" \
   -d '{
     "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
-    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
+    "platformContactId": "telefono_del_usuario", // por ex: 551191111234
+    "ruleNameOrId": "nombre_de_regla",           // por ex: "minha regra"
   }'
 ```
 
-## Alterações no estado das mensagens enviadas
+### Alterações no estado das mensagens enviadas
 Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá notificações de entrega ou leitura dessa mensagem.
 
 1. **Delivered** indica que a mensagem foi enviada - check duplo do WApp.
@@ -175,6 +178,6 @@ Posteriormente ao envio de uma mensagem ao usuário, seu endpoint receberá noti
 
 >Se a opção Confirmação de Leitura for desativada pelo usuário nas configurações de privacidade, essas mensagens não serão recebidas.
 
-## Aplicar formatos à mensagens através da API
+### Aplicar formatos à mensagens através da API
 É possível aplicar formatos simples à textos de mensagens que serão enviadas aos usuários, por exemplo “Olá, *João*”. Para mais informações, cheque a **[Documentação de Formatos do WhatsApp.](https://faq.whatsapp.com/en/android/26000002/)**
 
