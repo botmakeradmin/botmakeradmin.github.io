@@ -34,5 +34,5 @@ Para trasferir um cliente a uma Fila diferente, encontra-se a opção Send user 
 
 Poderá ser selecionada a Fila para a qual a conversa será transferida, se essa tiver agentes disponíveis.
 
-![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/choose.PNG)
+![Choose](https://botmakeradmin.github.io/docs/pt/imagens/choose.PNG)
 
