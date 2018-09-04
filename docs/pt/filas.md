@@ -20,7 +20,7 @@ A configuração de cada um dos agentes será realizada na tela de Funções, se
 
 Na seção de reports em tempo real, aparecerão as métricas agregadas por Filas, incluindo o número de transferências para cada uma.
 
-![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/dashboard.png)
+![Dashboards](https://botmakeradmin.github.io/docs/pt/imagens/dashboard.PNG)
 
 ## Transferência de Filas
 
