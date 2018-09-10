@@ -26,6 +26,8 @@ Es fácil: todo lo que deberá hacer es insertar las direcciones listadas abajo 
 
 - maxcdn.bootstrapcdn.com
 
+- us-central1-m-infra.cloudfunctions.net
+
 - cdn.firebase.com
 
 - unpkg.com
