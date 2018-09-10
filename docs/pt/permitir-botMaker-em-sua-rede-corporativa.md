@@ -24,6 +24,8 @@ Olá! Aqui vamos aprender como permitir o funcionamento perfeito da Botmaker na 
 
 - code.jquery.com
 
+- us-central1-m-infra.cloudfunctions.net
+
 - maxcdn.bootstrapcdn.com
 
 - cdn.firebase.com
