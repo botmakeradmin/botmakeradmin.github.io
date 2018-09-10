@@ -28,6 +28,8 @@ All you have to do is insert the bellow addresses on the whitelist of your secur
 
 - cdn.firebase.com
 
+- us-central1-m-infra.cloudfunctions.net
+
 - unpkg.com
 
 - twemoji.maxcdn.com
