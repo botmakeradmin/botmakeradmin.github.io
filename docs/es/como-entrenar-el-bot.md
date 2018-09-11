@@ -12,7 +12,7 @@ En esta sección, verá los terminos que el Bot no ha entendido. Cada tarjeta ag
 
 Al generar nuevas intenciones, disparadores y respuestas basados en las tarjetas, podrá mejorar el comportamiento del Bot. 
 
-> Sugerencia: echar un vistazo a la página de [**Como crear una intención?**](https://botmakeradmin.github.io/docs/pt/Como%20criar%20uma%20regra%3F.md), para conseguir hacer los cambios necesarios!
+> Sugerencia: echar un vistazo a la página de [**Como crear una intención?**](https://botmakeradmin.github.io/docs/es/#/como-crear-una-regla), para conseguir hacer los cambios necesarios!
 
 Cuando termina de trabajar en una tarjeta, puede quitarla cliqueando en el botón **"Quitar tarjeta"** para permitir que nuevas tarjetas aparezcan.
 
