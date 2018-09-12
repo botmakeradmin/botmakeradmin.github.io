@@ -170,18 +170,12 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 - E, finalmente, efetuar a chamada ao endpoint:
 
 ```bash
- curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
-  --header  "Content-Type: application/json" \
-  --header 'access-token: tu_access_token" \
-  -d '{
-    "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ex: 5511931111234
-    "ruleNameOrId": "nombre_de_regla",           // por ex: "minha regra"
-    "params": {
-       "firstName": "Juan",
-       "nombre_otro_param": "valor_otro_param"
-    }
-  }'
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"namespace":"my_ns", "templates":"your_template"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
+
+# your_token: your access token
+# your_phone_number: whatsapp number of yours
+# user_phone_number: whatsapp number of user
+# rule_name: botmaker rule name
 ```
 
 ### Mensagens multimídia 
@@ -190,14 +184,12 @@ A Botmaker permite enviar todas os tipos de mensagens multimídia suportados pel
 Também se pode chamar o serviço de ativação de regras desde o seu sistema, por exemplo:
 
 ```bash
- curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
-  --header  "Content-Type: application/json" \
-  --header 'access-token: tu_access_token" \
-  -d '{
-    "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ex: 551191111234
-    "ruleNameOrId": "nombre_de_regla",           // por ex: "minha regra"
-  }'
+ curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"param_key_1":"param_value_1"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
+
+# your_token: your access token
+# your_phone_number: whatsapp number of yours
+# user_phone_number: whatsapp number of user
+# rule_name: botmaker rule name
 ```
 
 ### Alterações no estado das mensagens enviadas
