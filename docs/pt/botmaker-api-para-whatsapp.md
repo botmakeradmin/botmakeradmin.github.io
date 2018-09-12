@@ -108,15 +108,13 @@ Para isso, deve-se:
 - Com o acesso ao token, será possível efetuar o chamado HTTP Post ao API rest com um JSON:
 
 ```bash
- curl -X POST https://go.botmaker.com/api/v1.0/message/v3 \
-  --header  "Content-Type: application/json" \
-  --header 'access-token: tu_access_token" \
-  -d '{
-    "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ex: 5511931111234
-    "messageText": "mensaje_a_enviar",
-  }'
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: tu_access_token' -d '{ \ 
+   "chatPlatform": "whatsapp", \ 
+   "platformContactId": "user_phone", \  // ie: 5591131111234
+   "messageText": "message_to_send" \             // ie: hey
+ }' 'https://go.botmaker.com/api/v1.0/message/v3'
 ```
+
 
 - A resposta será um **http code 200** com um JSON indicando o ID da mensagem gerada:
 
