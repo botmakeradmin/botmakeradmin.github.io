@@ -117,8 +117,8 @@ Para ellos debes:
 ```bash
 curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: tu_access_token' -d '{ \ 
    "chatPlatform": "whatsapp", \ 
-   "platformContactId": "telefono_del_usuario", \  // por ej: 5491131111234
-   "messageText": "mensaje_a_enviar" \             // por ej: hola
+   "platformContactId": "telefono_del_usuario", \
+   "messageText": "mensaje_a_enviar" \           
  }' 'https://go.botmaker.com/api/v1.0/message/v3'
 ```
 
