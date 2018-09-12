@@ -170,7 +170,7 @@ O WhatsApp permite enviar mensagens aos usuários em até 24 horas depois da úl
 - E, finalmente, efetuar a chamada ao endpoint:
 
 ```bash
-curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"namespace":"my_ns", "templates":"your_template"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"my_template_var":"var_value"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
 
 # your_token: your access token
 # your_phone_number: whatsapp number of yours
