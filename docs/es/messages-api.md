@@ -179,18 +179,12 @@ utilizando el endpoint **intent** y realizando los siguientes pasos:
 
 
 ```bash
- curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
-  --header  "Content-Type: application/json" \
-  --header 'access-token: tu_access_token" \
-  -d '{
-    "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
-    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
-    "params": {
-       "firstName": "Juan",
-       "nombre_otro_param": "valor_otro_param"
-    }
-  }'
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"namespace":"my_ns", "templates":"your_template"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
+
+# your_token: your access token
+# your_phone_number: whatsapp number of yours
+# user_phone_number: whatsapp number of user
+# rule_name: botmaker rule name
 ```
 
 
@@ -202,14 +196,12 @@ siguiendo la información de **[Como crear respuestas](https://botmakeradmin.git
 Luego puedes llamar al servicio de activación de reglas desde tu sistema. Por ejemplo:
 
 ```bash
- curl -X POST https://go.botmaker.com/api/v1.0/intent/v2 \
-  --header  "Content-Type: application/json" \
-  --header 'access-token: tu_access_token" \
-  -d '{
-    "chatPlatform": "whatsapp",
-    "platformContactId": "telefono_del_usuario", // por ej: 5491131111234
-    "ruleNameOrId": "nombre_de_regla",           // por ej: "mi regla"
-  }'
+ curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone_number", "platformContactId": "user_phone_number", "ruleNameOrId": "rule_name", "params": {"param_key_1":"param_value_1"}}' 'https://go.botmaker.com/api/v1.0/intent/v2'
+
+# your_token: your access token
+# your_phone_number: whatsapp number of yours
+# user_phone_number: whatsapp number of user
+# rule_name: botmaker rule name
 ```
 
 
