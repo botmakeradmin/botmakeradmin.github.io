@@ -225,6 +225,20 @@ Posteriormente a enviar un mensaje a un usuario, tu endpoint va a recibir notifi
 
 > si un usuario desactiva esta opción desde su configuración de privacidad, estos mensajes no va a ser recibidos.
 
+### Chequear validez de números de contactos de WhatsApp
+
+Es posible verificar si un número de teléfono es válido para WhatsApp, y alternativamente obtener el formato adecuado de ese número.
+
+El endpoint para verificar es el siguiente:
+
+```bash
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_token' -d '{"chatChannelNumber": "your_phone_number", "contacts": ["user_phone"]}' 'https://go.botmaker.com/api/v1.0/customer/checkWhatsAppContact'
+
+# your_token: your access token
+# your_phone_number: whatsapp number of yours
+# contacts: an array of users phones
+```
+
 
 ### Aplicar formato a mensajes desde API
 
