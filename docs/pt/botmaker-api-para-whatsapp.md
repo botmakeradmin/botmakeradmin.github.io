@@ -12,7 +12,7 @@ Você poderá começar a enviar mensagens sem a necessidade de programar, atrav�
 
 ## Considerações iniciais
 
-- O processo de aprovação da sua conta ??WhatsApp Business/Enterprise?? só acontece uma única vez. Quando aprovada, você poderá começar de imediato a utilizar nosso sandbox para desenhar o seu processo de atendimento, seja ele manual ou automático.
+- O processo de aprovação da sua conta só acontece uma única vez. Quando aprovada, você poderá começar de imediato a utilizar nosso sandbox para desenhar o seu processo de atendimento, seja ele manual ou automático.
 
 - Uma vez integrado à Botmaker, há duas maneiras de iniciar uma conversa com seus usuários:
 
