@@ -108,27 +108,8 @@ _Por exemplo:_
 const userFirstName = context.userData.FIRST_NAME;
 ```
 
-## O objeto *userSession*
-
-Esse objeto permite ler e escrever variáveis que irão durar uma sessão do usuário. É um local muito útil para guardar dados relacionados à atual conversa.
-
-> Generalizando, uma sessão é expirada após 1 hora de inatividade do usuário. 
-
-> Tenha em mente que os valores terão de ser do tipo de *string*
-
-- Para ler um valor: ```userSession.get('valueKey')``` => retornará uma string com valor ou nula
-- Para escrever um valor: ```userSession.set('valueKey', 'value')```
-
-_Por exemplo:_
-
-```javascript
-if ( !userSession.get('userJustTalked') )
-  userSession.set('userJustTalked', 'true');
-```
-_após 1 hora de inatividade, userJustTalked será nulo novamente_
-
 ## O objeto _user_
-Esse objeto permite ler e escrever variáveis que persistirão ao usuário para sempre. É um local muito útil para guardar dados relacionados ao usuário.
+Esse objeto permite ler e escrever variáveis que persistirão ao usuário. É um local muito útil para guardar dados relacionados ao usuário.
 
 > Tenha em mente que os valores terão de ser do tipo de *string*
 
@@ -142,6 +123,10 @@ if ( !user.get('neverWasHere') )
   user.set('neverWasHere', 'true');
 ```
 _o valor neverWasHere será true para sempre, ou até quando outra ação de cliente configurar um valor diferente_
+
+_Na seção de [configuração de variáveis](https://go.botmaker.com/#/variables) é possivel alterar o tipo da variável e definir se é a mesma estará visível para os agentes que atendem os chats._
+
+_Também é possível que a variável expire juntamente com a seção, ou seja, depois de uma hora de inatividade._
 
 ## O objeto _entityLoader_
 

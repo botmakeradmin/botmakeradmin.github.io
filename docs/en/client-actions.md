@@ -104,28 +104,8 @@ For example:
 const userFirstName = context.userData.FIRST_NAME;
 ```
 
-## The _userSession_ object
-
-Allows to read and write variables that will last for a user's session. This is a useful place to store data related to the current conversation. 
-
->Generally speaking, a session is deleted after 1 hour of inactivity from the user.
-
->Keep in mind that values have to be of type string
-
-- To read a value: ```userSession.get('valueKey')``` => will return a string value or null
-- To write a value: ```userSession.set('valueKey', 'value')```
-
-For example:
-
-```javascript
-if ( !userSession.get('userJustTalked') )
-  userSession.set('userJustTalked', 'true');
-```
-  
-_After 1 hour of inactivity, userJustTalked will be null again._
-
 ## The _user_ object
-Allows to read and write variables that will persist in the user forever. This is a useful place to store data related to the user. 
+Allows to read and write variables that will persist in the user. This is a useful place to store data related to the user. 
 
 >Keep in mind that values have to be of type string.
 
@@ -139,6 +119,10 @@ if ( !user.get('neverWasHere') )
   user.set('neverWasHere', 'true');
 ```
 _neverWasHere value will be true forever and when another client action set a different value._
+
+_At section [variables configuration](https://go.botmaker.com/#/variables) you can change the variable type and if it is visible to the agents._
+
+_It is also possible to make a variable expires with the session after 1 hour of inactivity._
 
 ## The _entityLoader_ object
 When a CVS file is uploaded in "**Entities**" menu of the platform, Client Actions will have access to it. For instance, a store list can be filtered and showed to the user based on his location:

@@ -108,27 +108,8 @@ _Por ejemplo:_
 const userFirstName = context.userData.FIRST_NAME;
 ```
 
-## El objeto *userSession*
-
-Este objeto permite leer y escribir variables que duran la sesión del usuario. Es muy útil para guardar datos relacionados a la conversación actual.
-
-> Generalizando, una sesión está expirada despues de 1 hora de inactividad del usuario. 
-
-> Tenga en cuenta que los valores tendrán que ser de tipo *string*
-
-- Para leer un valor: ```userSession.get('valueKey')``` => devolverá una string con un valor o nula
-- Para escribir un valor: ```userSession.set('valueKey', 'value')```
-
-_Por ejemplo:_
-
-```javascript
-if ( !userSession.get('userJustTalked') )
-  userSession.set('userJustTalked', 'true');
-```
-_Después de 1 hora de inactividad, userJustTalked será nulo nuevamente_
-
 ## El objeto _user_
-Este objeto permite leer y escribir variables que persistirán en el usuario para siempre. Es muy util para guardar datos relacionados con el usuario.
+Este objeto permite leer y escribir variables que persistirán en el usuario. Es muy util para guardar datos relacionados con el usuario.
 
 > Tenga presente que los valores tendrán que ser de tipo *string*
 
@@ -142,6 +123,10 @@ if ( !user.get('neverWasHere') )
   user.set('neverWasHere', 'true');
 ```
 _El valor neverWasHere será true para siempre, o hasta cuando otra acción de cliente configure un valor diferente_
+
+_En la sección de [configuración de variables](https://go.botmaker.com/#/variables) se puede cambiar el tipo de la variable y si es visible a los agentes que atienden conversaciones._
+
+_También es posible que la variable expire con la sesión, es decir, luego de 1 hora de inactividad._
 
 ## El objeto _entityLoader_
 
