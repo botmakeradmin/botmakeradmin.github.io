@@ -2,7 +2,7 @@
 
 Olá! Aqui vamos aprender como configurar filas na Botmaker.
 
-Uma fila de atenção é uma unidade que oderna como usuários serão assignados a agentes. Um usuário se encontra em uma única fila de atenção a todo momento, começando em DEFAULT. Já um agente pode ter uma ou mais filas de atenção assignadas, e poderá atender usuários em qualquer uma delas.
+Uma fila de atenção é uma unidade que organiza como usuários serão assignados a agentes. Um usuário se encontra em uma única fila de atenção a todo momento, começando em DEFAULT. Já um agente pode ter uma ou mais filas de atenção assignadas, e poderá atender usuários em qualquer uma delas.
 
 ## Configuração de Filas
 
