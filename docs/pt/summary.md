@@ -1,3 +1,4 @@
+* [Guia Inicial](guia-inicial.md)
 * [Melhores práticas no desenvolvimento de um Bot](melhores-práticas-no-desenvolvimento-de-um-bot.md)
 * [Cadastro e Administração de Usuários](cadastro-e-administração-de-usuários.md)
 * [Operação da Janela de Chats Híbrida](operação-da-janela-de-chat-híbrido.md)
