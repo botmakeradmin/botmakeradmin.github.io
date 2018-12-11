@@ -1,6 +1,6 @@
-# Botmaker Documentation Home Page
+# Página inicial da Documentação Botmaker 
 
-Olá! Seja bem vindo à documentação da Botmaker. Aqui, você consegue tirar dúvidas sobre as principais funções da plataforma.
+Olá! Seja bem vindo à documentação da Botmaker. Aqui, você consegue tirar dúvidas sobre as principais funções da plataforma. Caso seja um novo usuário, segue um guia para que você não perca nenhum ponto do console.
 
 ## Primeiros Passos:
 Para iniciar, recomendamos os seguintes artigos.
