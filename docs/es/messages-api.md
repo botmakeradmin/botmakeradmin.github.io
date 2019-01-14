@@ -204,6 +204,20 @@ Luego puedes llamar al servicio de activación de reglas desde tu sistema. Por e
 # rule_name: botmaker rule name
 ```
 
+Alternativamente se puede usar el servicio normal de mensajería y especificar la URL del archivo de media que se quiere envíar
+
+```bash
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'access-token: your_access_token' -d '{"chatPlatform": "whatsapp", "chatChannelNumber": "your_phone", "platformContactId": "user_phone","audioURL": "audio_to_send", "imageURL": "image_to_send", "fileURL", "file_to_send"}' 'https://go.botmaker.com/api/v1.0/message/v3'
+
+# your_access_token: ey...
+# your_phone: +55135433...
+# user_phone: +5512324314..
+# audio_to_send: https://....my_audio.mp3  
+# image_to_send: https://....my_photo.jpeg
+# file_to_send: https://....my_file.pdf
+```
+
+Puedes elegir uno o varios de los tipos de media para enviar en un mensaje. [Aquí](https://developers.facebook.com/docs/whatsapp/api/media#supported-files) hay una lista de formato de archivo válidos. Por el momento WhatsApp no tiene soporte de video. 
 
 ### Cambios en el estado de los mensajes enviados
 
