@@ -81,9 +81,9 @@ Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
   "audio": "<optional_audio_url>",
   "video": "<optional_video_url>",
   "file": "<optional_file_url>",
-  "image": "<optional_image_url>,
+  "image": "<optional_image_url>",
   "fromCustomer": true,                   // Is the message from the user or from 
-  "WHATSAPP_NUMBER": "<botmaker_connected_whatsapp_line>"
+  "WHATSAPP_NUMBER": "<botmaker_connected_whatsapp_line>",
 }
 ```
 
@@ -215,7 +215,7 @@ Posteriormente a enviar un mensaje a un usuario, tu endpoint va a recibir notifi
 1. **delivered** indica que el mensaje ha sido enviado (doble tilde de WhatsApp) 
 1. **read** indica que el mensaje ha sido leído por el usuario destino (doble tilde azul de WhatsApp) 
 
-```json
+```javascript
 {
   "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
   "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
