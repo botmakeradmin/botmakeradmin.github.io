@@ -69,7 +69,7 @@ a **[https://go.botmaker.com/#/adminconfig](https://go.botmaker.com/#/adminconfi
 Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
 
 - El siguiente ejemplo muestra un mensaje típico de un usuario
-```json
+```javascript
 {
   "date": "2019-01-21T19:39:22.605Z",    // ISO 8601 for message time,
   "chatPlatform": "whatsapp",
@@ -81,9 +81,9 @@ Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
   "audio": "<optional_audio_url>",
   "video": "<optional_video_url>",
   "file": "<optional_file_url>",
-  "image": <optional_image_url>,
-  "fromCustomer":true,                   // Is the message from the user or from 
-  "WHATSAPP_NUMBER":"5491151992014"      // botmaker connected WhatsApp line
+  "image": "<optional_image_url>,
+  "fromCustomer": true,                   // Is the message from the user or from 
+  "WHATSAPP_NUMBER": "<botmaker_connected_whatsapp_line>"
 }
 ```
 
