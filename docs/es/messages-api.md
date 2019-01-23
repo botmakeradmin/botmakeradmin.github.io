@@ -71,32 +71,21 @@ Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
 - El siguiente ejemplo muestra un mensaje típico de un usuario
 ```json
 {
-  "CHAT_PLATFORM_ID": "message_platform", // for instance whatsapp 
-  "MESSAGE": "Hola!",                     // the user message text
-  "CREATION_TIME": "a_date",              // ISO 8601 for message time, for instance 2018-09-03T14:30:24.578Z
-  "FROM_NAME": "user_name",               // name of user if possible
-  "CUSTOMER_ID": "user_id",               // unique id of user
-  "_id_": "message_id",                   // unique id of message
-  "FROM": "phone_number",                 // user phone number
-  "SESSION_CREATION_TIME": "session_id",  // chat session id
-  
-  // other less important fields are also inclused in the message
-  ...
+  "date": "2019-01-21T19:39:22.605Z",    // ISO 8601 for message time,
+  "chatPlatform": "whatsapp",
+  "contactId": "<user_phone>",           // User phone number, for instance 54911...
+  "customerId": "<user_id>",             // User Id on botmaker
+  "fromName": "<nickname_on_whatsapp>",
+  "_id_": "<unique_message_id>",
+  "message": "<optional_message_text>", // One of the following will be present
+  "audio": "<optional_audio_url>",
+  "video": "<optional_video_url>",
+  "file": "<optional_file_url>",
+  "image": <optional_image_url>,
+  "fromCustomer":true,                   // Is the message from the user or from 
+  "WHATSAPP_NUMBER":"5491151992014"      // botmaker connected WhatsApp line
 }
 ```
-
-- También soportamos multimedia (mensajes de voz, audios, documentos, imágenes, etc.), por ejemplo:
-
-```json
-{
-   "FROM_NAME": "user_name",               // name of user if possible
-   "IMAGES_URLS": [
-     "https://botmaker.com/hostedImageByUser.png"
-   ],
-   ...
-}
-```
-
 
 ## Enviando mensajes a los usuarios
 
