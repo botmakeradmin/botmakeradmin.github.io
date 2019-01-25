@@ -87,6 +87,71 @@ Más detalles [aquí](https://cloud.google.com/pubsub/docs/push)
 }
 ```
 
+Otros campos opcionales propios de la plataforma WhatsApp incluyen:
+- Mensajes no soportados por la API
+```
+"error": "Unsupported message"
+```
+- Texto asociado a una imagen, video o archivo
+```
+"caption": "Photo title"
+```
+- Ubicación adjuntada en el mensaje
+```
+"location": {
+    "address":"Main Street Beach, Santa Cruz, CA",
+    "latitude":38.9806263495,
+    "longitude":-131.9428612257,
+    "name":"Main Street Beach"
+}
+```
+- Información de contactos adjuntada en el mensaje
+```
+"contacts": [
+    {
+        "addresses": [
+            {
+                "city": "Menlo Park",
+                "country": "United States",
+                "country_code": "us",
+                "state": "CA",
+                "street": "1 Hacker Way",
+                "type": "HOME",
+                "zip": "94025"
+            }
+        ],
+        "birthday": "2012-08-18",
+        "emails": [
+            {
+                "email": "test@fb.com",
+                "type": "WORK"
+            },
+            {
+                "email": "test@whatsapp.com",
+                "type": "WORK"
+            }
+        ],
+        "name": {
+            "first_name": "John",
+            "formatted_name": "John Smith",
+            "last_name": "Smith"
+        },
+        "org": {
+            "company": "WhatsApp",
+            "department": "Design",
+            "title": "Manager"
+        },
+        "phones": [
+            {
+                "phone": "+1 (650) 555-1234",
+                "type": "WORK",
+                "wa_id": "16505551234"
+            }
+        ]
+    }
+] 
+```
+
 ## Enviando mensajes a los usuarios
 
 Es posible enviar mensajes a los usuarios utilizando la consola del operador, generando notificaciones masivas y programando envíos por diferentes estímulos. 
