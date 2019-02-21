@@ -14,7 +14,7 @@ En la vista de intentiones figura un botón para publicar cambios al estado prod
 ### Intentions Publish View
 Dandole click al botón “Publish”, tendrá una ventana para seleccionar las intenciones deseadas a publicar:
 
-![Publish View](https://github.com/botmakeradmin/botmakeradmin.github.io/blob/master/docs/es/imagenes/Imagem2.png)
+![Publish View](https://botmakeradmin.github.io/docs/es/imagenes/Imagem2.png)
 
 ### Publish Confirmation
 Tendrá que confirmar los cambios a publicar:
