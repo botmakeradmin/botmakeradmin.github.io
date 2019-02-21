@@ -13,3 +13,4 @@
 * [Usar colas para chat manual](colas.md)
 * [Botmaker API para WhatsApp](messages-api.md)
 * [Botmaker API](botmaker-api.md)
+* [Publicación de Cambios](publicacion_de_cambios.md)
