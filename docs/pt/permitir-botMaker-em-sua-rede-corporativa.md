@@ -6,7 +6,7 @@ Olá! Aqui vamos aprender como permitir o funcionamento perfeito da Botmaker na 
 
 É fácil: tudo o que deverá ser feito é inserir os endereços listados abaixo na lista de permissões de sua rede segura.
 
-- go.botmaker.com
+- *.botmaker.com
 
 - *.googleapis.com
 
