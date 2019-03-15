@@ -1,13 +1,12 @@
 # Adicionar uma base de usuários
 
-Last updated 2 hours ago
 Aqui vamos aprender como adicionar sua base de usuários na Botmaker para disparar notificações.
 
 A adição de uma base de dados na plataforma é interessante no momento de enviar notificações a esses usuários. Para acessar essa seção na plataforma, basta entrar no Menu Pushes. Em seu canto inferior direito, clicar em + para ver as opções e em Audiência.
 
+[Opção Audiência na Tela de Pushes](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LYT2N0Q25nhdCZc_eB_%2F-La0ogr5iGogibvguU8I%2F-La0qGPgQA5Y7IkpJd3z%2FCaptura%20de%20Tela%202019-03-15%20a%CC%80s%2011.54.20.png?alt=media&token=3032a84d-499d-48a0-a4b5-5477047c8e88)
 
-Opção Audiência na Tela de Pushes
-Como adicionar uma base?
+## Como adicionar uma base?
 
 Janela de Audiências
 Na janela, a operação é simples:
