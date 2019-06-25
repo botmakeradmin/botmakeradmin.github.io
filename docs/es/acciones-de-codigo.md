@@ -10,7 +10,7 @@ Las acciones del cliente son utiles para el desarrollo de intenciones mas comple
 _Por ejemplo:_
 > Solicitar a un usuario que le diga un color. Después de ser enviado, puede conectar a [Google Translating API](https://cloud.google.com/translate/docs/) para hacer que el bot responda el mismo color en otro idioma.
 
-## Como disparar un código
+# Como disparar un código
 
 Primero, tendrá que crear una Acción de Cliente en la pantalla de **Códigos**. Vea abajo: 
 
@@ -22,7 +22,7 @@ En la intención en que la acción deberá ser disparada, cliquee en "**+Acción
 
 ![Guardar](https://botmakeradmin.github.io/docs/es/imagenes/choosecodeESP.png)
 
-## Caracteristicas de código
+# Caracteristicas de código
 
 Soporta Node.js v6.14.0, junto a la lista de *libraries* abajo:
 
@@ -48,7 +48,7 @@ Soporta Node.js v6.14.0, junto a la lista de *libraries* abajo:
 
 > En el caso que desee usar otra *library*, escribanos un email para [architecture@botmaker.com](mailto:architecture@botmaker.com), y nuestro equipo atenderá la solicitud!
 
-## Input de Acción de Cliente
+# Input de Acción de Cliente
 
 Cuando el código fué disparado, toda información que tenemos del usuario, conversaciones y configuraciones generales serán provistas. La json abajo describe el input que una *Cloud Function* podrá usar.
 
@@ -182,7 +182,7 @@ Es posible ejecutar una intención, después de finalizada la Acción del Client
 result.gotoRule('a rule name');
 ```
 
-## Término de Acción de Cliente
+# Término de Acción de Cliente
 
 ```result.done()``` deberá ser ejecutado cuando una Acción de Cliente se dé por finalizada.
 
@@ -205,3 +205,31 @@ rp({uri: 'https://script.google.com/macros/s/AKfycbyd5AcbAnWi2Yn0xhFRbyzS4qMq1Vu
     });
 ```
 
+# Usando listas personalizadas también conocidas como "JSON List"
+
+Si queremos usar opciones para una pregunta dentro de una regla y que sean construidas dinámicamente, pudiendo cambiar a lo largo del tiempo, podemos lograrlo dándole valor a una variable especial dentro de una Acción de Código que tiene que respetar cierta estructura.
+
+En el código Javascript debemos crear una lista de objetos, cada uno conteniendo los campos "id" y "nombre". En realidad, podemos agregar otras claves a estos objetos, pero no es algo obligatorio.
+Acá va un ejemplo:
+
+'''
+const COUNTRIES = ['Argentina', 'Bolivia', 'Brazil', 'Chile', 'México', 'Paraguay', 'Perú', 'Uruguay'];
+let myJSONList = [];
+
+myJSONList = COUNTRIES.map((country, index) => {
+	return { id: index, name: country };
+});
+
+//result.text(JSON.stringify(myJSONList));
+user.set('countries', JSON.stringify(myJSONList));
+
+result.done();
+'''
+
+Luego, si queremos usar la variable en una intención, necesitamos declarar que los valores válidos para la pregunta son Custom JSON Lists y, por supuesto, referenciar a la variable inicializada en el código de la Acción de Código.
+
+<image1>
+
+Finalmente deberíamos ver algo como esto:
+
+<image2>
