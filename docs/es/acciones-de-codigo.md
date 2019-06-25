@@ -228,8 +228,8 @@ result.done();
 
 Luego, si queremos usar la variable en una intención, necesitamos declarar que los valores válidos para la pregunta son Custom JSON Lists y, por supuesto, referenciar a la variable inicializada en el código de la Acción de Código.
 
-<image1>
+![ ](https://botmakeradmin.github.io/docs/es/image%20(20).png)
 
 Finalmente deberíamos ver algo como esto:
 
-<image2>
+![ ](https://botmakeradmin.github.io/docs/es/image%20(19).png)
