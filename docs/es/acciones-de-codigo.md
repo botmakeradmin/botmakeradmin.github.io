@@ -212,7 +212,7 @@ Si queremos usar opciones para una pregunta dentro de una regla y que sean const
 En el código Javascript debemos crear una lista de objetos, cada uno conteniendo los campos "id" y "nombre". En realidad, podemos agregar otras claves a estos objetos, pero no es algo obligatorio.
 Acá va un ejemplo:
 
-'''
+```
 const COUNTRIES = ['Argentina', 'Bolivia', 'Brazil', 'Chile', 'México', 'Paraguay', 'Perú', 'Uruguay'];
 let myJSONList = [];
 
@@ -224,7 +224,7 @@ myJSONList = COUNTRIES.map((country, index) => {
 user.set('countries', JSON.stringify(myJSONList));
 
 result.done();
-'''
+```
 
 Luego, si queremos usar la variable en una intención, necesitamos declarar que los valores válidos para la pregunta son Custom JSON Lists y, por supuesto, referenciar a la variable inicializada en el código de la Acción de Código.
 
