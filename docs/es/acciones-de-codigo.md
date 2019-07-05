@@ -43,6 +43,7 @@ Soporta Node.js v6.14.0, junto a la lista de *libraries* abajo:
     "secure-random": "^1.1.1", // accessed by "securedRandom" var
     "xml2js": "^0.4.19", // accessed by "xml2js" var
     "xml2json": "^0.11.2"
+    "aws-sdk": "^2.485.0"  // accessed by "awsSdk" var
   }
 ```
 
