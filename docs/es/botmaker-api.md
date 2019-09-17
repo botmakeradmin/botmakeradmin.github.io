@@ -37,3 +37,60 @@ Las variables tienen un tipo (como en los lenguajes de programación) para acota
  Un usuario posee un tag por las siguientes razones: 
 		- El usuario habla sobre un tema específico en el bot, por lo que se tagea automáticamente con ese tema. 
 		- Alguna regla o proceso del bot tagea específicamente al usuario para posterior visualización en métricas o generación de audiencias para envío de mensajes push. 
+
+## /message/download
+El objetivo de este endpoint es obtener la historia de mensajes del bot.
+Cada llamado retorna 500 registros de mensajes, junto con el estado del usuario y operador humano al momento de enviarse el mensaje.
+​
+​
+#### Modo de uso
+El usuario tiene que llamar este servicio periódicamente, guardando los datos retornados en su propia base de datos,
+para despues analizarlos como necesite. Cada pedido actualiza en la api la fecha del último mensaje descargado.
+Cada nuevo llamado continua donde dejo el llamado anterior, sin necesidad de enviar un token de paginado.
+(es por este cambio interno que este metodo es un POST).
+​
+La estructura del JSON devuelto es:
+```
+{
+    hasMore: Boolean (si hay mas mensajes para pedir; usarlo como condicion de loop)
+    messages: Lista de mensajes
+    count: cantidad de mensajes
+}
+```
+​
+Estos son algunos de los campos de los objetos mensajes:
+- id
+- campos de tiempo: creation_time, message_date, message_year, message_month, message_week, message_day, message_quarter, message_dayofweek, message_time, message_hour, message_minute, message_second, message_day_name, message_semester, message_bimester
+- msg_from, msg_to (`me` es un usuario y `bot` la plataforma)
+- message
+- chat_channel_id: el canal del mensaje (webchat, whatsApp, messenger, etc).
+- datos del usuario: customer_id, customer_last_seen, customer_platform_contact_id, customer_first_name, customer_last_name, customer_email, customer_has_talked
+- datos del usuario en el bot: campos uservar_*.
+​
+#### Ejemplo de invocacion
+El siguiente es un ejemplo en node.js de cómo tiene que consumirse este servicio:
+​
+```
+const rp = require('request-promise');
+​
+(async () => {
+    let results = await rp.post(
+        'https://go.botmaker.com/api/v1.0/message/download',
+        { headers: { 'access-token': 'your-bot-access-token' }, json: true }
+    );
+​
+    while (results.hasMore) {
+        results = await rp.post(
+            'https://go.botmaker.com/api/v1.0/message/download',
+            { headers: { 'access-token': 'your-bot-access-token' }, json: true }
+        );
+        results.messages.forEach(message => saveInDB(message));
+    }
+​
+    console.log('done!')
+})();
+```
+​
+#### Parametro fromDate
+El parámetro _fromDate_ permite rebobinar el puntero interno para volver a pedir los datos en caso de error al guardarlos.
+_fromDate_ puede ser como mínimo 1 semana anterior al momento actual.
