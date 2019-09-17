@@ -40,6 +40,7 @@ Las variables tienen un tipo (como en los lenguajes de programación) para acota
 
 ### Messages
 **/message/download**
+
 El objetivo de este endpoint es obtener la historia de mensajes del bot.
 Cada llamado retorna 500 registros de mensajes, junto con el estado del usuario y operador humano al momento de enviarse el mensaje.
 ​
