@@ -38,7 +38,8 @@ Las variables tienen un tipo (como en los lenguajes de programación) para acota
 		- El usuario habla sobre un tema específico en el bot, por lo que se tagea automáticamente con ese tema. 
 		- Alguna regla o proceso del bot tagea específicamente al usuario para posterior visualización en métricas o generación de audiencias para envío de mensajes push. 
 
-## /message/download
+### Messages
+**/message/download**
 El objetivo de este endpoint es obtener la historia de mensajes del bot.
 Cada llamado retorna 500 registros de mensajes, junto con el estado del usuario y operador humano al momento de enviarse el mensaje.
 ​
