@@ -197,18 +197,6 @@ el servicio va a devolver un **http code 403 - Forbidden** indicando que no hay 
 }
 ```
 
-> cada vez que un mensaje es enviado al usuario, se efectua un chequeo para determinar si el mensaje va a ser rechazado por WhatsApp ya que el usuario no habló
-con la plataforma desde hace 24hs. Ver la sección **Templates messages** para más información.
-
-```json
-{
-  "error": {
-    "code": 201,
-    "message": "User window is over 24 hours"
-  }
-}
-```
-
 
 ### Templates messages
 
